@@ -8,7 +8,7 @@ import json
 import os
 from datetime import datetime, timezone, timedelta
 
-from common import ROOT, DATA
+from common import ROOT, DATA, load_yaml
 
 KST = timezone(timedelta(hours=9))
 START, END = "<!--RADAR:START-->", "<!--RADAR:END-->"
@@ -76,11 +76,24 @@ def section_news(rows: list[dict]) -> str:
 
 
 def section_reports(rows: list[dict]) -> str:
-    if not rows:
-        return "> 회계법인 리포트 수집 결과 없음\n"
-    out = ["| 법인 | 리포트 |", "|---|---|"]
-    for r in rows[:20]:
-        out.append(f"| {r['firm']} | [{r['title'][:60]}]({r['url']}) |")
+    out = []
+    if rows:
+        out += ["**최근 수집된 발간물**\n", "| 법인 | 리포트 |", "|---|---|"]
+        for r in rows[:20]:
+            out.append(f"| {r['firm']} | [{r['title'][:60]}]({r['url']}) |")
+        out.append("")
+    else:
+        out.append("> 이번 수집에서 신규 발간물 없음\n")
+
+    # 상시 큐레이션 링크 (자동 수집 성패와 무관하게 항상 노출)
+    try:
+        curated = load_yaml("sources.yml").get("curated", [])
+    except Exception:  # noqa: BLE001
+        curated = []
+    if curated:
+        out += ["**TMT 인사이트 허브** (상시 링크)\n", "| 법인 | 페이지 |", "|---|---|"]
+        for c in curated:
+            out.append(f"| {c['firm']} | [{c['name']}]({c['url']}) |")
     return "\n".join(out) + "\n"
 
 

@@ -70,7 +70,7 @@ python scripts/build_dashboard.py
 > 교체되며, 커밋 히스토리에 주차별 리서치 기록이 쌓입니다. 수동 실행은 Actions 탭 → Run workflow.
 
 <!--RADAR:START-->
-_최종 갱신: 2026-08-06 13:33 KST_
+_최종 갱신: 2026-08-06 14:29 KST_
 
 **수집 현황** — DART 공시 170 · 뉴스 327 · 회계법인 리포트 2
 
@@ -172,10 +172,23 @@ _구분: 🔴회계신호 13 · 🔵회계이슈 12 · 일반 302_
 | 일반 | 게임 | 펄어비스 | [[주말엔게임]매출 1兆 이어간 크래프톤…엔씨·펄어비스도 '맑음' 기대 - v](https://news.google.com/rss/articles/CBMiT0FVX3lxTE54RVJBYV9pV0ZYSUlLd3dIZHgyTVRoZVpNTE1sekRzbjBhYjFxdi05cTZjWDNUOEg4NEVHQXFsUk1NdHFOczU2QmNBR0dTWFE?oc=5) | - | v.daum.net |
 
 ### 🏢 회계법인 산업 리포트
+**최근 수집된 발간물**
+
 | 법인 | 리포트 |
 |---|---|
 | 삼정KPMG | [AI가 뒤흔든 콘텐츠 산업의 지형과 성장 전략](https://kpmg.com/kr/ko/insights/eri/2026/issuemonitor-0528.html) |
 | EY한영 | [통신사는 어떻게 B2B 성장 전망을 재정의 할 수 있을까요?](https://www.ey.com/ko_kr/insights/telecommunications/reimagining-industry-futures-study-2026) |
+
+**TMT 인사이트 허브** (상시 링크)
+
+| 법인 | 페이지 |
+|---|---|
+| 삼일PwC | [IT·플랫폼 산업 (Software·AI·E-commerce)](https://www.pwc.com/kr/ko/industry/it-platform.html) |
+| 삼일PwC | [Industry Focus (산업별 보고서)](https://www.pwc.com/kr/ko/insights/industry-focus.html) |
+| 삼정KPMG | [경제연구원 이슈모니터 (콘텐츠·미디어·게임)](https://kpmg.com/kr/ko/insights/eri.html) |
+| 딜로이트 | [첨단기술·미디어·통신(TMT) 부문](https://www.deloitte.com/kr/ko/Industries/tmt.html) |
+| 딜로이트 | [통신·미디어·엔터테인먼트 산업](https://www.deloitte.com/kr/ko/Industries/telecom-media-entertainment.html) |
+| EY한영 | [EY Korea Insights](https://www.ey.com/ko_kr/insights) |
 
 <!--RADAR:END-->
 

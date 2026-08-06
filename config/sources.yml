@@ -1,31 +1,58 @@
-# 회계법인 산업별 회계 리포트 / 인사이트 소스
-# type: rss | html
-# scripts/report_collector.py 가 여기 등록된 소스에서 신규 발간물을 수집
+# 회계법인 산업 리포트 / 인사이트 소스
+#
+# [구조]
+#  firms   — 자동 수집 대상. report_collector.py 가 신규 발간물을 긁는다.
+#  curated — 상시 제공 링크(수동 관리). 대형 회계법인 사이트는 리포트 목록을
+#            JavaScript로 렌더링해 정적 크롤러로는 실제 발간물이 잡히지 않는다.
+#            헤드리스 브라우저는 CI에서 불안정하므로, TMT 인사이트 허브를
+#            큐레이션 링크로 고정 제공하고 자동 수집은 보조로 둔다.
 
 firms:
-  - firm: 삼일PwC
-    name: PwC Korea Insights
-    url: https://www.pwc.com/kr/ko/insights.html
+  # 실제로 정적 HTML에서 발간물이 잡히는 곳 위주
+  - firm: 삼정KPMG
+    name: KPMG 경제연구원(ERI)
+    url: https://kpmg.com/kr/ko/insights/eri.html
     type: html
-    focus: [TMT, 엔터미디어, 회계기준]
+    focus: [미디어통신, 게임, 콘텐츠]
 
   - firm: 삼정KPMG
-    name: KPMG 경제연구원 / 삼정인사이트
-    url: https://kpmg.com/kr/ko/home/insights.html
+    name: 삼정KPMG Insights
+    url: https://kpmg.com/kr/ko/insights.html
     type: html
-    focus: [미디어통신, 게임, IFRS]
-
-  - firm: 딜로이트
-    name: Deloitte Korea Insights
-    url: https://www.deloitte.com/kr/ko/our-thinking.html
-    type: html
-    focus: [TMT, IFRS인사이트]
+    focus: [IFRS, 감사위원회]
 
   - firm: EY한영
     name: EY Korea Insights
     url: https://www.ey.com/ko_kr/insights
     type: html
     focus: [TMT, 미디어엔터, IFRS]
+
+  - firm: 삼일PwC
+    name: PwC Korea Insights
+    url: https://www.pwc.com/kr/ko/insights.html
+    type: html
+    focus: [TMT, 엔터미디어, 회계기준]
+
+# TMT 인사이트 허브 — README에 상시 노출 (자동 수집 성패와 무관하게 유지)
+curated:
+  - firm: 삼일PwC
+    name: IT·플랫폼 산업 (Software·AI·E-commerce)
+    url: https://www.pwc.com/kr/ko/industry/it-platform.html
+  - firm: 삼일PwC
+    name: Industry Focus (산업별 보고서)
+    url: https://www.pwc.com/kr/ko/insights/industry-focus.html
+  - firm: 삼정KPMG
+    name: 경제연구원 이슈모니터 (콘텐츠·미디어·게임)
+    url: https://kpmg.com/kr/ko/insights/eri.html
+  - firm: 딜로이트
+    name: 첨단기술·미디어·통신(TMT) 부문
+    url: https://www.deloitte.com/kr/ko/Industries/tmt.html
+  - firm: 딜로이트
+    name: 통신·미디어·엔터테인먼트 산업
+    url: https://www.deloitte.com/kr/ko/Industries/telecom-media-entertainment.html
+  - firm: EY한영
+    name: EY Korea Insights
+    url: https://www.ey.com/ko_kr/insights
 
 # 회계기준 원문 / 해석 (근거 링크용)
 standards:

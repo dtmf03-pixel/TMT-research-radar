@@ -1,0 +1,37 @@
+# 회계법인 산업별 회계 리포트 / 인사이트 소스
+# type: rss | html
+# scripts/report_collector.py 가 여기 등록된 소스에서 신규 발간물을 수집
+
+firms:
+  - firm: 삼일PwC
+    name: PwC Korea Insights
+    url: https://www.pwc.com/kr/ko/insights.html
+    type: html
+    focus: [TMT, 엔터미디어, 회계기준]
+
+  - firm: 삼정KPMG
+    name: KPMG 경제연구원 / 삼정인사이트
+    url: https://kpmg.com/kr/ko/home/insights.html
+    type: html
+    focus: [미디어통신, 게임, IFRS]
+
+  - firm: 딜로이트
+    name: Deloitte Korea Insights
+    url: https://www.deloitte.com/kr/ko/our-thinking.html
+    type: html
+    focus: [TMT, IFRS인사이트]
+
+  - firm: EY한영
+    name: EY Korea Insights
+    url: https://www.ey.com/ko_kr/insights
+    type: html
+    focus: [TMT, 미디어엔터, IFRS]
+
+# 회계기준 원문 / 해석 (근거 링크용)
+standards:
+  - name: 한국채택국제회계기준(K-IFRS) 기준서
+    url: https://www.kasb.or.kr
+  - name: 금융감독원 회계포털
+    url: https://acct.fss.or.kr
+  - name: DART 전자공시
+    url: https://dart.fss.or.kr

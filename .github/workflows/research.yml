@@ -1,6 +1,7 @@
 name: research-radar
 
-# 매주 월요일 08:00 KST(월 23:00 UTC 일요일) 자동 실행 + 수동 실행 가능
+# 매주 월요일 08:00 KST(월 23:00 UTC 일요일) 자동 실행 + 수동 실행 가능.
+# 뉴스 보드(docs/index.html)는 갱신 주기가 달라 news-board.yml 로 분리했다.
 on:
   schedule:
     - cron: "0 23 * * 0"
@@ -8,6 +9,11 @@ on:
 
 permissions:
   contents: write   # 갱신된 README/데이터 커밋용
+
+# news-board.yml 과 커밋이 겹치지 않게 같은 그룹으로 묶는다.
+concurrency:
+  group: radar-commit
+  cancel-in-progress: false
 
 jobs:
   collect:
@@ -46,5 +52,7 @@ jobs:
           git config user.name "research-radar-bot"
           git config user.email "actions@github.com"
           git add -A
-          git diff --staged --quiet || git commit -m "chore: weekly research update $(date +%F)"
+          git diff --staged --quiet && exit 0
+          git commit -m "chore: weekly research update $(date +%F)"
+          git pull --rebase --autostash origin ${GITHUB_REF_NAME}
           git push

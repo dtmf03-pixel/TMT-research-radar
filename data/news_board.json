@@ -1,0 +1,1356 @@
+{
+  "generated_at": "2026-08-10T21:17:23.009852+09:00",
+  "window_days": 2,
+  "period_from": "2026.08.08",
+  "period_to": "2026.08.10",
+  "total_articles": 756,
+  "company_count": 11,
+  "sectors": [
+    {
+      "name": "통신·전자",
+      "color": "#2563eb",
+      "companies": [
+        {
+          "name": "SK텔레콤",
+          "stock_code": "017670",
+          "found": 100,
+          "story_count": 37,
+          "search_url": "https://news.google.com/search?q=SK%ED%85%94%EB%A0%88%EC%BD%A4%20OR%20SKT%20when%3A2d&hl=ko&gl=KR&ceid=KR:ko",
+          "articles": [
+            {
+              "title": "[리포트] SKT “AI로 독립운동가 발자취 되새긴다”...'기억하길' 캠페인 전개",
+              "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15THFfSW45aWVmTmg4M1ZoTUJXSFVkc205cVVMWDFVTEFIRGI2Qk5sYkl0N1RhcXlnQkgwalZ3RU1TdEt2OE1PNXFHdldHUmJUZXFlUzdjY0tqZ2tWOTJRSDY4ZnBxdk0?oc=5",
+              "source": "팍스경제TV",
+              "published": "2026-08-10T17:30:26+09:00",
+              "rank": 1,
+              "outlet_count": 44,
+              "score": 138
+            },
+            {
+              "title": "대법 \"개인정보 가명처리, 처리정지 대상 아냐\"…SKT 최종 승소",
+              "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQUU42OE9VWUNmRnpVZUJVX2FkZklnQXQzVGpYcWdCNkwyQzZLMUlsUDBaVjRWbFNqXzZkMWxaNm5KQ0RZdTFQUThoSXZSdGJ2RC04UEJ6Sm9mZzFRUGJRSzlSS2h4ZThtSVN6Zl9LNlZRUHZTQkVoQTRUUl9UajVoeFV1eFN1RHNFVlYzX0tUM1hjRllLeklJNjVVRGFnLTRFX1pOSHR5ZlhoUTBubWxMUDFtckticmFWSURvQnFUdVF5OGNfQTc5b0ZvRGttM1hJR2VONDFDUHp0LTVBa1ZKd1N0cEtwMzd2VVZyRGpsaTE0U3JGU1RsNjBRVFNXQ2h3RGYxX01LWFFvZlpiOHRoTUl4RF9MSlNxZmtKZkJDUUdtRTQ?oc=5",
+              "source": "데일리안",
+              "published": "2026-08-10T15:30:00+09:00",
+              "rank": 24,
+              "outlet_count": 6,
+              "score": 23
+            },
+            {
+              "title": "AI로 되살아난 1만8776명의 독립운동가…SKT, 광복 81주년 코스 조성",
+              "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1FeGtvMWt0cEdQYnR2UVdVZFVUZkoxamF5S2xmM3RBRENQS0ZmUEVYemJmdXBsYVdnQVItR2poMzd1NFlmZjdBcUtMZXV4OUpXNGlIWFJPcGkwcWNqaWlQbW0wMVRtUdIBZkFVX3lxTE1FeGtvMWt0cEdQYnR2UVdVZFVUZkoxamF5S2xmM3RBRENQS0ZmUEVYemJmdXBsYVdnQVItR2poMzd1NFlmZjdBcUtMZXV4OUpXNGlIWFJPcGkwcWNqaWlQbW0wMVRtUQ?oc=5",
+              "source": "동아일보",
+              "published": "2026-08-10T15:23:00+09:00",
+              "rank": 5,
+              "outlet_count": 3,
+              "score": 15
+            },
+            {
+              "title": "[기업] \"독립운동 발자취 따라서\"...SKT 광복절 달리기 코스 제공",
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQc1lCeDZrbnM2alZNSkRmd3lqR1JOOXBUaXFheXNqSThDTkI2ZjVSc2tHM0xiUEhsLVdKbTVFYjlBcnZMM3lyOG9HOUJZaTNhb3liTDJtWWY4RmswUFVfQ2xMMm56c1FrUVJZTUllNTBTSnFGSi01dk0xczhJWDF1RGlXWQ?oc=5",
+              "source": "ytn.co.kr",
+              "published": "2026-08-10T18:50:00+09:00",
+              "rank": 7,
+              "outlet_count": 3,
+              "score": 13
+            },
+            {
+              "title": "SKT, AI로 독립운동가 1만8000여명 발자취 되살린다…전국 10개 코스 조성",
+              "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBPYldWMHNpeW8yOTRsSFRWbkd6cV9PR1hlMzBhY0l2aTFMdmVIMFJDcWtUOGhBWGNUSU13b1k0M1ZXVzZXMVY0d01kOS1ydw?oc=5",
+              "source": "dt.co.kr",
+              "published": "2026-08-10T17:44:52+09:00",
+              "rank": 2,
+              "outlet_count": 2,
+              "score": 12
+            },
+            {
+              "title": "\"SKT ADR, 30% 세일중\"…美 모닝스타 \"앤트로픽 간접투자 매력\"",
+              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9odWg4U2J0dEx1LXVzTkVOTjkzOVlmbXgyUFZXRjVHLU5JdEsyNzJVeWxOX3JwbHVHWEZyNkxoc0tLT2JYQjF1TE9uT3FoODdGSGZMcW41Sk1ubnRfWmhLMg?oc=5",
+              "source": "뉴스1",
+              "published": "2026-08-10T15:28:57+09:00",
+              "rank": 27,
+              "outlet_count": 2,
+              "score": 11
+            },
+            {
+              "title": "SKT, ‘테이블 데이’ 서울 행사 성료",
+              "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9ydkRuMENEdW41RlkwcE56cmMwNXJRUXpFY0EtTXJpYXZRYmxENVJyVzNnM3BMME5lRUpWWWZtMGwwUGxVRy1abw?oc=5",
+              "source": "SK텔레콤 뉴스룸",
+              "published": "2026-08-10T08:20:01+09:00",
+              "rank": 0,
+              "outlet_count": 2,
+              "score": 10
+            },
+            {
+              "title": "SKT·독립기념관, 광복 81주년 맞아 ‘기억하길’ 캠페인 전개",
+              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kQ2RPaEE0MjQ1azIyUTZsb29VOExGVGVKUTBuWXF5X0JINmJ1X0dzTzlBa2hGZVltdTItOGt0bkhEM0NiU1NHZWhTcklfUk9ERHNDa0c5UFB1aXpRVWxKY2lSa2Fjd2YyQjlIX0R4bDA2MmNC?oc=5",
+              "source": "대한경제",
+              "published": "2026-08-10T14:25:14+09:00",
+              "rank": 10,
+              "outlet_count": 2,
+              "score": 9
+            },
+            {
+              "title": "독립투사가 간 길, 후손이 걷는다…SKT ‘광복 81주년 걷기 캠페인’",
+              "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCSmF3RjZsQmRDZ3VMVmtKYUdEYkZmX1dMTXQ5eEVteWcwbTVaRmNidzBtejZlVXNBQnJfVmV5dEx3QTlJbDRrN09zaXlvNXN3Z0HSAVNBVV95cUxPWVF5MWJHSTQybmtYQ2tCeGR1Z2lEckFUbXA2d1F6M2kwVUZKSXI5OUpRa0QtUmQ0TG1HTDFlblR3RnAza0hfc0JISVZUUXBTVkN6NA?oc=5",
+              "source": "서울경제",
+              "published": "2026-08-10T15:22:40+09:00",
+              "rank": 21,
+              "outlet_count": 1,
+              "score": 8
+            },
+            {
+              "title": "SKT, 광복절 맞아 AI로 순국선열 발자취 되살린다",
+              "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zYW1VTnRPWmNwOHJGcklpbHUxS2pWZzhZejRSWEtOVVNnTkwzUk5kX0hPcFBSSm1jejV3X2IwRS0xNnFEWUZzYUJKcmhtSG8?oc=5",
+              "source": "v.daum.net",
+              "published": "2026-08-10T09:01:49+09:00",
+              "rank": 36,
+              "outlet_count": 2,
+              "score": 8
+            },
+            {
+              "title": "SKT, 장기고객 400명 초청 '테이블 데이'…정재헌 대표 직접 맞아",
+              "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Gb09RbzhmaHo4bndvVHliczdDY1pNUF9xdEZNU3VIUVRxNVhTQ1d4ZHJ0dXdINmVaamNFakVtb0pYa3FJTnV2d0Z4RQ?oc=5",
+              "source": "아이뉴스24",
+              "published": "2026-08-10T07:21:02+09:00",
+              "rank": 38,
+              "outlet_count": 2,
+              "score": 8
+            },
+            {
+              "title": "\"통신사 괜히 갈아탔네\"…장기고객 '역대급 혜택' 쏟아졌다",
+              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwdXNKdmhURlRuM1RWRUt2ZFJBVmYydndGMkk1bUtETTdLYW5oYUQyS2txN1J6STJxX2dnZnRLRTA1ZTVHdXNMZlZBaVlmeUtodFNfaF85bktmUQ?oc=5",
+              "source": "한국경제",
+              "published": "2026-08-10T16:43:58+09:00",
+              "rank": 51,
+              "outlet_count": 1,
+              "score": 7
+            }
+          ],
+          "image": "http://www.paxetv.com/news/thumbnail/202608/279074_254786_1558_v150.jpg",
+          "image_alt": "[리포트] SKT “AI로 독립운동가 발자취 되새긴다”...'기억하길' 캠페인 전개",
+          "image_source": "paxetv.com",
+          "image_host": "www.paxetv.com"
+        },
+        {
+          "name": "삼성전자",
+          "stock_code": "005930",
+          "found": 100,
+          "story_count": 57,
+          "search_url": "https://news.google.com/search?q=%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90%20when%3A2d&hl=ko&gl=KR&ceid=KR:ko",
+          "articles": [
+            {
+              "title": "삼성전자·日 NTT 도코모, AI 무선망 통신 품질 최적화 기술 검증 성공",
+              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1DX3ZSVHE3ZnhyejVoV1BBN2dzbjdCNDBaZ2lTOXlhSE03SFZjM09CYU1jdlliUS1jZkppUDR5VHlNRE9QS3BSYTl3ZUhULWQ5WElBTEI3T1NZbGszLXNVeE9KYmZWdG9Bd01hYU1wVU9MSDNW0gF0QVVfeXFMTUNfdlJUcTdmeHJ6NWhXUEE3Z3NuN0I0MFpnaVM5eWFITTdIVmMzT0JhTWN2WWJRLWNmSmlQNHlUeU1ET1BLcFJhOXdlSFQtZDlYSUFMQjdPU1lsazMtc1V4T0piZlZ0b0F3TWFhTXBVT0xIM1Y?oc=5",
+              "source": "주간한국",
+              "published": "2026-08-10T17:11:39+09:00",
+              "rank": 12,
+              "outlet_count": 15,
+              "score": 50
+            },
+            {
+              "title": "지류 대신 삼성월렛으로…삼성전자, 코레일 ‘종이 없는 승차권’ 출시",
+              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jX2RfaTQyUzRvQ0czb1BXNzRCTmYyWjh1dGF5OXpERlNlT1JFbTB6SEhTR0ZBZ2VubVMwMmE4S3VIcXQxdVFaM251c0MwenZyWVJvWHRtR2ZkelE?oc=5",
+              "source": "경기일보",
+              "published": "2026-08-10T16:57:27+09:00",
+              "rank": 7,
+              "outlet_count": 14,
+              "score": 46
+            },
+            {
+              "title": "“삼성전자 주주환원 최대 200조원”…외국인 복귀 신호탄 될까",
+              "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91NkJVR1VwbUZoUlBicnk4ZVhMVjF6aGhEelNEOW44ZFhWcDBobDBjWG05TGg5ZFE5d1k5bWRIWHpvUE15dnBhX1ZIZmJIc0x2X1V4UEhB?oc=5",
+              "source": "중앙일보",
+              "published": "2026-08-10T16:28:41+09:00",
+              "rank": 0,
+              "outlet_count": 8,
+              "score": 30
+            },
+            {
+              "title": "삼성전자, AI로 무선 통신 최적화 'AI RAN' 기술 검증 성공…6G 리더십 확대",
+              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41TFAzNGlST0FxYWV1SXJWQllfellsTU9ORDViaEtlOFBEY05BRlI2T0VudVBhOTY3WlpLUGRiNy1NbEJzVW0tMVZLcmtLR0R5MmQ4TTB4R0d6UXhUaGQ4TmY1dlg4Z3ZZUFRmU9IBcEFVX3lxTE82RnlSUDhzREtzUHZzdHEtMUc0NkliYVZWZDN3NWZUMVc0WFRJV0VJcTdDVmgtbmRjR0RPb0k1ZXZuWndTTGdqR3lpbDJXMmhCaUJYd0JYQ0w1Sk9CMlZVSjNDRW1uMEVkNHoyU2h6S0s?oc=5",
+              "source": "전기신문",
+              "published": "2026-08-10T12:01:30+09:00",
+              "rank": 8,
+              "outlet_count": 2,
+              "score": 10
+            },
+            {
+              "title": "'와이드 폴드' 대흥행에…삼성전자, 폴드8 100만대 증산",
+              "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBOWlkxQ1BVR1R5QWFMNWtuSERUWlE4Q2phOXVhcC1QbzdUNUxFRWtiNGVoWlNCQk1LczBkbXFCbXkzWEdiVE9kb3NoWGlodw?oc=5",
+              "source": "전자신문",
+              "published": "2026-08-10T16:30:00+09:00",
+              "rank": 3,
+              "outlet_count": 1,
+              "score": 9
+            },
+            {
+              "title": "삼전 임원들 자사주 매도 100배 된 까닭…“세금은 조상님이 내줍니까”",
+              "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4wLTVpUUlKTjhIVjJNaWotdDRqRm9ISlVTQzRuSUFtNmw1ZkFZaC11NHBwT2NBZkdkck94UC1OS293QjRsNm5LQ1RkVVZTbGRWS1VUUFZB?oc=5",
+              "source": "매일경제",
+              "published": "2026-08-10T16:06:32+09:00",
+              "rank": 1,
+              "outlet_count": 1,
+              "score": 9
+            },
+            {
+              "title": "삼성전자·SK하이닉스, 엇갈린 주가 흐름 이유는…주주환원 '온도차'",
+              "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1uSkxBZ1Y1SkpRdFZzU21ReTlrNWlqdXFEQ3E4cVhNaTdURngxMGdBWXg1RjlwbzFJWTZrN05EZzZmU3JIRUR3b29ycUlQZk0?oc=5",
+              "source": "v.daum.net",
+              "published": "2026-08-10T15:56:00+09:00",
+              "rank": 19,
+              "outlet_count": 2,
+              "score": 9
+            },
+            {
+              "title": "삼성전자, 미국 국립연구소와 맞손…차세대 난방 기술 개발",
+              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1McHQ3QW44VDhqTmxoM3VGampRRzBDaF9wWjNBbXIyN2hsanF3X0RabHdNZjJnQ1k1T29mM3hNc0VlZGVEdHVzMldSSG9HQWNUVTZiX0ZvbGZOd3FzdU50bFFRaUNjRGMxWE9pcjk0Wk8?oc=5",
+              "source": "코리아리포트",
+              "published": "2026-08-10T15:50:19+09:00",
+              "rank": 23,
+              "outlet_count": 2,
+              "score": 9
+            },
+            {
+              "title": "[단독] 쿠팡 배송하다 또 쓰러져…삼성 설치기사 “땀냄새로 평점 깎아”",
+              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8wZkZNNlhadnlfVzBhdTR0bVZPWTFYd2Nhb09QeVZEWUdRVFhnOWhGS2VSRjlzSzgtTHZuSC1kUXdidEZoeVQwTVZnYVV1Sld0TkxOTmlGd3M2TjR0RWcwQjFmSjI?oc=5",
+              "source": "한겨레",
+              "published": "2026-08-10T11:04:00+09:00",
+              "rank": 9,
+              "outlet_count": 1,
+              "score": 9
+            },
+            {
+              "title": "\"삼성전자, 지금 당장 사라\"…200조 '역대급 호재' 예고에 들썩",
+              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5OenM5a2hjak9KcFdxTDFkSTQ2WXBMSFdnX1o3N1RESWthRWlWX1FLUGF0Wk9xNlFHZUpodDdzeUxQN1hVVmIwbTA5S3RWSlFySHBvd3l6MS05dw?oc=5",
+              "source": "한국경제",
+              "published": "2026-08-10T07:29:47+09:00",
+              "rank": 5,
+              "outlet_count": 1,
+              "score": 9
+            },
+            {
+              "title": "삼성전자·SK하이닉스, 장 초반 급등 후 하락… 외국인 1조4천억 매도",
+              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE14QlBDck5lU3doZUF5N2k1RVdlZnNxT0o5N1g2VXE4WVdtT3BzZ2dYcUpoNUp3cTNBVVJSak0xczYwTVhZMG5xaVA0U3B0eG95dU10LVlkazFoMkxnaHozT1lySGtZY05OYWc?oc=5",
+              "source": "sisaworld.kr",
+              "published": "2026-08-10T17:27:02+09:00",
+              "rank": 35,
+              "outlet_count": 2,
+              "score": 8
+            },
+            {
+              "title": "'답답한 통신' AI가 해결한다...삼성전자, NTT 도코모와 기술 검증",
+              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ZWlFqcGZFUW5hajlPOVRjUy01Wm1UVERWYl9fSTAyV0xsa3FnUnUzdWVGb2Zvam9NU2lFd2NHUHJlblRzLWtHWU02ckY3bUVjdzM2TC1HNEJxVTRVa1lnNy11TDBpV1VGdXVn?oc=5",
+              "source": "소비자경제",
+              "published": "2026-08-10T17:15:17+09:00",
+              "rank": 42,
+              "outlet_count": 2,
+              "score": 8
+            }
+          ],
+          "image": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/08/10/.cache/512/20260810580446.png?v=20260810210956",
+          "image_alt": "지류 대신 삼성월렛으로…삼성전자, 코레일 ‘종이 없는 승차권’ 출시",
+          "image_source": "경기일보",
+          "image_host": "www.kyeonggi.com"
+        },
+        {
+          "name": "SK하이닉스",
+          "stock_code": "000660",
+          "found": 100,
+          "story_count": 55,
+          "search_url": "https://news.google.com/search?q=SK%ED%95%98%EC%9D%B4%EB%8B%89%EC%8A%A4%20when%3A2d&hl=ko&gl=KR&ceid=KR:ko",
+          "articles": [
+            {
+              "title": "SK하이닉스, 中 공장 매각설에 \"다양한 방안 검토 중\"",
+              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wdmpJSml2R3lmaU9LOE5oc1pxcFMwc1ExblpxWTVFVEhGMTdWdVpXc0JxRFN3VEdmNW9NeW84REEwOGZLSWU5NzhkdG82SDRaUnZnVlVUb3lRLXZkTHFScmRmRHlFc3E1c0xmQ3JxOGM?oc=5",
+              "source": "연합인포맥스",
+              "published": "2026-08-10T15:54:07+09:00",
+              "rank": 14,
+              "outlet_count": 19,
+              "score": 62
+            },
+            {
+              "title": "추미애 “삼성·SK하이닉스, 반도체 공정수 방류 최소화하라”",
+              "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBqbGJ4VjR5M1BYSXJoUV9OUVhqN2JMamI3cExrVFItNFpJYW02UFJaZzdvVFFIS0d4U0ZkRU0xOHIzUmdFeTFkZFRoaS1SU3VfQWo0OHln?oc=5",
+              "source": "중앙일보",
+              "published": "2026-08-10T11:50:21+09:00",
+              "rank": 4,
+              "outlet_count": 7,
+              "score": 27
+            },
+            {
+              "title": "충북교육청, 충북도‧SK하이닉스 등과 AI 심리상담 맞손",
+              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1fOWRBNm85Rk9oRmNmazdhZVpXT2FHR2cxVjNfelNrUmc1OGpzZVRHYWxFUXdpb2M1UFVnU1NyTDg4dGQ0NzAxbGhjTFk2ZUtVeG5LdWNCS2trQTRNbHJFbVNsZldFdk03R2xHUThpczhaZw?oc=5",
+              "source": "굿모닝충청",
+              "published": "2026-08-10T17:37:43+09:00",
+              "rank": 13,
+              "outlet_count": 4,
+              "score": 17
+            },
+            {
+              "title": "SK하이닉스 투자 확정 공시에 국내 장비株 10%대 급등 [줍줍리포트]",
+              "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84WVI2SzR3U1E2TGdOelFmaTR2Qkg2bGF1WE1yTVFWbF9zNUhfN0djVzNtLTZLTmNxbkhkZm5iWlduSHZ6RkJWTWN3OEJmOGREWVHSAVNBVV95cUxNMDdMdGY4RzRRS0V1SjBCQlZqNHJjalJqUnVHQVBSZUhlOGJPUGZ3WmRzeHFGZjFleXd5RFEyTmxad0tnYy1pRXNoX0NfVlh0cEFiRQ?oc=5",
+              "source": "서울경제",
+              "published": "2026-08-10T13:58:48+09:00",
+              "rank": 3,
+              "outlet_count": 3,
+              "score": 15
+            },
+            {
+              "title": "생산직·사무직 뭉친다…SK하이닉스 '통합노조' 출범 초읽기",
+              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4xSmVZUnpuNktPcy1QNC04ejFjS21Md293WmJRU0JIVWlUMEEtV19aWHdMbzRZLVJKdlJmSTZaTExKT3hWNk1Sb2ZtT0g1akdfQ3dBNGFOVkI4YUczR3lCSU5wVmRsODlTWUdEeQ?oc=5",
+              "source": "비즈워치",
+              "published": "2026-08-10T17:01:02+09:00",
+              "rank": 9,
+              "outlet_count": 3,
+              "score": 13
+            },
+            {
+              "title": "삼성전자·SK하이닉스·에코프로 1000원부터 산다…카카오페이證, 국내 주식 소수점 거래 시작",
+              "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOREU3V0dxQWNTbGxZb0JqazJLaFJOOWUwendmbGVXUWRacXZWZXdTWllaR08tdUlRVUVrcVBnUjN0Y2xSQWVqVlBMVkwwNVlBV2hMMDNpTHBHVlBobDdCY1JscHRqNUNVb1JfWXVpdjZ2aDVuM212bjJVWmFqNWtzYUZNRExzM2Nx0gGcAUFVX3lxTE44M25tZm9RN01NS1ZieUxGd1c1S2Y0di1uNTVPYU1PRl9CT0Y3VlhPd3NBMFBBcXhNQ0ZNbUcxeFpXZFoxM0VyNlhVZ0k5S1hMbENvdlBQLWFFQXBIQ1BsX2RxUVlVYWJiVG1IWjlBVHVUTnQwRG96TlhDRVFyVWpLU3VUdkdJQjFqT0laSF9ad0g5Ql9pbWhoc1hqWQ?oc=5",
+              "source": "Chosunbiz",
+              "published": "2026-08-10T15:20:00+09:00",
+              "rank": 41,
+              "outlet_count": 3,
+              "score": 11
+            },
+            {
+              "title": "성과급 갈등 2라운드 열리나…SK하이닉스 ‘통합노조’ 꾸린다",
+              "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBycHN3emFUdzFYdEpGWjVLeFlrM2twY1RrOExLNjBRUzZ2ZDRhQVpNNDdLZFA4NU5pUEdJNUlKNXo4WUhmMWlnT2NCQTZNeHYtWnFuRldR?oc=5",
+              "source": "중앙일보",
+              "published": "2026-08-10T14:51:24+09:00",
+              "rank": 24,
+              "outlet_count": 2,
+              "score": 11
+            },
+            {
+              "title": "[오후장 체크포인트] 시장 우려 달랜 SK하이닉스, 이제 관건은?",
+              "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9uVjAwREFybThZc0dZa21LNFktMVFaYVhxZFo4b2xPVGVJMVhJT0ctOTNSZEZmTzloVnlmZERZOFFYN3d2cEtYZkM3OHBoR0k?oc=5",
+              "source": "v.daum.net",
+              "published": "2026-08-10T14:25:00+09:00",
+              "rank": 18,
+              "outlet_count": 2,
+              "score": 11
+            },
+            {
+              "title": "삼성전자·SK하이닉스, 엇갈린 주가 흐름 이유는…주주환원 '온도차'",
+              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40V3N1ZHd0eklMMkhGc0hQTDh6TU40Zll0SW14QjAtWkNLV0YwN1JSbks5bDZSNkJORVZJeDhnOVpfZk8yTE9kYkZBR1FLUmU1WnlUOE1YLXhQUdIBVEFVX3lxTFBuV1k5Z3Jqc25BY2FaeF9TMWhTM2h2MEVaYThzVjYzZE16NDVtMXFRYlV5b2VYTnRUUHF3ckdNMFVrQzNQS2dlRmZiWXVKQ0xIdmR1cQ?oc=5",
+              "source": "news.tf.co.kr",
+              "published": "2026-08-10T15:55:15+09:00",
+              "rank": 1,
+              "outlet_count": 2,
+              "score": 10
+            },
+            {
+              "title": "[특징주] 반도체 장비주, SK하이닉스 투자 규모 확정에 급등(종합)",
+              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zai1LZzJwQlNaSF9ZVTVzY0FHUFJlaDRYVF92aXhVZTRBcWFzTkdtbXpPc3ZYTkVhRkZlOHFwWENGcmp6TFdzR3pHcmV5SkxwUXZVT1doSEtCQXBlVTFvSNIBYEFVX3lxTE4zai1LZzJwQlNaSF9ZVTVzY0FHUFJlaDRYVF92aXhVZTRBcWFzTkdtbXpPc3ZYTkVhRkZlOHFwWENGcmp6TFdzR3pHcmV5SkxwUXZVT1doSEtCQXBlVTFvSA?oc=5",
+              "source": "yna.co.kr",
+              "published": "2026-08-10T15:43:54+09:00",
+              "rank": 8,
+              "outlet_count": 2,
+              "score": 10
+            },
+            {
+              "title": "SK하이닉스 성과급 60% 주식?…뿔난 직원들 수요일 통합노조 출범",
+              "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB3VkFneG95RWhVbFlyYlJpRnpZeDZzdmRNNi1Vc0RORG1vY0FWckpOV0p5N1BsLUZwTUhBN2NBNFRsdmNzeUNzR1habWlYRFU?oc=5",
+              "source": "v.daum.net",
+              "published": "2026-08-10T18:28:10+09:00",
+              "rank": 15,
+              "outlet_count": 2,
+              "score": 9
+            },
+            {
+              "title": "SK그룹, 정부에 중복상장 규제 개선 제안…솔리다임 IPO 염두",
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRkNzY3NFMmU2dkEtaGotaG5WLUFzdk85TU1iR0VwdmtGcGpxV09iRm9ncVZXZzVYSmlPNDAwM21oaVNDYzRzWEgyeWlRMEtScjl3QzlZSmVWemNMTHNoeHZiR2ZTa2R0ZUFWNlRVUjk3c2JfSHdXOGE0YnNlMWtFeVJaRQ?oc=5",
+              "source": "인베스트조선",
+              "published": "2026-08-10T17:11:00+09:00",
+              "rank": 0,
+              "outlet_count": 1,
+              "score": 9
+            }
+          ],
+          "image": "https://cdn.news.einfomax.co.kr/news/thumbnail/202608/4429414_335833_553_v150.jpg",
+          "image_alt": "SK하이닉스, 中 공장 매각설에 \"다양한 방안 검토 중\"",
+          "image_source": "연합인포맥스",
+          "image_host": "news.einfomax.co.kr"
+        }
+      ]
+    },
+    {
+      "name": "플랫폼",
+      "color": "#0d9488",
+      "companies": [
+        {
+          "name": "NAVER",
+          "stock_code": "035420",
+          "found": 100,
+          "story_count": 60,
+          "search_url": "https://news.google.com/search?q=%EB%84%A4%EC%9D%B4%EB%B2%84%20OR%20NAVER%20when%3A2d&hl=ko&gl=KR&ceid=KR:ko",
+          "articles": [
+            {
+              "title": "네이버-국가평생교육진흥원, 시니어 맞춤형 ‘AI 교과서’ 제작 나서",
+              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xQ2pNaWxfYmN1MlZjbVVOQUk5NVNlYmczZ2xHbjhId29aSmxaN1ZKck5Uc0Y5VTV4N1E0MXJ0cWdZVjc4Q3NKNWpPSENFbzVuWVJMMjR6UTlIYTdwX2I2Sjh1UUpQNk9Gb0E?oc=5",
+              "source": "AI타임스",
+              "published": "2026-08-10T13:55:07+09:00",
+              "rank": 4,
+              "outlet_count": 27,
+              "score": 87
+            },
+            {
+              "title": "[단독] 네이버, '클로드' 개발사 美 앤트로픽에 투자했다",
+              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WazRudEpEOVpWeEkxY1hIZlBaUmYzUThVQzZ6RUVLTU1LbmV4OW1rLUFOcG12dHhxREtjOEltYU1TMnlSRkRjMGRZS2k0VGFqUnlSQndwVHJLQQ?oc=5",
+              "source": "한국경제",
+              "published": "2026-08-10T15:00:03+09:00",
+              "rank": 0,
+              "outlet_count": 4,
+              "score": 18
+            },
+            {
+              "title": "웹젠, 네이버웹툰 원작 신작 '프로젝트 D1' 첫 공개",
+              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9OWGF0c2oyenZzMHRjOS1lWVBtSE9LT2YtZmxhc1NIVDBrbm16WTllLUhaWlctaEl2aV9BZlhra2xYaFEybWUzVlgwLWZnYi1lYU04ZlBSb05nLTlwaEFNRA?oc=5",
+              "source": "아시아경제",
+              "published": "2026-08-10T15:58:31+09:00",
+              "rank": 31,
+              "outlet_count": 3,
+              "score": 13
+            },
+            {
+              "title": "네이버, 앤트로픽에 간접투자…\"투자 금액은 안 밝혀져\"",
+              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1EZl9FVlpHRnNpN25VZGdrVlRkYzFCeE1RYkVTZnJ5TjdacnhYeDdLYWM3ckMzSFFUamwxZlFBaHNKdER1VUp4YTFicVAyZnpiZWdnR1ZYUnMzTXJoQ3doRUVzWThkQy04SUFjZ9IBbEFVX3lxTE1EZl9FVlpHRnNpN25VZGdrVlRkYzFCeE1RYkVTZnJ5TjdacnhYeDdLYWM3ckMzSFFUamwxZlFBaHNKdER1VUp4YTFicVAyZnpiZWdnR1ZYUnMzTXJoQ3doRUVzWThkQy04SUFjZw?oc=5",
+              "source": "머니투데이",
+              "published": "2026-08-10T18:26:16+09:00",
+              "rank": 3,
+              "outlet_count": 2,
+              "score": 12
+            },
+            {
+              "title": "HLB제약, 네이버 브랜드스토어 관심고객 10만명 감사제",
+              "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0ycVY3SWNBUF9uenBnazFHNDc5Zk5YWDUtYWtmamJ5YzUwdFh6cktOd08wRVQxdzlBN1JLZzJvS0FtS2VIRTA0NWRCVmNnMXlUOXYzcHZB?oc=5",
+              "source": "데일리팜",
+              "published": "2026-08-10T14:30:12+09:00",
+              "rank": 10,
+              "outlet_count": 3,
+              "score": 12
+            },
+            {
+              "title": "네이버 '인프라'· 카카오 '서비스'… AI 전략 다른길",
+              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91eGpBRjdTS1dEeDRMWVdnUFZmOWxfMGJMTE9SUURVTjV0Vkd1NTdoZDgxdW9mSlF1WncwbzdDSnBZcEpyQnNsQTRZRWJwYXhscE1yU3dmcDZRdw?oc=5",
+              "source": "파이낸셜뉴스",
+              "published": "2026-08-10T18:11:31+09:00",
+              "rank": 11,
+              "outlet_count": 2,
+              "score": 11
+            },
+            {
+              "title": "시니어도 AI 쉽게 배운다…네이버 '디지털 교과서' 제작",
+              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE80aXhRVFNSRHRoS3VSUGtjeWlNb1R6RlN1NTk1RGx0Q1Z0V0pYbzlSd3VFbkRoYnBfYUV1VVBnOVoweTBPaGdMNkk5bkdaSmVJRlVNbVFreE1CajDSAWBBVV95cUxQczZ2aXJCWGxxOUk5ZUZTUnhHVmlCbGJhYTRzNC1BS0lxcnZvN1o5QWhydURoR1R2dGlQQl9Bd2dlMVltU2FnTGhSY0NzRnRoQ2NVVHRkVVl1RjluNDFHVlM?oc=5",
+              "source": "yna.co.kr",
+              "published": "2026-08-10T10:39:27+09:00",
+              "rank": 12,
+              "outlet_count": 2,
+              "score": 11
+            },
+            {
+              "title": "[단독] 네이버, 앤트로픽에 첫 투자…'AI 자립' 전략 바꾼다",
+              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83YTFXMUM1LUljNkxtdHJ6c3Q2V3hqcXlIZVZPQy1sd1hXQ1A0aVVyd2lOYlVLZHVRWnN5aVVWbi02aFVReGkyclNMNjExb21NcF84UV82RXRzQQ?oc=5",
+              "source": "한국경제",
+              "published": "2026-08-10T17:27:48+09:00",
+              "rank": 15,
+              "outlet_count": 1,
+              "score": 8
+            },
+            {
+              "title": "교육문화원, 교직원오케스트라 직무연수 운영 : 네이버 블로그",
+              "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWUY1SDFhTWZmRzBvUVQ5ZUQ1Y05EQ25DNDgtR29tX1hLN3dIM0tDbUNPR2FKZmMtVDRuNFVYUTdZeFpUQ3BDZFVYdmI1SmNvUHZIZS1jdjZSQ3JJQWRnOUVKdnVQbjY4dTBKQnpWdW5BeUNIakRxbEd4M0YtM3FzdFliRC1PdUFOS3prYmgtMA?oc=5",
+              "source": "blog.naver.com",
+              "published": "2026-08-10T18:47:07+09:00",
+              "rank": 7,
+              "outlet_count": 1,
+              "score": 7
+            },
+            {
+              "title": "네이버, 디지털·AI 서비스 접근성 높인다",
+              "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5mOHpMNEpmMDIza0l5YWhHYWFRVjU5US01VzdtMHdyT1VpdFE2a2c1Zl82blVkaDJRcHNudDFRSGNiN1dfcnhKMTZZU0k0Zw?oc=5",
+              "source": "dt.co.kr",
+              "published": "2026-08-10T17:13:38+09:00",
+              "rank": 2,
+              "outlet_count": 1,
+              "score": 7
+            },
+            {
+              "title": "네이버가 지난 7일 경기 성남시 네이버 1784에서 국가평생교육진흥원과 양해각서(MOU)를 교환한 가운데 이윤숙 네이버 쇼핑사업 부문장(왼쪽)과 김월용 국가평생교육진흥원 원장이 협약서를 들어보이고 있다. 〈자료 네이버〉",
+              "url": "https://news.google.com/rss/articles/CBMi5A1BVV95cUxNSEpWR016WkdxMGZEbEJuOUlkcmtaQkFDcWlOaVNIZnQ1RFkzZXhiajhUQ0puX0hlZHRHTnJycklxUTFrS3FnSzdLZ1JZdUEzX29sblFCNDgwSmxYaWRySVYyV25FWWd5U29jX0x2a09JNDVZaXdtT0k0Qno2ODZPVjRvWWVpWmFHMTJGRGdvQXR1ampCWEUybGN0MU5QaW5qa0FzMUtMNzZkdVFJN09UQWhsQWxoT0lyRUM5cFpROWd2Sm1Mdjkxb1ItclhwNVZzWnZGSUpFaEl4OXpTSElVOTFKZHZDcHpQVnNlRTBFTHljeDFScFhaVVFacng1Rmduc2FkcU1PMWROVTVOUzkxY0Y1eEhXMk1fblNXamhvajhrZVpVQ1g4ak9SQVNMVzM1bGt6MTVqbHRkRVNIaGNYc291NEt0NzhaODViUlRGX3lQcWw4V3IyeTc2UnBNTkh3SmpEZGI4S2hYVDdVcWFnV1ZZbUJOd2dXVVh2MTlxdk5FVWh1dk1sS0hmWTRtZmYzVnpTMHZyRmZuVnVId1dwZXhZdTVFVHc0eHVpLUdwTllUOXNfdmlTaU9KT2d6SGVHV2NacjZvUnloQ0JISlRkU2RqdWpVQzhsSXZKM3hPYlFUaVJJMHJmMFptM0VxbzhhOGd5VGduSW5IbUxRSTA3d0YzUEZiamRUZVhwaE9hZ3lERTlMUTFHN1llQ1oyeDRPLTlRdjVSOHdRaExfU3BlVk5JS3dMUE5LTHlPWTVnalBuRnZoT3NHVVRRWllqTUlsSVhoYVAyLUlTVi00UmEtZmZwd2tkRVd4S0RsaGxwV1BkZ2VvaWxSSUtwbHhTZzZKQ0tQRmpsY2JGOUVKYlpKcDI3aDhnVDBJQkl4MHZiVlRlWmlLbFZOWmZtUDYzWUI0Y1pmMlhhSjBxYktySFZKV0RWWTBaUEZKZFVIbFJJOWxDRkdTUV80R3p3NmV3Nkd6U3RfWEJjV0hCTlVYNXdETXo0NUtaYVp6dTh1MXUxREpQdDh6Y2k4dHVjUkJlTVV4QlNRTHhGYVhtVlBRRWFicnBhVlQyTFUyUmF2V3VadFg2eVNxUEZhMGZKNHB4akdKeEVVUkJxMjFVNlQzQXNqV0dZWks2WlZJeHNEMlpfTFgxeUlNRmFKWmlITmJDYlJrUzBtbE9Ed3pzNXJxeVdhUmF5SVVqcnppR0hhekJ3OUJxSFpiVTU4M0N1bFRuS3VobldnM2VtY2RVNHVxeHFQMzdMbl9LOE53NV9fTDBsdFhGOFM5dHBiUDRyNEpnRklIaGRJYzZGQnVvWGxvMnBEcVRjTm1iUUdyVGN1VGsyVGVBend6RVZIb1JGdHZkdzFzWTNIaVJzUUVHRFhIcGFVaDdQVXplaXRYTGtvU2RyNjl4Tm5MRUF1eWhXaDRKTjd6RHFBWi1LQXJ3SmpuYUhxaXROQTc2WTQ3dUwybW9sU1F6SjNtcE1CN2w3WlV2Z3ZtUEQzX0VGNzJyRjhGM05neEVDc1drUW0zelNiTXc2SG5LRjBZT2RSWGUzRlVzczBxUWJCTHNUaVpXN0x1OGVWV2w4UVJzRTFfQXVVX2hGcDk1VWNfT3hfRmkyM3pqRFlmM2JZS0RtZTZqTEFSazZRbDg5TElZZU45WW1pZkJBUXpnOC1WanpnRHdvRE5BenE4Q09Ibi1RbG0xWlo4S2Z0aHRxR0FjRFdNaHdMcnRvTmx3blU4Vjl4MVR0R2JTQnZZZVFRSFNvRXNjSkZjR2ppNGh1bDdST055YThuTU05dDAwbVhGYVJwaVctUy14bWQ1dzFWMkM0ZEhYVnZ0LTlBdGFsWGQyQnFmQm1nc2xNbE5HRmZRdC1EUHA3dGhMQzFCaEc1Um5JbXRtNzB3UDdLTWNTZXVpMERLZ1AxT3NmQjhhRDNMYWdXWmlPeXlCZ2c3MnFDYmV5T0JMSF9Qa1FzRFJ5S2VfcndRTW9yYnk1M0JXTjNYbjZwYldUZ0tSUmp6NDNoT2pBcm1BaEVpdERfaVM1WktPV21SR1FxbUhVOTJ3UlFUbG9HWDN5dklPOHNGNkhqQml4bUM2X29nUDZRbHluVF81bHppbGVSWjk2MDZZY2pmT1R4VXhjTTd6NmpVQWRCbWxJZ0ExRFBwTWFwOFZiUUh4Q29xWWE0MkhKcUFva0dmci1TY0tPR1BLZlh0S0o4cFJueHNxTUZqZE9mM2t4TU1QN24wRE53ZFVMcmZuVkU5WXdEVk9Gd0hSNG9WdlprdW9PSTduVXo5S3JSMlNMa0dOVTllNDlHZzZtTFRCYzFCWGxnZEdhcGR2TFlHbjJYTnFvSzJIUFlfQ3pmdTlURE8?oc=5",
+              "source": "전자신문",
+              "published": "2026-08-10T16:42:36+09:00",
+              "rank": 69,
+              "outlet_count": 1,
+              "score": 7
+            },
+            {
+              "title": "'자본조달' 밑그림 공개한 네이버, 고객사 확보 '관건'",
+              "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aanluVWY5VkRVNGZILXNfcTVsaUJkMVlxNXp6YXk1VjdFeWcwMzN3RzlTcGRYSnhCR3NkOXZEeWVWMDBvLTl5ZzhTc3VYOTQ?oc=5",
+              "source": "v.daum.net",
+              "published": "2026-08-10T15:29:27+09:00",
+              "rank": 9,
+              "outlet_count": 1,
+              "score": 7
+            }
+          ],
+          "image": "https://cdn.aitimes.com/news/photo/202608/213737_217281_1359.jpg",
+          "image_alt": "네이버-국가평생교육진흥원, 시니어 맞춤형 ‘AI 교과서’ 제작 나서",
+          "image_source": "AI타임스",
+          "image_host": "www.aitimes.com"
+        },
+        {
+          "name": "카카오",
+          "stock_code": "035720",
+          "found": 60,
+          "story_count": 38,
+          "search_url": "https://news.google.com/search?q=%EC%B9%B4%EC%B9%B4%EC%98%A4%20when%3A2d&hl=ko&gl=KR&ceid=KR:ko",
+          "articles": [
+            {
+              "title": "카카오 브런치, 제13회 브런치북 대상작 10편 정식 출간",
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE11cEJraUNrYm9aNHRWdWFncTNDSElRVVNTUllvNG5ob001enpEYXRrTTRocU9pdGN6MXdjeVdZVUJ1WTdSLWVLaG4zMDhUZ0JUbzZnSFBMVXEwUl8tby1acGgtdzVBb29rbkJQcUhSdWxWRVI3dEFN0gF3QVVfeXFMTXVwQmtpQ2tib1o0dFZ1YWdxM0NISVFVU1NSWW80bmhvTTV6ekRhdGtNNGhxT2l0Y3oxd2N5V1lVQnVZN1ItZUtobjMwOFRnQlRvNmdIUExVcTBSXy1vLVpwaC13NUFvb2tuQlBxSFJ1bFZFUjd0QU0?oc=5",
+              "source": "스트레이트뉴스",
+              "published": "2026-08-10T14:09:44+09:00",
+              "rank": 14,
+              "outlet_count": 11,
+              "score": 38
+            },
+            {
+              "title": "카카오 T ‘택시 대신 불러주기’, 호출 60% 이상 서울 밖에서 발생",
+              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA4NFRmbHluZzU5b1N4akptd0o3ZFVpSGFvQV85aDJWaEIxeVRJdzhFSmxiZGkyYWNqZFNua181WXBGRXNiSTJrQTF0bzUzdkJJOHk3ZDRMZVNvcTRhT24xVTNwSWxhR2lWQVZGZ1hlTlJINlRX0gF0QVVfeXFMUDg0VGZseW5nNTlvU3hqSm13SjdkVWlIYW9BXzloMlZoQjF5VEl3OEVKbGJkaTJhY2pkU25rXzVZcEZFc2JJMmtBMXRvNTN2Qkk4eTdkNExlU29xNGFPbjFVM3BJbGFHaVZBVkZnWGVOUkg2VFc?oc=5",
+              "source": "IT조선",
+              "published": "2026-08-10T18:37:21+09:00",
+              "rank": 2,
+              "outlet_count": 3,
+              "score": 15
+            },
+            {
+              "title": "앱 없어도 전화로 카카오T 택시 대신 호출⋯누적 15만건 돌파",
+              "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE50RGdjd3dBNHdsc0dJc2x2c1VTSk9RcXUtdHNZa0NUVjlPbVJQM1FzaXI2dVc3ZDl2NjBWbkduVkU0cFM1eURv?oc=5",
+              "source": "아이뉴스24",
+              "published": "2026-08-10T14:29:41+09:00",
+              "rank": 19,
+              "outlet_count": 3,
+              "score": 12
+            },
+            {
+              "title": "카카오T 대신 불러주세요…전화 한 통에 택시 잡는 114 호출 커졌다",
+              "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8yT2FvSmd3aWVnVEJZbWVrZGh1Y1RwSk5Ob0FIRV9qMFUxS3E5Nzl6b1pRS2R5VmtkTGhRc0RFU29tY0h2T1FxNmRkb1hkQ0M3R3c0RlBwYk7SAVhBVV95cUxPMk9hb0pnd2llZ1RCWW1la2RodWNUcEpOTm9BSEVfajBVMUtxOTc5em9aUUtkeVZrZExoUXNERVNvbWNIdk9RcTZkZG9YZENDN0d3NEZQcGJO?oc=5",
+              "source": "아주경제",
+              "published": "2026-08-10T09:50:46+09:00",
+              "rank": 26,
+              "outlet_count": 3,
+              "score": 12
+            },
+            {
+              "title": "네이버 '인프라'· 카카오 '서비스'… AI 전략 다른길",
+              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91eGpBRjdTS1dEeDRMWVdnUFZmOWxfMGJMTE9SUURVTjV0Vkd1NTdoZDgxdW9mSlF1WncwbzdDSnBZcEpyQnNsQTRZRWJwYXhscE1yU3dmcDZRdw?oc=5",
+              "source": "파이낸셜뉴스",
+              "published": "2026-08-10T18:11:31+09:00",
+              "rank": 10,
+              "outlet_count": 2,
+              "score": 11
+            },
+            {
+              "title": "어르신 대신 택시 호출… 카카오T '02-114' 호응",
+              "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8tS1lQeEhTTzdQSHJVdTczZ0YtVzNfRmU5VHI0cENXT1NWbF9kLTBoRjdBTTZ5bFoxLURvd1BoLTNRY3NaTEdBVjJsZHFGRk0?oc=5",
+              "source": "v.daum.net",
+              "published": "2026-08-10T18:14:40+09:00",
+              "rank": 4,
+              "outlet_count": 2,
+              "score": 10
+            },
+            {
+              "title": "\"카카오 브랜드메시지, SMS 광고와 달라...신뢰도 높고 마케팅 효과\"",
+              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95Y0U0UkJYQ3phb2xsdUdGSWxYRktWbmw5R296d1ZLTUVtZjBzQTZLVGgxdlBoX2cyTllLMUpjTDJMVHI5RkhSZ0tTX3ZPeno1Q2xwYThJV3lSY0NKX0xXUA?oc=5",
+              "source": "아시아경제",
+              "published": "2026-08-10T16:32:18+09:00",
+              "rank": 7,
+              "outlet_count": 1,
+              "score": 9
+            },
+            {
+              "title": "카카오톡, MAU 5500만 첫 돌파…해외로 성장판 넓힌다",
+              "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE55ajdxbmRCVVB1UzRfamV2bGt2QlN6Vm5aWXptdkdJVjAtMXBhLW04U3NZOG9sVGNCMmNiRE1wa2xta3ZfMXEtYzJKdUF5QQ?oc=5",
+              "source": "전자신문",
+              "published": "2026-08-10T16:30:00+09:00",
+              "rank": 0,
+              "outlet_count": 1,
+              "score": 9
+            },
+            {
+              "title": "청산 소식, 이제 카카오톡으로 받아보세요”",
+              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZZnYwZ3hBWTlBM3laYzhKajlmSnhTdWVFdXpoTGdGdHMwZ2hORHFDYmkwMTBPMmdEWUtzYVBCOWN0cDBKc0VqSThMeDJicEltZ21fOG82TjBpQnlXR0UzT2Q3Ny1iTjhWQlE?oc=5",
+              "source": "옥천신문",
+              "published": "2026-08-10T16:22:44+09:00",
+              "rank": 15,
+              "outlet_count": 2,
+              "score": 9
+            },
+            {
+              "title": "네이버·카카오, AI 전략 ‘두 갈래’…수익화 vs 플랫폼 확장",
+              "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBicUVGY1NSdVFMSVpoVWoyZUhxVEt3WXh0S1pITElqR0RQMU9Lb3dzUXZhRXJiTDlidzdMNnRld0xwc0ZBWmNrS1JSOFQzMHp0enBZSg?oc=5",
+              "source": "이투데이",
+              "published": "2026-08-10T14:57:00+09:00",
+              "rank": 12,
+              "outlet_count": 2,
+              "score": 9
+            },
+            {
+              "title": "돈은 버는데 미래가 안 보인다…카카오 성장 경로 ‘안개 가득’ [카드뉴스]",
+              "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE54M1NXa2gteEFMM0ppeGlzck1rMEU3YTY4TDgzSWp0U25xY0VWdjRTV1FfQWF4dFNFNC1weWFIcm4wU1FWQlhCYnBmUDIyQVpLMVIzMg?oc=5",
+              "source": "매일경제",
+              "published": "2026-08-10T16:29:16+09:00",
+              "rank": 13,
+              "outlet_count": 1,
+              "score": 8
+            },
+            {
+              "title": "카카오엔터, TIMA에 멜론 시상부문 첫 신설",
+              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE01WnBvSmU5YndKSkxTTTdrZGtiMGVCX0Yxb1FRamFFcnh5aHcxNGlna2JKbXExakVEMUlCUlNKcDBsc2VFdTJRVXVTSDMyU0RscDE1Ql8tSkRzN3g5NnVpemRxNkQ?oc=5",
+              "source": "news.mtn.co.kr",
+              "published": "2026-08-10T12:05:19+09:00",
+              "rank": 49,
+              "outlet_count": 2,
+              "score": 8
+            }
+          ],
+          "image": "https://image.inews24.com/v1/71e3aa17edd2c5.jpg",
+          "image_alt": "앱 없어도 전화로 카카오T 택시 대신 호출⋯누적 15만건 돌파",
+          "image_source": "아이뉴스24",
+          "image_host": "www.inews24.com"
+        }
+      ]
+    },
+    {
+      "name": "게임",
+      "color": "#7c3aed",
+      "companies": [
+        {
+          "name": "넷마블",
+          "stock_code": "251270",
+          "found": 86,
+          "story_count": 34,
+          "search_url": "https://news.google.com/search?q=%EB%84%B7%EB%A7%88%EB%B8%94%20when%3A2d&hl=ko&gl=KR&ceid=KR:ko",
+          "articles": [
+            {
+              "title": "넷마블문화재단, ‘2026 게임소통학교’ 성료",
+              "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5hRVBRQ1dRbGFLcWNSai1KVmhpekhaQWRiVmN3WkVTaDFJNV83S19oeVNQUXMtelhFanNIYWF6clBBaXNjSnZvaVhPWUl4ZkZMRUhuMURXZ2FXR3JrVGtaa0ZRM19BRzTSAWdBVV95cUxOYUVQUUNXUWxhS3FjUmotSlZoaXpIWkFkYlZjd1pFU2gxSTVfN0tfaHlTUFFzLXpYRWpzSGFhenJQQWlzY0p2b2lYT1lJeGZGTEVIbjFEV2dhV0dya1RrWmtGUTNfQUc0?oc=5",
+              "source": "리버티코리아포스트",
+              "published": "2026-08-10T17:54:09+09:00",
+              "rank": 3,
+              "outlet_count": 23,
+              "score": 75
+            },
+            {
+              "title": "\"부모·자녀 게임으로 함께\" 넷마블 '게임소통학교' 10주년",
+              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE94VUFBRFFpLTA0dGNTQ1BIR0VJSXpXVlQwbVQ0MjBqRE4zUXJaNEQwcmdFbG5md1Y2YzRXSGdZWTlnVzRWOXBUTmpJSzhfdEx5MDh1WnpUZGc2MnozLVNIX9IBYEFVX3lxTE94VUFBRFFpLTA0dGNTQ1BIR0VJSXpXVlQwbVQ0MjBqRE4zUXJaNEQwcmdFbG5md1Y2YzRXSGdZWTlnVzRWOXBUTmpJSzhfdEx5MDh1WnpUZGc2MnozLVNIXw?oc=5",
+              "source": "연합뉴스",
+              "published": "2026-08-10T15:31:44+09:00",
+              "rank": 0,
+              "outlet_count": 19,
+              "score": 63
+            },
+            {
+              "title": "넷마블, 다작 대신 ‘장기 흥행’ 전략 전환 본격화",
+              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdEs4TGZiVUZoUnNVNVlkNlZiYnpaOG1uS3pBVWZ1R25MZXJuSWtxUFFvSUF6UXV6Wnh6VUZoVWpCYmx3QVRTZWdaVjhlbFNhWUxXWV9WT2V1MVRnX0x0dW1DU0J1QUNKZUNtU0tOVGxsc3l1dWx2SHFCZWtnVll0Um5n0gGWAUFVX3lxTE1xVDI4cGEtem5USmFHaTluQ2FsU25zXzVlMC01eVZ4eF9lTFI2TTNpcExQMWxJaGgxTDBWRXBVTGk5VVAwVnphaGlRNWZMdHhwUWw3US1KZjhwaHhpcnVJVDE0V0Mzc0Vud3JYbkhPbFpaWmhVM2RqUmdUeDhuem1Xc1BWME53Mm5YWHplSXRROTNBVjczZw?oc=5",
+              "source": "Chosunbiz",
+              "published": "2026-08-10T16:45:00+09:00",
+              "rank": 1,
+              "outlet_count": 2,
+              "score": 10
+            },
+            {
+              "title": "넷마블, 다작 →PLC로 전략 변경",
+              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIYjhFVEJHZGRHZE1LeXdwdFNacHYwNlNQbmFCR3gtM3RWOXFydmUzV2tJZkQ5WVRtNmpCbmg1S093bUhmWURxbjBUM2QwcTljX1ZYUEY5bDhBUQ?oc=5",
+              "source": "파이낸셜뉴스",
+              "published": "2026-08-10T09:28:21+09:00",
+              "rank": 46,
+              "outlet_count": 2,
+              "score": 10
+            },
+            {
+              "title": "넷마블, 하반기 전략 방향 선회…지속 성장 기반 강화",
+              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1hNjhCNVExZTR4dTFHaTA0WWE4VjJQUFMwck1BQWliRzFHZk53QzdYeFJIY3lnTDd6aEtsZG8zcHZMbkxOamIzVk1Jb3ktdENCWWhRNWN2UmNIeGlESl9WZlZhNGl5YzdM?oc=5",
+              "source": "매일경제TV",
+              "published": "2026-08-10T16:34:00+09:00",
+              "rank": 18,
+              "outlet_count": 1,
+              "score": 8
+            },
+            {
+              "title": "신작 쏟아내던 넷마블, ‘다작 전략’ 접고 장기 흥행 승부",
+              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qN2FaVk4xRFVDWUlQR0pKa3lvbndNR1RCZWZkRWpsQ28yVnFvdkFJNXQ5X2Zyc3NkanB3Wk8wcWh3LWpaU2ppcnBBX05EX1E4UGgyQlJvRUZNX0RudmZVYmVnb3VoQ0g5RU12dy11anpWdDBx0gF0QVVfeXFMTWo3YVpWTjFEVUNZSVBHSkpreW9ud01HVEJlZmRFamxDbzJWcW92QUk1dDlfZnJzc2RqcHdaTzBxaHctalpTamlycEFfTkRfUThQaDJCUm9FRk1fRG52ZlViZWdvdWhDSDlFTXZ3LXVqelZ0MHE?oc=5",
+              "source": "IT조선",
+              "published": "2026-08-10T16:33:28+09:00",
+              "rank": 16,
+              "outlet_count": 1,
+              "score": 8
+            },
+            {
+              "title": "MMORPG 더 쉽고 편하게…무접속 자동 플레이가 대세",
+              "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBsR29YZWJwd2JSa2g5Z21iVnA0MEdybVFYOWh0LS03Nng5cVg5Y1kyMUdDT0drVjhIcnR5Zi1FbDd6Sk8zamRDZFQxeF8taTg?oc=5",
+              "source": "v.daum.net",
+              "published": "2026-08-10T13:12:00+09:00",
+              "rank": 74,
+              "outlet_count": 2,
+              "score": 8
+            },
+            {
+              "title": "500만장 돌파한 '서브노티카2'…K게임, 글로벌 시장서 순항",
+              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9hNVNTQWZWZEZSamd0UHpoekplc2d5a0MtZEsxUUtNLUVpZlFYYUNKbEU1Q3VPWEVrQXdqS0UtTXB3SUd6ajVFQW1pc3RUbFFuTXRscnZfUnJ1ODJKYXoxSFEyamI?oc=5",
+              "source": "서울경제TV",
+              "published": "2026-08-10T18:07:20+09:00",
+              "rank": 61,
+              "outlet_count": 1,
+              "score": 7
+            },
+            {
+              "title": "넷마블, 하반기 ‘선택과 집중’ 돌입…장기 PLC 전략으로 체질 개선",
+              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZaHp5S29jRjlGRjdtaXFaZm5vU21vcXRISzBDNFdvSGZXZU9RalN0T1pqZVNYM0RqU1hNeVBFckdCaHNxelZNdWlGcF9SdWp1RktVWTRnNXVhOU9GeXI2NXkweGZ3V1poQUExQm00TzI?oc=5",
+              "source": "한양경제",
+              "published": "2026-08-10T14:57:52+09:00",
+              "rank": 8,
+              "outlet_count": 1,
+              "score": 7
+            },
+            {
+              "title": "넷마블, ‘알짜’ 계열사 코웨이 지분 확대…지분법이익도 쏠쏠",
+              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE44MjlXaElVcEJGSjRJNFpfUEl3U1FQWlBjV2t1TkdWVGIyekttd3RDZEZSNi12NDZsQ3dLOWJyY2VtN2xNd3lGcEp3VndrcXRCX2J3U20zMTJGRHFZMlUtVmlZSVQzY1F1?oc=5",
+              "source": "CEO스코어데일리",
+              "published": "2026-08-10T17:55:38+09:00",
+              "rank": 22,
+              "outlet_count": 1,
+              "score": 6
+            },
+            {
+              "title": "넷마블, 신작보다 중장기 서비스 집중…체질개선 본격화",
+              "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5sNm5NVHozQkVYU0RYVnBxb2dKZVRKSTl5bHgtbGZVaTBGTmN0V1hiS1JheXRhck5mN2RQWkJVVHRvQ1JYUXhmaGZERDN5bHhuQ1dyekRmMzJuVEVkNG5acEVZck1iU2lUQU5VOWc1b9IBc0FVX3lxTFA5VnFnQm1TOUxvemJjRGZTUnRVc2R3R2p0Q1Q4MFV0UkpOUmdkNnNHdjcxOV9wR1pLRUE5Sl9fOWwwUmpoWDZSbnNtVm1Jd3JJSFRrd1RtZXB2cGNUS0FIZGpfXzNVOEszNHQzUXZSUXpWRFU?oc=5",
+              "source": "데일리한국",
+              "published": "2026-08-10T15:34:25+09:00",
+              "rank": 17,
+              "outlet_count": 1,
+              "score": 6
+            },
+            {
+              "title": "[게임 레이더] 스마일게이트·넷마블, 미래 세대 맞춤형 디지털·게임 사회공헌 전개",
+              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBuSmVEV2paMDlkblBCY2I5VU1PR09zU1BzWi16b2NQVW5neU1kd3ZqYjVic2ZNeWM0M1FGRHVuVUtNSzFnYUJDWXB4N1R6NmJ2N0pR?oc=5",
+              "source": "더밸류뉴스",
+              "published": "2026-08-10T15:32:58+09:00",
+              "rank": 28,
+              "outlet_count": 1,
+              "score": 6
+            }
+          ],
+          "image": "https://img5.yna.co.kr/etc/inner/KR/2026/08/10/AKR20260810105300017_01_i_P4.jpg",
+          "image_alt": "\"부모·자녀 게임으로 함께\" 넷마블 '게임소통학교' 10주년",
+          "image_source": "연합뉴스",
+          "image_host": "www.yna.co.kr"
+        },
+        {
+          "name": "크래프톤",
+          "stock_code": "259960",
+          "found": 65,
+          "story_count": 32,
+          "search_url": "https://news.google.com/search?q=%ED%81%AC%EB%9E%98%ED%94%84%ED%86%A4%20when%3A2d&hl=ko&gl=KR&ceid=KR:ko",
+          "articles": [
+            {
+              "title": "“도심 속 폭염 피하는 세이프존”… 크래프톤, ‘펍지 성수 블루존’ 오픈",
+              "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBXM0JSNkxDYlFHVzFSS0phUk01QW0wdE9iMFNNNmNwOEtpcGRtZ2gzYVNVcHNtQTczenMyWjdKT3RheUpFR3k3WUoyalBiSk0?oc=5",
+              "source": "v.daum.net",
+              "published": "2026-08-10T19:26:17+09:00",
+              "rank": 0,
+              "outlet_count": 16,
+              "score": 54
+            },
+            {
+              "title": "크래프톤, 펍지 성수서 여름 특별 행사 '블루존' 개최",
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA5bmU5d2lPMTNFRnR5QW1uRmF5a0JaazhCZ1VETnhFalFISjZObV93RE81Q083ZHRjOTBTcWR6MnozU1J2LVlmYlF6WmRBRERyU1BCWFZEdzB5SHIt?oc=5",
+              "source": "뉴스핌",
+              "published": "2026-08-10T16:43:00+09:00",
+              "rank": 1,
+              "outlet_count": 14,
+              "score": 48
+            },
+            {
+              "title": "도심 속 피서, 크래프톤 'PUBG 블루존' 행사 성수서 운영",
+              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95WDRBelhDVWJzYWZUOTFRd2dGMG5KanUyT2lCQzdTcDVvTzdZUnNxak5YSTRoWXpSbVVQa3pHLTdBR2U2dWlBemJQQm5UejZ5N1dXT1NtT0JwOFXSAVtBVV95cUxPeVg0QXpYQ1Vic2FmVDkxUXdnRjBuSmp1Mk9pQkM3U3A1b083WVJzcWpOWEk0aFl6Um1VUGt6Ry03QUdlNnVpQXpiUEJuVHo2eTdXV09TbU9CcDhV?oc=5",
+              "source": "게임메카",
+              "published": "2026-08-10T17:49:56+09:00",
+              "rank": 4,
+              "outlet_count": 2,
+              "score": 10
+            },
+            {
+              "title": "크래프톤, 게임 속 위협 '블루존'을 도심 속 피서지로… '펍지 성수' 오프라인 IP 확장 박차",
+              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0wUXVoNWV3WndWUUJNeW1HTTh0Ylhkam4zbmM1czRKcDJGRzhteUxETWlzNGdDUlZmRDdkNjRMWnVPcHRMYWRNZ0FhUlNRUUZMak13RE1wVW1oREF0dVJFRHIyT0FobWdiZmlVMy1wRllyQQ?oc=5",
+              "source": "인더스트리뉴스",
+              "published": "2026-08-10T15:58:18+09:00",
+              "rank": 2,
+              "outlet_count": 1,
+              "score": 7
+            },
+            {
+              "title": "크래프톤, 성수동서 배틀그라운드 여름 체험행사",
+              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3cFJBTkNCQUg4WEZYcHFCbFR1TzlqcDVuVTFObjRBYW44Rk9hbmc4WFhCVkxZS0pweEJKLWtacVU5Qk9RVEliR2ZrUmlvQUgtUnBqVnpwTC1BRGF0czlFNDJDS0ZwS3pDTS1kWk9DeWV6Zw?oc=5",
+              "source": "웹이코노미",
+              "published": "2026-08-10T18:34:00+09:00",
+              "rank": 29,
+              "outlet_count": 1,
+              "score": 6
+            },
+            {
+              "title": "게임이 화면 밖으로 나왔다…크래프톤∙컴투스∙넷마블, 경험 다채롭게",
+              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GMUtqOFZCamhIaUh0ZlQ1a0hwcjYzazlJRDQ5dHBkZmtGQnc5end3R29nYzh1RHZHbkRIUnZxaTlEeE5ibzZuMUtUWnZxR3FJVVpKTDFlWHV2bDN0NXpqTC1pcU5ZNUZUdnc?oc=5",
+              "source": "한국면세뉴스",
+              "published": "2026-08-10T17:39:24+09:00",
+              "rank": 15,
+              "outlet_count": 1,
+              "score": 6
+            },
+            {
+              "title": "크래프톤 '배틀그라운드' 메타 로테이션 시동, 주인공은 'LMG'",
+              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBXbVdJWDM0VmlSUHdzMV9heFhxdUVSanI3YS0tWFp0RHZBUTJZQ24xZzFRRE0xc2tQSEtRRnVJQ0V2STY1cmhNdERzLXFnQS1FN3dwZzNjX0d1aHV4Rko4M05iNEY2NW80QkE?oc=5",
+              "source": "게임뷰",
+              "published": "2026-08-10T17:22:18+09:00",
+              "rank": 25,
+              "outlet_count": 1,
+              "score": 6
+            },
+            {
+              "title": "크래프톤 임원진 지분 미세조정…자사주 상여 취득·장내 매도 교차",
+              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9PenZfUGlVUXN2amhGeU93cF9CR3MwRTF6ZmZpRS1tWEFJNkNrU2tZb3l0VnBteENBNG14aUdWa21BMFdXdWFWM1I2UlpEMEhtLWtYNllDMVFlM19yamwwdDUzSlBtUGJTeEZsUGRjcVp6UQ?oc=5",
+              "source": "데이터투자",
+              "published": "2026-08-10T17:07:18+09:00",
+              "rank": 16,
+              "outlet_count": 1,
+              "score": 6
+            },
+            {
+              "title": "크래프톤ㆍ마힌드라 한자리에…한ㆍ인도 공학수장들 ‘창의 컴퓨팅’ 논의",
+              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5mX1ozNUFBYTNxVkdINHU3czBqczVkZnB2MHdOSWdDY2NVUXEzOVh2SjZ0dlRySXJBckJveWlUZ3lLSVh3M3VlaTNtRXVyMjlrbnBkenRxWmVMd1BsbVdiaTNhQk9hXzFoT3BXcUhhWjI2ODVp?oc=5",
+              "source": "대한경제",
+              "published": "2026-08-10T15:16:09+09:00",
+              "rank": 12,
+              "outlet_count": 1,
+              "score": 6
+            },
+            {
+              "title": "[게임 앤 플랫폼] 게임, 8월 창작교육·오프라인 행사·채용 잰걸음",
+              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1QZ0xNZENDWlY5S1h1NWRDWmJ4NUg5Wklkckc1X2xxa2huUVkzeXZNOTNOTV9BZTdtTzlyR3I3QWJZTklYeHRETXRPYktteUFqRUkteTRkdm1WTlNtd040aTYxai12R3RZTGt3?oc=5",
+              "source": "서울타임즈뉴스",
+              "published": "2026-08-10T18:19:03+09:00",
+              "rank": 45,
+              "outlet_count": 1,
+              "score": 5
+            },
+            {
+              "title": "500만장 돌파한 '서브노티카2'…K게임, 글로벌 시장서 순항",
+              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9hNVNTQWZWZEZSamd0UHpoekplc2d5a0MtZEsxUUtNLUVpZlFYYUNKbEU1Q3VPWEVrQXdqS0UtTXB3SUd6ajVFQW1pc3RUbFFuTXRscnZfUnJ1ODJKYXoxSFEyamI?oc=5",
+              "source": "sentv.co.kr",
+              "published": "2026-08-10T18:07:20+09:00",
+              "rank": 36,
+              "outlet_count": 1,
+              "score": 5
+            },
+            {
+              "title": "PUBG가 만든 도심 피서지, 펍지 성수 '블루존' 개장",
+              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96RGRzV3dJb3RuNHBJdFNlMFl0ckZfem92Nnd0SjBINUh4U09uWk5Oa3A3cHk1dG5nYmxwWDdYWDEwZ3luek9YemtsYzVKT1JKaUtsU0xFWWVRTGFTTWdFWnpGVnZFMlpfSlo3TQ?oc=5",
+              "source": "스포츠Q",
+              "published": "2026-08-10T17:34:14+09:00",
+              "rank": 43,
+              "outlet_count": 1,
+              "score": 5
+            }
+          ],
+          "image": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/10/kukminilbo/20260810192618470eqti.jpg",
+          "image_alt": "“도심 속 폭염 피하는 세이프존”… 크래프톤, ‘펍지 성수 블루존’ 오픈",
+          "image_source": "v.daum.net",
+          "image_host": "v.daum.net"
+        },
+        {
+          "name": "컴투스",
+          "stock_code": "078340",
+          "found": 64,
+          "story_count": 25,
+          "search_url": "https://news.google.com/search?q=%EC%BB%B4%ED%88%AC%EC%8A%A4%20when%3A2d&hl=ko&gl=KR&ceid=KR:ko",
+          "articles": [
+            {
+              "title": "컴투스 SWC, 오픈 퀄리파이어-한국 1위 SKIT 월드 파이널 진출",
+              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE51YlpfMGl5RkJMaER3V0FQOEVUTlpmVHV2T1BSWEtnamhUaDFDUURBUlpCaE5CZjdHUHRyZnFTYjdKa3JfT0hMQjg0SThGVVpiU2E5b0o1dFZNLTNiUmwzdTVYdkhray1DUmQ0?oc=5",
+              "source": "파이낸셜신문",
+              "published": "2026-08-10T16:42:44+09:00",
+              "rank": 4,
+              "outlet_count": 24,
+              "score": 78
+            },
+            {
+              "title": "“모두를 위한 MMORPG”…컴투스 ‘제우스’, 26일 출격",
+              "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE83dGxLWm10S3Q4bVQ2SDg1RWo2N3RlNHJtMkN2aGQ1ZWVBOG5CdFRlNmxFSlZodGZGX0NQY053Q01RbFNGMy1UbDJiQkxLdw?oc=5",
+              "source": "바이라인네트워크",
+              "published": "2026-08-10T07:45:02+09:00",
+              "rank": 18,
+              "outlet_count": 9,
+              "score": 30
+            },
+            {
+              "title": "컴투스, '제우스'로 MMORPG 승부수…모바일 편중 탈피",
+              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1jam1wN1AyUF9XRDVfbVI1eTFBME1ySjVLVjhremVGRnN1Rlc2OHlVVDdtR0JEZWpWbW1sanR5cDlfMlJHZjNTMXo3UTRzaXJkeHBOQ0R4dUhpSVJlV2lTMThrMTg?oc=5",
+              "source": "MTN 머니투데이방송",
+              "published": "2026-08-10T17:32:22+09:00",
+              "rank": 0,
+              "outlet_count": 3,
+              "score": 15
+            },
+            {
+              "title": "[리포트] 컴투스 '제우스', MMORPG 경쟁 공식 바꾼다",
+              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WY1lsTFhHSHJiMTFJcGhDaGlSVE53eXpYeGJYdHl6M3p2NW5xY3NGMUdGVXE3ejBHdXZzbkhicnNUTUFWMWg5c0VYWUNaRERoZ0RURE1sTU1qQTdvQ0tLQmgwZDJsM2Jf?oc=5",
+              "source": "paxetv.com",
+              "published": "2026-08-10T17:31:00+09:00",
+              "rank": 1,
+              "outlet_count": 2,
+              "score": 12
+            },
+            {
+              "title": "컴투스·스마게·카겜, ‘퍼블리싱 MMORPG 신작’으로 한판 붙는다",
+              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBOeV9JV2JXUHJtUUczOExLWWJSbnhuLVpzc2IycEM2VHZwQnZJMllPU0huLXU1T3l0WTBfREpoYkNDMExkY3FnLXVNNXpaYzV3QUhHMFZxNk54R3kyLWhkMUFLRTM1ZDlmQmfSAW5BVV95cUxObk5BTVR0a1Q3d1UzZGJvY21PMjZvWnRrQ25HX3lHQWFZOVNtYVBjaHdxczhXQk9NUHg4UExCU29iMHh5U0xsb2owemdsbUI1R3lPODYxVzVKMFFVcjdwM0Y1eU9DSV9uSzdVSVF5Zw?oc=5",
+              "source": "파이낸셜투데이",
+              "published": "2026-08-10T19:37:21+09:00",
+              "rank": 3,
+              "outlet_count": 1,
+              "score": 7
+            },
+            {
+              "title": "[현장TALK] “이젠 게임도 AI”…컴투스 ‘제우스: 오만의 신’ 출격",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBEZ0Z6aWJhdnpjcXRPa21WektIMkNPYWpQTk9vVzhGUkJnM2Jvc2JIcXhvYjJJeGxuVlpXQ0diYm1IdXJhQS1jXzdOTVNXRHJpdFdNS1RmcFRrUUgyUWxWNXBBa0lqR1FpN0ZpSU9R?oc=5",
+              "source": "위클리서울",
+              "published": "2026-08-10T14:49:53+09:00",
+              "rank": 8,
+              "outlet_count": 1,
+              "score": 7
+            },
+            {
+              "title": "게임이 화면 밖으로 나왔다…크래프톤∙컴투스∙넷마블, 경험 다채롭게",
+              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GMUtqOFZCamhIaUh0ZlQ1a0hwcjYzazlJRDQ5dHBkZmtGQnc5end3R29nYzh1RHZHbkRIUnZxaTlEeE5ibzZuMUtUWnZxR3FJVVpKTDFlWHV2bDN0NXpqTC1pcU5ZNUZUdnc?oc=5",
+              "source": "한국면세뉴스",
+              "published": "2026-08-10T17:39:24+09:00",
+              "rank": 10,
+              "outlet_count": 1,
+              "score": 6
+            },
+            {
+              "title": "[위클리오늘] 온라인 게임_스마일게이트, 컴투스(8.10)",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BWHM4TE1xWmM5S184Wk1JRHg2dXpFcy1PdVI5TS1wU0VVZTRHcDNNRkxoaFhfQmItTzcxMF9mR2ExcUFfSVY2c0s4Q0NNeU5NOVhodlN5SEd0YTBGb2RpSDdFWHNRSi1zRDFiMElB?oc=5",
+              "source": "위클리오늘",
+              "published": "2026-08-10T12:05:56+09:00",
+              "rank": 16,
+              "outlet_count": 1,
+              "score": 6
+            },
+            {
+              "title": "AI 입은 MMORPG…스마일게이트·컴투스, 자동 넘어 'AI 모드' 전면에",
+              "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1McFA4b21iUUk4bDVtaXAwYzYtQkhEc1VWSFlOeGJQV2NpRXJCLXhKamZ3LWVleG9fZW10UWNtdzFVR1VPTkNmSElFZ052NmZoTktud1F3?oc=5",
+              "source": "지디넷코리아",
+              "published": "2026-08-10T11:51:13+09:00",
+              "rank": 25,
+              "outlet_count": 1,
+              "score": 6
+            },
+            {
+              "title": "[현장] 컴투스의 넥스트 스텝 '제우스: 오만의 신'...무기 과금 덜고 '9900원 구독' 승부수 띄웠다",
+              "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1neWp4bDBjYzR3RmhOXzdJckE2TEhIZmctQTloRkV1VkVuR244b0lMQ01RSGl5bEF6Q3RJeEFiM0JjX2FFUEdabTFLaTBVLVhsM1JIaw?oc=5",
+              "source": "더밸류뉴스",
+              "published": "2026-08-10T10:39:04+09:00",
+              "rank": 12,
+              "outlet_count": 1,
+              "score": 6
+            },
+            {
+              "title": "[현장POP] 컴투스 신작 '제우스: 오만의 신' 출시 임박...\"상위 이용자 독식 줄이고 편의성 높였다\"",
+              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE01T0dNNW9BLVpDN3BMamtVQ2hDN1lRUWc0a01kZmkybndxa0RlMGJSR29pX0E2blN4UXhWWVhZRHRUd0c4dVk1YWszV0dtdnhha3U5NEl1MExrOXZNa1hHLXlJZUI3LXU0?oc=5",
+              "source": "데일리팝",
+              "published": "2026-08-10T10:21:00+09:00",
+              "rank": 29,
+              "outlet_count": 1,
+              "score": 6
+            },
+            {
+              "title": "게임주, 종목별 차별화 흐름···데브시스터즈·위메이드 상승·엔씨 하락",
+              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBOSlQ1aF8xOVVUa2hJWHJ2bndVQ0dsUUp4NHZ2aU5VZnN4R040MUVuaEdITnlEbHlFdGxjMGhLYWNhWTBxdUo2anMwVEZRV2dKcTB5NDc0RzVZdlNiLVQ1Z0d0Ql81b3lqeC1z0gFvQVVfeXFMTVdpM3JadDVHTThTOUNtdVFZZFdoOUdpck5wWVhOZ2JNemNLcnlGM1laRzZNaTlsbXJVRnJ2bmxsc2pydEZDdHFQZGZEMGlMZVExanNqRXRFZjBhNGhaTVdUTUV6RFF4dUxnRU40TlRB?oc=5",
+              "source": "글로벌E",
+              "published": "2026-08-10T17:13:32+09:00",
+              "rank": 41,
+              "outlet_count": 1,
+              "score": 5
+            }
+          ],
+          "image": "http://www.efnews.co.kr/news/photo/202608/131494_118299_3554.jpg",
+          "image_alt": "컴투스 SWC, 오픈 퀄리파이어-한국 1위 SKIT 월드 파이널 진출",
+          "image_source": "파이낸셜신문",
+          "image_host": "www.efnews.co.kr"
+        },
+        {
+          "name": "엔씨소프트",
+          "stock_code": "036570",
+          "found": 11,
+          "story_count": 11,
+          "search_url": "https://news.google.com/search?q=%EC%97%94%EC%94%A8%EC%86%8C%ED%94%84%ED%8A%B8%20when%3A2d&hl=ko&gl=KR&ceid=KR:ko",
+          "articles": [
+            {
+              "title": "\"이 월급 받고 못 버텨\"…7년차↑ 직장인 '우르르' 몰리는 곳",
+              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjcGFkMWZ2ODY4bWx4TFpJVEplLUF3dkpoTkFOU2lwRnhCN2xCUFhwcGVzNVJlVndYa1BKSkl2QWtnZGVFRy1pV3Z0QWlaX1BrWnZ1ZzBHejdwQQ?oc=5",
+              "source": "한국경제",
+              "published": "2026-08-10T14:30:42+09:00",
+              "rank": 6,
+              "outlet_count": 1,
+              "score": 9
+            },
+            {
+              "title": "아식스 OEM社, 테헤란로 브이플렉스 품는다 [시그널]",
+              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KU19GYUQ3N1d1bDVtN0tiRXNzRzlwa3FfdTQyT091Y21PblpLLVNGd2dCQ3BRaHhFWVlyZnc3U3RscklDcUFJX0tYVnI4RFJEc2VVOFVZMHBGQTBsT3FpYQ?oc=5",
+              "source": "news.nate.com",
+              "published": "2026-08-10T18:36:00+09:00",
+              "rank": 0,
+              "outlet_count": 1,
+              "score": 7
+            },
+            {
+              "title": "500만장 돌파한 '서브노티카2'…K게임, 글로벌 시장서 순항",
+              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9hNVNTQWZWZEZSamd0UHpoekplc2d5a0MtZEsxUUtNLUVpZlFYYUNKbEU1Q3VPWEVrQXdqS0UtTXB3SUd6ajVFQW1pc3RUbFFuTXRscnZfUnJ1ODJKYXoxSFEyamI?oc=5",
+              "source": "sentv.co.kr",
+              "published": "2026-08-10T18:07:20+09:00",
+              "rank": 4,
+              "outlet_count": 1,
+              "score": 7
+            },
+            {
+              "title": "LG전자, 영국서 차세대 무선 월페이퍼 TV 특별 전시 外",
+              "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE40ZTMwNHVrNDJtcFZHTTBIeENrU0V0TTh1ZjlkaUJEeHFCT3N3TTNRcDJySllrMWcwWWlTN2lwUVdCajA1UHNVVUJhVU1ydmRK?oc=5",
+              "source": "톱데일리",
+              "published": "2026-08-10T14:56:00+09:00",
+              "rank": 7,
+              "outlet_count": 1,
+              "score": 7
+            },
+            {
+              "title": "[아이지에이웍스] 월간 인기 모바일 게임 순위",
+              "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBQVWxBNnpWRUIxRkx1VGtINHFVb1pNZDRCVzd4V2dlaU5lZ1pZZFhFZU5pNE5ZOU9veFEtQURpd2tLczQ4WElHdUFTc1FCQQ?oc=5",
+              "source": "아이보스",
+              "published": "2026-08-10T11:00:05+09:00",
+              "rank": 9,
+              "outlet_count": 1,
+              "score": 7
+            },
+            {
+              "title": "[위클리 관전포인트] 물가·고용·가계빚에 쏠린 눈",
+              "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5UcXFUT2xwVnZsLVBKYU9HRU84d005UV9RWVRrNnlrTUFmcUpZUXI3SjV3Tl9MemQ2TFNlZGtsc1FWZThxS0V5b0JyT0tEUm5uY1BvVktLNno5bmQ2MGI4SEVuX1pXZ9IBakFVX3lxTE5OclF5NV90MmdPYWNFS0lJMklzWXpsRkhMcm55QUNnWDJ5UTRUTmhOdGxqU3RKYWNrbC1iU05SYUQtam1nY2ZZOFhjOVRzUDhoLURPSnBhYTA3c3R3QnhWQlc1eVRfNE4tYVE?oc=5",
+              "source": "한국농어촌방송",
+              "published": "2026-08-10T06:00:00+09:00",
+              "rank": 10,
+              "outlet_count": 1,
+              "score": 6
+            },
+            {
+              "title": "산업혁명에 비견되는 'AI 혁명'…장현국 넥써쓰 대표 \"원스토어 'AI 게임즈', 글로벌 최초의 게임 유통 플랫폼 될 것\" [쿠키 초점]",
+              "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB0aW9nbzhlWnBacFJsU2tGTHNNbWpaOEUwZkRYSkFvN2tDLUtBMjhValBnMU41RmtteUhnempMWGppNURIbWpvaVFyVUptVzlxNXhRRlpQYzI5TUdyeGI4R0FMQ2NqVC1wUmx2eUlwLWFyNWxqSWJ5bQ?oc=5",
+              "source": "news.nate.com",
+              "published": "2026-08-09T17:46:00+09:00",
+              "rank": 5,
+              "outlet_count": 1,
+              "score": 3
+            },
+            {
+              "title": "[DD 주간브리핑] 게임·유통 2분기 실적 연쇄 공시… 펄어비스 반등·신세계-이마트 `희비` 갈리나",
+              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1vd0x1NTI2Yzd3Tlo5OTB5Tkd0TF9xVTAzR0V4UWg2TXlCOTFoOWtBVl93Y2N2NUhQdEc2dTZ4XzFueERyM2JxRGhwbWxuM0VtdnZ0U1FHemtfMTVNLTRILXhlOWY?oc=5",
+              "source": "디지털데일리",
+              "published": "2026-08-09T11:34:44+09:00",
+              "rank": 2,
+              "outlet_count": 1,
+              "score": 3
+            },
+            {
+              "title": "[캐리해볼까] 그라비티·컴투스·조이시티·넵튠·네오위즈·엔씨 외",
+              "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBiQ0hCRmEwVHdhOTR6VDk1aFdGQ0FqT1hLdzlqM0NUbVJLYk8xNWFEYW1HUmZEdzV3MnRlSmVtdTZZNWdSNThKeGpoUThqNEpYX3B2VjB1QVNaTGd0eWNaTU9qZw?oc=5",
+              "source": "newsprime.co.kr",
+              "published": "2026-08-09T10:01:40+09:00",
+              "rank": 1,
+              "outlet_count": 1,
+              "score": 3
+            },
+            {
+              "title": "NC AX·폴라리스AI핸디·DAI·SK AX 등 AI·AX 사명 변경 '붐'...피플바이오·탑코미디어 등 AI 사업 본격화",
+              "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ydnRfNXpVcmtwLXFUVU15U29QZ3V3LUhCb2hNbmpNUjhwU19uQWVvRWRVRVBpOG0xNmxoWi1IVWFXRkMweHRrc2ZjalJ6ekVGVkNrcVJjdUNCNEZ2b1ctMDM2WjRDc0U?oc=5",
+              "source": "녹색경제신문",
+              "published": "2026-08-09T09:30:22+09:00",
+              "rank": 8,
+              "outlet_count": 1,
+              "score": 3
+            },
+            {
+              "title": "“창원NC 빠진 응원가”…팬들 ‘배신감’ vs 연고지 이전설 확산",
+              "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByb1VzUlJOTmJ1c2U1c3hRb3hxcEpySFFwUHhsdzlyUHhNNEtVT3FJYnc0Z1ZTNXRZLTAyNHR2cmlzNC1wd0NPS19vaWp1YzVSNjNYWUxub2ZuX2VDdTh1QTROSQ?oc=5",
+              "source": "쿠키뉴스",
+              "published": "2026-08-09T01:22:53+09:00",
+              "rank": 3,
+              "outlet_count": 1,
+              "score": 3
+            }
+          ],
+          "image": "https://img.hankyung.com/photo/202608/99.11051333.1.jpg",
+          "image_alt": "\"이 월급 받고 못 버텨\"…7년차↑ 직장인 '우르르' 몰리는 곳",
+          "image_source": "한국경제",
+          "image_host": "www.hankyung.com"
+        }
+      ]
+    },
+    {
+      "name": "엔터테인먼트",
+      "color": "#db2777",
+      "companies": [
+        {
+          "name": "SM Ent.",
+          "stock_code": "041510",
+          "found": 38,
+          "story_count": 27,
+          "search_url": "https://news.google.com/search?q=SM%EC%97%94%ED%84%B0%ED%85%8C%EC%9D%B8%EB%A8%BC%ED%8A%B8%20OR%20%EC%97%90%EC%8A%A4%EC%97%A0%EC%97%94%ED%84%B0%ED%85%8C%EC%9D%B8%EB%A8%BC%ED%8A%B8%20when%3A2d&hl=ko&gl=KR&ceid=KR:ko",
+          "articles": [
+            {
+              "title": "[가요소식] NCT JNJM, 방콕 팬미팅에 2만7천명 동원",
+              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE82TngtdXJHYy1DdlU3RWwwTVp1SkhMN2hYbDJlSTU2NFRybFJHal93cTl2dVJmTTdnV0ZzeTJOVGQzQ3NkdE1jMTNXYmFNMDd5S1hvM19LNWg5cmhZdmRfUtIBYEFVX3lxTE82TngtdXJHYy1DdlU3RWwwTVp1SkhMN2hYbDJlSTU2NFRybFJHal93cTl2dVJmTTdnV0ZzeTJOVGQzQ3NkdE1jMTNXYmFNMDd5S1hvM19LNWg5cmhZdmRfUg?oc=5",
+              "source": "연합뉴스",
+              "published": "2026-08-10T16:24:42+09:00",
+              "rank": 23,
+              "outlet_count": 2,
+              "score": 11
+            },
+            {
+              "title": "하츠투하츠, 日 데뷔곡 'ICONIC HEART' 음원 선공개…열도 본격공략",
+              "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE93Szg5UzB0Q2wwWmUtU2dMb2JsTFljb2lZcXdNa3V0VnBjNXM4Ql9Ga0xpSDNVQVpaNTJhZUNQMEhCT0hSdEpGLTMtWHJ5YUhIUTY5RndZU0FCdmxWTTk3U3NPWXZfQQ?oc=5",
+              "source": "뉴스컬처",
+              "published": "2026-08-09T11:27:42+09:00",
+              "rank": 11,
+              "outlet_count": 3,
+              "score": 10
+            },
+            {
+              "title": "사진=SM엔터테인먼트",
+              "url": "https://news.google.com/rss/articles/CBMi3ANBVV95cUxNZzF2c3NEMzk2YTV3NGVSQnZhTlhNbThRTHZGZWh3eGwxRTUzMWd1ckZEWFFVdllkNEMyYjRVV1dsU1FsQl94OUhmS3F0aEZDWFAwM0xGUjE5bUg1VWlRS2tLbUN3d3MtSmFXVUdJR2hFcWFfS2NUM0RpTmpvcUVKLTlrZElOTTZsamgyaU9PbEh0NDVKbE01UWNxaFpwX00tZEhRSVI3NVdfMmFxV25hc2RERnltdWxkODRGWkFZT1hSQXhNakplT05leG1rbUpma1ljcWRSZ01rcFd6QWtaQ281NEhKQ0RuSUduaThWMmVOQ2w0eUsxb2Y4UXotR3I5VEMxYURzSUhuX0VwUnFiQmpGMmdGUUNWWHJRUnh2MnFTbWIxeWdTODZwRFNlcEJJUHgwTkYxQ0RDajZLMG82X2ZiRlFjUk5RVTZOT3Fza0g1aUhmaVpfMHBpT3kwLWNBTEswVjQ3SGVNTDRkbTVUUlVwQlNVUTVoMUNreGlYbUdaVTFEVEhFOXh4S05IREM1NGMwVEF3WGdVUXVQVmNVWEdSbFN5YlF3elRXdS1MTWdpejRYcF9idUFibjNobmRuUkVHa29XVDRqY3hKSnFmendXLXVFaDNCNUJKZQ?oc=5",
+              "source": "전자신문",
+              "published": "2026-08-10T03:25:14+09:00",
+              "rank": 0,
+              "outlet_count": 1,
+              "score": 9
+            },
+            {
+              "title": "하츠투하츠, 오늘 日 데뷔 싱글 음원 선공개…'아이코닉 하트'",
+              "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1wNjJ4cFFncXp0UF9iR0VDQ2JzTmVLamVoX25YUmN0RVFrZ1habU1EeGZ0MTl2NTJzZnptT0x1RWhNQUVPVEdSUnFUQVpxQ2duS1U1c0d6dm5zSEhwbDY3R0gzOHRGRWdmb0pZU2RZVThmaVR4M0o3dNIBeEFVX3lxTE1wNjJ4cFFncXp0UF9iR0VDQ2JzTmVLamVoX25YUmN0RVFrZ1habU1EeGZ0MTl2NTJzZnptT0x1RWhNQUVPVEdSUnFUQVpxQ2duS1U1c0d6dm5zSEhwbDY3R0gzOHRGRWdmb0pZU2RZVThmaVR4M0o3dA?oc=5",
+              "source": "뉴시스",
+              "published": "2026-08-10T00:00:00+09:00",
+              "rank": 2,
+              "outlet_count": 1,
+              "score": 9
+            },
+            {
+              "title": "김희철, 결국 '거꾸로 태극기' 사과 \"깊게 보지 못했다\"",
+              "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ZSFhmOUdZUjF6RTluUnJlMG16UW1Kdno0YVVkS3BhQ0hoT3VvNEdtM19wa2Fkdzc5QUFBc24wc0JiRWJMcFNGeTFWR1RiNFlDenU3N3l1NG55MWludnU5bmxoSF9IMU1PaGZXWVNRQnNnU3hJRVF0VNIBeEFVX3lxTE1ZSFhmOUdZUjF6RTluUnJlMG16UW1Kdno0YVVkS3BhQ0hoT3VvNEdtM19wa2Fkdzc5QUFBc24wc0JiRWJMcFNGeTFWR1RiNFlDenU3N3l1NG55MWludnU5bmxoSF9IMU1PaGZXWVNRQnNnU3hJRVF0VA?oc=5",
+              "source": "뉴시스",
+              "published": "2026-08-10T06:28:50+09:00",
+              "rank": 24,
+              "outlet_count": 1,
+              "score": 8
+            },
+            {
+              "title": "웨이션브이, 오늘(10일) ‘Vision Wings’ 공개…전사로 변신한 멤버들",
+              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5tbEk5MTJJVk1pS0lOV2YwemhMOUwxVW53SGoyUUdnLUxoQ3l2eWpIVlhjR05TRURKM2oxVVc4SGFvZGh6X01yWF9ubU1QYVhLSGRlY2dmaXVob2Ftb2txcmllbnU4NTNq?oc=5",
+              "source": "뉴스엔",
+              "published": "2026-08-10T09:26:42+09:00",
+              "rank": 9,
+              "outlet_count": 1,
+              "score": 7
+            },
+            {
+              "title": "동방신기 유노윤호, 마카오 콘서트도 대성황…현지어 소통까지",
+              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9QVmNfUWFNRER0US1HcmdwcnU1RlAxVmViQzdWSjkxTDNtUHVJVmx2SlJiVk5tOFQwYWpNeTN0MGJYaE5qQVNGMHlDT1dNMG01VVl2TjVZN2dxVXNweEpUN0l5cy1GQmV6?oc=5",
+              "source": "뉴스엔",
+              "published": "2026-08-10T09:08:50+09:00",
+              "rank": 1,
+              "outlet_count": 1,
+              "score": 7
+            },
+            {
+              "title": "Super Junior's Yesung adds Seoul show as tour sells out",
+              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oNVVRTVFfNGVEdUlqVWc5dXQ5d3VPU25mMy1HdHduT2htajlBWUNnVUpncDZIUnl1eE1rWE9tVHdPcHg0UGZhZDg0Y1lPakNtT1RoaHRGRzE5bzFuR2hJSQ?oc=5",
+              "source": "news.nate.com",
+              "published": "2026-08-10T17:43:00+09:00",
+              "rank": 31,
+              "outlet_count": 1,
+              "score": 5
+            },
+            {
+              "title": "K-pop boy band NCT's duo sub-unit wrap up 1st Asian tour",
+              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tREZLU2ZnS2dfenNfUERMUXlfY2xURkhoeWcyQl9ONC1MM24wR0N5d1NCdE5JdThFaTdsdVJHQkV0T3liTWV4ZUhiYzFzTjQtM1JZ?oc=5",
+              "source": "news.nate.com",
+              "published": "2026-08-10T17:26:07+09:00",
+              "rank": 33,
+              "outlet_count": 1,
+              "score": 5
+            },
+            {
+              "title": "유노윤호, 마카오 공연 성료…아시아 솔로투어 본격 시작",
+              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pc0xaOVZISFhXOWdtR2J3SG44U1FkcXlPS25JNURsX3BRbWxYbnAteHZzYjBXY3UycTEtWVY2S3QxQVhUbGU3YU42dzJETjZEeU1z?oc=5",
+              "source": "news.nate.com",
+              "published": "2026-08-10T10:31:00+09:00",
+              "rank": 32,
+              "outlet_count": 1,
+              "score": 5
+            },
+            {
+              "title": "에스파, 첫 고척돔 콘서트 성료…세계관부터 솔로·유닛·히트곡까지 총망라",
+              "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8xWHZGTHYyS3hWUjNuR2N4ajh1bjVvOTNQZVFKci1KTlZ2TEdXUVczU1JIbFROSU5JQ18tcEc0aHk3QXRLbXFnRVRNMExqN3RUZzdyX3k4N0czOFc5b2cySFlreUFzUXRxUDE0SFo0X2M5WVktMzhyLdIBeEFVX3lxTE8xWHZGTHYyS3hWUjNuR2N4ajh1bjVvOTNQZVFKci1KTlZ2TEdXUVczU1JIbFROSU5JQ18tcEc0aHk3QXRLbXFnRVRNMExqN3RUZzdyX3k4N0czOFc5b2cySFlreUFzUXRxUDE0SFo0X2M5WVktMzhyLQ?oc=5",
+              "source": "스타데일리뉴스",
+              "published": "2026-08-09T13:13:22+09:00",
+              "rank": 20,
+              "outlet_count": 2,
+              "score": 5
+            },
+            {
+              "title": "고척돔 홀린 ‘쇠맛’ 스펙터클…에스파, 7년 차의 ‘특이점’",
+              "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81T1JoZkVNbnB6MVoyZkpoenRTSWhlNDZsR21jeDdRMVhQWGlWbEVBTDhGLVhXbXVaeUNRUnR0LTJ3TWFnZ1BaejNfT2ZaUGtFbmUtOC1B?oc=5",
+              "source": "헤럴드경제",
+              "published": "2026-08-09T12:39:33+09:00",
+              "rank": 5,
+              "outlet_count": 1,
+              "score": 5
+            }
+          ],
+          "image": "https://img0.yna.co.kr/etc/inner/KR/2026/08/10/AKR20260810115200005_03_i_P4.jpg",
+          "image_alt": "[가요소식] NCT JNJM, 방콕 팬미팅에 2만7천명 동원",
+          "image_source": "연합뉴스",
+          "image_host": "www.yna.co.kr"
+        },
+        {
+          "name": "JYP Ent.",
+          "stock_code": "035900",
+          "found": 32,
+          "story_count": 20,
+          "search_url": "https://news.google.com/search?q=JYP%EC%97%94%ED%84%B0%ED%85%8C%EC%9D%B8%EB%A8%BC%ED%8A%B8%20OR%20%22JYP%20Ent%22%20when%3A2d&hl=ko&gl=KR&ceid=KR:ko",
+          "articles": [
+            {
+              "title": "트와이스 정연, 친언니 공승연 품으로…변우석과 한솥밥 \"멤버들·JYP 감사해\" [전문]",
+              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBiWDFyZm1aLTh6a3hQV05XOVJKNHc4NTNJWE9RcDFGeWJCem1RRWw0NXpFczVRS0xocC1ydV9GNUFPVl9tMWpzQ1Nld3AwbU5IM0xyVUVZMHlGbmY4cjBJQWE0c1VSRmFyQ3lB?oc=5",
+              "source": "티브이데일리",
+              "published": "2026-08-10T14:03:17+09:00",
+              "rank": 7,
+              "outlet_count": 6,
+              "score": 24
+            },
+            {
+              "title": "2PM, 3년 만의 국내 완전체 콘서트 성료 \"다시 돌아오겠다\"",
+              "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBEZ0hhMk1DR0FrUnRzLXBqUzhHRDRzOTBHaWhEYmpEVVJRTmc1U0c2cm9ueTR5RjB3aVVjSlBYNE1NVzZwRjlTWnNSZE0zQ0hVd3dGSkJka0NLSlZ0dDZCUl9BNzlSMllwSVdQYVdyRG1ySTRocFBWaNIBeEFVX3lxTFBEZ0hhMk1DR0FrUnRzLXBqUzhHRDRzOTBHaWhEYmpEVVJRTmc1U0c2cm9ueTR5RjB3aVVjSlBYNE1NVzZwRjlTWnNSZE0zQ0hVd3dGSkJka0NLSlZ0dDZCUl9BNzlSMllwSVdQYVdyRG1ySTRocFBWaA?oc=5",
+              "source": "뉴시스",
+              "published": "2026-08-10T17:58:33+09:00",
+              "rank": 1,
+              "outlet_count": 2,
+              "score": 12
+            },
+            {
+              "title": "트와이스 정연, 11년 만에 JYP 떠난다...“트와이스 활동은 계속” [전문]",
+              "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5QeGRZejN3TktjZzFTQXpPLUVSZ3ZzUDR3bWI5MWY5REdKTjN6YnNBQS1PVWdmWG5SNHdSZDFsTmdFUURQTzlsbWRGR19uQQ?oc=5",
+              "source": "매일경제",
+              "published": "2026-08-10T14:39:30+09:00",
+              "rank": 3,
+              "outlet_count": 2,
+              "score": 12
+            },
+            {
+              "title": "ITZY, 다섯 번째 팬미팅 '올인, 믿지' 성료…7년 끈끈한 유대감 빛났다",
+              "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBOWnlUbU1FUkdoTTdTUHRKemE0ZkMyNF9XSV90VXR3Q3QtdzdFYW5YaUhHMkx6eGxFc2FjZ21jTEs0dE9CcWdyUUhWTXVybElkTUx2dkVsWXdkY3R0ZVM1VmVUT3JSdw?oc=5",
+              "source": "뉴스컬처",
+              "published": "2026-08-10T17:07:20+09:00",
+              "rank": 4,
+              "outlet_count": 2,
+              "score": 10
+            },
+            {
+              "title": "2PM, 완전체 콘서트…\"데뷔 18주년, 공연 자체가 행운\"",
+              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KMDV5dnlYc3VITHBvUkZUOVJSRjllUjRRQWg4VkxTWDhTYmdvVkhBOVFLaHRPRzBiYlhCM1JVTzFrc0gtNE1yMG1nN1lZbmh4UUpvVHlFZVZkNUV1OTI3aNIBYEFVX3lxTE1KMDV5dnlYc3VITHBvUkZUOVJSRjllUjRRQWg4VkxTWDhTYmdvVkhBOVFLaHRPRzBiYlhCM1JVTzFrc0gtNE1yMG1nN1lZbmh4UUpvVHlFZVZkNUV1OTI3aA?oc=5",
+              "source": "연합뉴스",
+              "published": "2026-08-10T17:12:46+09:00",
+              "rank": 0,
+              "outlet_count": 1,
+              "score": 9
+            },
+            {
+              "title": "정연, JYP 떠나 친언니와 같은 소속사 \"트와이스 지킬 것\"",
+              "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE02bDgwTzQ2Z0Q3bEVVVUFRbEcxN2hHNFJ2SzI1VHpiX2NDS0RQVzlXOUVSaE41RnpFR3NIRVp5UzlfVTlReEczaFo5c1UtNUd2c0hrMDNRLTYzNFpMY2p2aEhnbk11c1pKd2F2c052OWl3MVE3WXZDQtIBeEFVX3lxTE02bDgwTzQ2Z0Q3bEVVVUFRbEcxN2hHNFJ2SzI1VHpiX2NDS0RQVzlXOUVSaE41RnpFR3NIRVp5UzlfVTlReEczaFo5c1UtNUd2c0hrMDNRLTYzNFpMY2p2aEhnbk11c1pKd2F2c052OWl3MVE3WXZDQg?oc=5",
+              "source": "뉴시스",
+              "published": "2026-08-10T13:47:52+09:00",
+              "rank": 20,
+              "outlet_count": 1,
+              "score": 8
+            },
+            {
+              "title": "스트레이 키즈, '아이스 아메리카노'급 중독성 신곡 '디스 앤드 댓'으로 글로벌 차트 석권",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pcE5HQzlNT01EQzRxVGpuM2FUQXo3ZV9qa0c4aDl0Njk3bmxPanQyQnhfVmpoLXRfNkNOSzFwXzRzNURjelloZlRQaWdqdDRfS1NqRmFTeldEQ2lsUlFrdGhrUERMYWVvYmVySTN30gFuQVVfeXFMTmlwTkdDOU1PTURDNHFUam4zYVRBejdlX2prRzhoOXQ2OTdubE9qdDJCeF9WamgtdF82Q05LMXBfNHM1RGN6WWhmVFBpZ2p0NF9LU2pGYVN6V0RDaWxSUWt0aGtQRExhZW9iZXJJM3c?oc=5",
+              "source": "머니투데이",
+              "published": "2026-08-10T13:21:00+09:00",
+              "rank": 18,
+              "outlet_count": 1,
+              "score": 8
+            },
+            {
+              "title": "[뮤직컴퍼니100] 소나무엔터테인먼트 0.35% 상승·거북이 328점 상승…JYP엔터테인먼트 6.0%, 스트레이키즈 154점 상승",
+              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5HTF9ZalI0Xy1ybFY5NERQWjRxUWdSNnVnMUU0MHlkcU5saFpvemhEWWVIV2FsVldOWmVXZUx4cUVzam4xeVlUMmZEQTE3TzJDNmY4U19DRTdyaFd3OHNyQ05uVHVEZFdKS3dXZ0llZmlHUQ?oc=5",
+              "source": "톱스타뉴스",
+              "published": "2026-08-09T11:04:16+09:00",
+              "rank": 8,
+              "outlet_count": 2,
+              "score": 8
+            },
+            {
+              "title": "스트레이 키즈, 스스로 역사를 쓰는 ‘저작권 3인방’ 쓰리라차의 힘",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE43eTJVTklEd1E3aGFSaFNFX1RpeHliTVRQTmRsM1ZIaDh3eFBPNXExZFR2RXRkSy1YRVdBbEpuLWI3LW1RdFRoZnFzN1h1ZzE3UTZuc05FZnhkVEkxejRpVThERmN1S2ZQTTZyeTdB?oc=5",
+              "source": "스포츠동아",
+              "published": "2026-08-10T17:02:49+09:00",
+              "rank": 2,
+              "outlet_count": 1,
+              "score": 7
+            },
+            {
+              "title": "[조이NOW] 스키즈·빅뱅·엔하이픈·NCT127…8월 K팝 역대급 '빅매치'",
+              "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ZeGx1SkRqREFDdHFoTEFhX1pJYnQ3WWw4elh2T01mcG1DY0pzVTg4QU1xUGxwTTdpWi1CZVhDQWl6elA2WldOZDBrMl9wVUU?oc=5",
+              "source": "조이뉴스24",
+              "published": "2026-08-10T15:23:25+09:00",
+              "rank": 5,
+              "outlet_count": 1,
+              "score": 7
+            },
+            {
+              "title": "2PM, 인스파이어 아레나 꽉 채웠다…3년만 완전체 콘서트 대성황",
+              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE96ZGE1ZHJxdUJXNUpXVE0wSGgyUTdQOTVHRWE1U01yN1lGaWp5MUdnT3VzTWEzcTZNVlhPVDc1dTVYZmdYc1hkZzA1cm9DY2ZWSVpyMzNQVjQtNFk4SjlMSzBOTms1bnRv?oc=5",
+              "source": "뉴스엔",
+              "published": "2026-08-10T15:49:14+09:00",
+              "rank": 21,
+              "outlet_count": 1,
+              "score": 6
+            },
+            {
+              "title": "트와이스 첫 멤버, JYP 엔터테인먼트 탈퇴 발표",
+              "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZW1SLVRuS05RRDl0ZVA3Tk5GRlNrQ1Y4V2U2Sk9PZmpQaVh1emhhQnBTZWVhTE1IVDhxaFBHOG41amR2Q3VpQ2pFcUsyNWU0aURlbk1ZZXowXzBZZjNWRkpWdmxlRmREYmpVOUFVOWQ5eEhVWGpfcDJhSzdGTXhHUE1Hd1ozbmowOXZDNVJQNUpjM3NDRXZVbkFDdlZOTmRGRDhWVGJFTUpRQ0VBcl9tbw?oc=5",
+              "source": "Laodong.vn",
+              "published": "2026-08-10T14:19:23+09:00",
+              "rank": 11,
+              "outlet_count": 1,
+              "score": 6
+            }
+          ],
+          "image": "https://img1.newsis.com/2026/08/10/NISI20260810_0002208903_web.jpg",
+          "image_alt": "2PM, 3년 만의 국내 완전체 콘서트 성료 \"다시 돌아오겠다\"",
+          "image_source": "뉴시스",
+          "image_host": "mobile.newsis.com"
+        }
+      ]
+    }
+  ]
+}

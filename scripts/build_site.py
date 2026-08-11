@@ -257,6 +257,9 @@ def main() -> None:
     (DOCS / "assets").mkdir(parents=True, exist_ok=True)
     (DOCS / "company").mkdir(exist_ok=True)
     (DOCS / "archive").mkdir(exist_ok=True)
+    # GitHub Pages 가 Jekyll 처리를 건너뛰게 한다. 지금 구조는 문제가 없지만
+    # 밑줄로 시작하는 파일·폴더를 나중에 넣으면 Jekyll 이 조용히 빼먹는다.
+    (DOCS / ".nojekyll").touch()
     (DOCS / "assets" / "site.css").write_text(CSS, encoding="utf-8")
     (DOCS / "assets" / "site.js").write_text(JS.replace("var PREVIEW = 5;",
                                                         f"var PREVIEW = {PREVIEW};"),

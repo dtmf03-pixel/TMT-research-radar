@@ -41,8 +41,8 @@ jobs:
       - name: Fetch card thumbnails
         run: python scripts/news_thumbs.py || true   # 실패해도 보드는 그대로 나온다
 
-      - name: Build news board
-        run: python scripts/build_news_board.py
+      - name: Build site
+        run: python scripts/build_site.py
 
       - name: Commit results
         run: |

@@ -32,6 +32,7 @@ UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/126.0 Safari/537.36")
 H = {"User-Agent": UA, "Accept-Language": "ko-KR,ko;q=0.9"}
 TRIES = int(os.environ.get("THUMB_TRIES", "8"))
+WANT = int(os.environ.get("THUMB_WANT", "3"))    # 회사당 확보할 후보 이미지 수
 CACHE = DATA / "thumbs_cache.json"
 
 # 기사 사진이 아니라 언론사 기본 이미지인 경우가 흔하다. 이런 건 버린다.
@@ -104,31 +105,37 @@ def load_cache() -> dict:
     return {}
 
 
-def pick(company: dict, cache: dict) -> dict | None:
-    """회사의 상위 기사부터 훑어 첫 번째 쓸만한 이미지를 고른다."""
+def pick(company: dict, cache: dict) -> list[dict]:
+    """회사의 상위 기사부터 훑어 쓸만한 이미지를 WANT 개까지 모은다.
+
+    하나만 골라두면 그 이미지가 브라우저에서 한 번 실패했을 때 카드가 빈 채로 남는다.
+    예비 후보를 같이 저장해 화면에서 다음 것으로 넘어갈 수 있게 한다.
+    """
+    found: list[dict] = []
     for a in company["articles"][:TRIES]:
+        if len(found) >= WANT:
+            break
         key = a["url"]
-        if key in cache:                       # 실패(None)도 캐시해 재시도 안 함
-            hit = cache[key]
-            if hit:
-                return hit
+        if key in cache:                       # 실패(None)도 캐시해 재조회 안 함
+            if cache[key]:
+                found.append(cache[key])
             continue
-        found = None
+        hit = None
         try:
             real = resolve(key)
             if real and real.startswith("http"):
                 img = og_image(real)
                 if img and usable(img):
-                    found = {"image": img, "image_alt": a["title"],
-                             "image_source": a["source"],
-                             "image_host": urlparse(real).netloc}
+                    hit = {"image": img, "image_alt": a["title"],
+                           "image_source": a["source"],
+                           "image_host": urlparse(real).netloc}
         except Exception as e:  # noqa: BLE001  — 썸네일은 없어도 되는 정보
             print(f"    [skip] {type(e).__name__}: {str(e)[:60]}", file=sys.stderr)
-        cache[key] = found
+        cache[key] = hit
         time.sleep(0.5)
-        if found:
-            return found
-    return None
+        if hit:
+            found.append(hit)
+    return found
 
 
 def main() -> None:
@@ -142,12 +149,14 @@ def main() -> None:
     ok = 0
     for s in d["sectors"]:
         for c in s["companies"]:
-            hit = pick(c, cache)
-            c.update(hit or {"image": "", "image_alt": "", "image_source": "",
-                             "image_host": ""})
-            ok += bool(hit)
+            hits = pick(c, cache)
+            c["images"] = hits            # 1순위 실패 시 화면이 다음 후보로 넘어간다
+            c.update(hits[0] if hits else {"image": "", "image_alt": "",
+                                           "image_source": "", "image_host": ""})
+            ok += bool(hits)
             # Windows 콘솔(cp949)에서 깨지지 않게 기호는 ASCII 로만
-            print(f"  {c['name']:<10} {'OK ' + c['image_host'] if hit else '-- 이미지 없음'}")
+            print(f"  {c['name']:<10} "
+                  f"{f'OK {len(hits)}장 ' + c['image_host'] if hits else '-- 이미지 없음'}")
 
     # 수집 기간에서 빠진 기사는 다시 조회될 일이 없다. 캐시가 무한히 커지지 않게 정리.
     live = {a["url"] for s in d["sectors"] for c in s["companies"] for a in c["articles"]}

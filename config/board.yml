@@ -9,26 +9,37 @@
 #               감싸 쓴다. 따옴표를 붙이면 정확일치라 결과가 확 줄어드는 회사가 있어
 #               (엔씨소프트: 따옴표 2건 vs 없음 11건) 여기서 직접 조절한다.
 #   exclude     (선택) 제목에 이 단어가 있으면 버린다. 동음이의 오탐 제거용.
+#   aliases     (선택) 적으면 '제목에 이 중 하나가 있는 기사'만 남긴다. 따옴표 없는
+#               검색은 본문까지 매칭돼 무관한 기사가 딸려오는데, 그걸 막는 장치다.
+#               2글자 별칭은 앞뒤에 한글이 붙으면 다른 회사다(비엔아이엔씨·지엔씨에너지).
+#               그래서 한글 경계를 자동으로 요구하니 '엔씨'처럼 짧게 적어도 된다.
+#               엔터처럼 소속 아티스트 기사가 본론인 곳에는 쓰면 안 된다.
+#   slug        상세 페이지 파일명 (docs/company/<slug>.html)
 #   color       카드 썸네일 그라디언트 기준색 (분야별)
 
 통신·전자:
   color: "#2563eb"
   companies:
     - name: 삼성전자
+      slug: samsung-electronics
       stock_code: "005930"
     - name: SK텔레콤
+      slug: sk-telecom
       query: SK텔레콤 OR SKT
       stock_code: "017670"
     - name: SK하이닉스
+      slug: sk-hynix
       stock_code: "000660"
 
 플랫폼:
   color: "#0d9488"
   companies:
     - name: NAVER
+      slug: naver
       query: 네이버 OR NAVER
       stock_code: "035420"
     - name: 카카오
+      slug: kakao
       # '카카오게임즈'·'카카오뱅크'·'카카오페이'는 별도 상장사라 제외
       exclude: [카카오게임즈, 카카오뱅크, 카카오페이, 카카오모빌리티]
       stock_code: "035720"
@@ -37,24 +48,32 @@
   color: "#7c3aed"
   companies:
     - name: 크래프톤
+      slug: krafton
       stock_code: "259960"
     - name: 컴투스
+      slug: com2us
       exclude: [컴투스홀딩스]
       stock_code: "078340"
     - name: 엔씨소프트
-      # 따옴표 없이. 'NCSOFT'·'엔씨'를 OR 로 더해봐도 늘지 않거나(전자)
-      # 지엔씨에너지 같은 오탐만 늘어서(후자) 이 형태가 가장 낫다.
-      query: 엔씨소프트
+      slug: ncsoft
+      # 따옴표를 빼면 본문까지 매칭돼 무관한 기사가 대량으로 딸려온다(11건 중 10건).
+      # 따옴표로 정확일치를 유지하고, 줄여 쓰는 '엔씨'를 OR 로 보충한 뒤
+      # aliases 로 제목까지 확인해 지엔씨에너지 류 오탐을 걷어낸다.
+      query: '"엔씨소프트" OR "엔씨"'
+      aliases: [엔씨소프트, 엔씨, NC소프트, NCSOFT]
       stock_code: "036570"
     - name: 넷마블
+      slug: netmarble
       stock_code: "251270"
 
 엔터테인먼트:
   color: "#db2777"
   companies:
     - name: JYP Ent.
+      slug: jyp
       query: JYP엔터테인먼트 OR "JYP Ent"
       stock_code: "035900"
     - name: SM Ent.
+      slug: sm
       query: SM엔터테인먼트 OR 에스엠엔터테인먼트
       stock_code: "041510"

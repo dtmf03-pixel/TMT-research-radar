@@ -8,7 +8,8 @@ news_monitor.py 와 달리 회계 필터를 걸지 않는다. 회사 관련 **�
 
 환경변수로 조절:
   BOARD_WINDOW  수집 기간 (기본 2d — 매일 갱신 기준). 예: 1d, 7d
-  BOARD_MAX     회사당 저장할 기사 수 (기본 12)
+  BOARD_MAX     회사당 저장할 이슈 수 (기본 40). 메인 카드는 이 중 앞부분만 쓰고,
+                회사 상세 페이지가 나머지를 전부 보여준다.
 """
 from __future__ import annotations
 import json
@@ -25,7 +26,7 @@ from news_monitor import fetch
 
 KST = timezone(timedelta(hours=9))
 WINDOW = os.environ.get("BOARD_WINDOW", "2d")
-MAX_PER_COMPANY = int(os.environ.get("BOARD_MAX", "12"))
+MAX_PER_COMPANY = int(os.environ.get("BOARD_MAX", "40"))
 SLEEP = 0.8   # RSS 연속 호출 간격
 
 
@@ -76,6 +77,18 @@ def google_news_link(query: str) -> str:
     return f"https://news.google.com/search?q={q}&hl=ko&gl=KR&ceid=KR:ko"
 
 
+def alias_filter(aliases: list[str]) -> re.Pattern | None:
+    """제목에 회사 별칭이 있는지 볼 정규식. 앞뒤 한글 경계를 요구한다.
+
+    '엔씨' 를 단순 부분일치로 찾으면 비엔아이엔씨·지엔씨에너지·남유에프엔씨가 걸린다.
+    한글이 바로 붙어 있으면 다른 회사 이름의 일부로 보고 제외한다.
+    """
+    if not aliases:
+        return None
+    parts = [rf"(?<![가-힣]){re.escape(a)}(?![가-힣])" for a in aliases]
+    return re.compile("|".join(parts), re.I)
+
+
 def is_major(source: str, majors: list[str]) -> bool:
     return any(m in source or source in m for m in majors if m)
 
@@ -104,6 +117,7 @@ def collect(company: dict, now: datetime, rank_cfg: dict) -> dict:
     name = company["name"]
     query = company.get("query") or name
     exclude = company.get("exclude") or []
+    must = alias_filter(company.get("aliases") or [])
 
     # query 를 직접 준 경우엔 적힌 그대로 쓴다(따옴표·OR 를 회사별로 조절하기 위함).
     # 따옴표 유무로 결과가 몇 배씩 갈리는 회사가 있어 자동으로 손대지 않는다.
@@ -124,6 +138,8 @@ def collect(company: dict, now: datetime, rank_cfg: dict) -> dict:
         title = strip_source(it["title"], it["source"])
         if not title or any(x in title for x in exclude):
             continue
+        if must and not must.search(title):
+            continue        # 본문에만 회사가 스친 기사 — 제목에 없으면 그 회사 뉴스가 아니다
         kept += 1
         grams = bigrams(title)
         # 대표 제목 하나가 아니라 이미 묶인 기사 전부와 비교하되, 최소 min_hits 건과
@@ -156,6 +172,7 @@ def collect(company: dict, now: datetime, rank_cfg: dict) -> dict:
     stories.sort(key=lambda s: (s["score"], s["published"]), reverse=True)
     return {
         "name": name,
+        "slug": company.get("slug", ""),
         "stock_code": company.get("stock_code", ""),
         "found": kept,                       # 기간 내 수집 기사 수(카드 배지)
         "story_count": len(stories),         # 중복 보도를 묶은 뒤의 사건 수

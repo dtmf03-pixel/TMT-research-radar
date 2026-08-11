@@ -1,6 +1,6 @@
 """data/news_board.json → docs/ 정적 사이트.
 
-  docs/index.html                메인 보드 (11개사 카드 + 검색 + 분야 탭)
+  docs/index.html                메인 보드 (회사별 카드 + 검색 + 분야 탭)
   docs/company/<slug>.html       회사별 상세 — 수집한 이슈 전량과 보도 매체
   docs/archive/YYYY-MM-DD.html   그날의 보드 스냅샷
   docs/archive/index.html        스냅샷 목록
@@ -116,7 +116,8 @@ def article_li(a: dict, now: datetime, cls: str = "") -> str:
             f'<div class="src">{src}</div></li>')
 
 
-def card(firm: dict, sector: dict, now: datetime, root: str, linked: bool = True) -> str:
+def card(firm: dict, sector: dict, now: datetime, root: str,
+         linked: bool = True, d_window: str = "") -> str:
     e = html.escape
     shown = firm["articles"][:CARD_MAX]
     items = [article_li(a, now, ' class="more"' if i >= PREVIEW else "")
@@ -131,6 +132,9 @@ def card(firm: dict, sector: dict, now: datetime, root: str, linked: bool = True
     bits = [f'{firm["found"]}건']
     if firm.get("story_count"):
         bits.append(f'{firm["story_count"]}개 이슈')
+    # 보도량이 얇아 더 긴 기간을 쓴 회사는 그 사실을 카드에 밝힌다.
+    if firm.get("window") and firm["window"] != d_window:
+        bits.append(f'최근 {firm["window"].rstrip("d")}일')
 
     detail = f'{root}company/{firm["slug"]}.html' if firm.get("slug") else ""
     name = (f'<a href="{e(detail)}">{e(firm["name"])}</a>'
@@ -157,7 +161,8 @@ def board_body(d: dict, now: datetime, root: str, heading: str,
     for s in d["sectors"]:
         tabs.append(f'<button class="tab" data-sector="{html.escape(s["name"])}">'
                     f'{html.escape(s["name"])}</button>')
-        cards += [(c["found"], card(c, s, now, root, linked)) for c in s["companies"]]
+        cards += [(c["found"], card(c, s, now, root, linked, d.get("window", "")))
+                  for c in s["companies"]]
     cards.sort(key=lambda x: x[0], reverse=True)
 
     box = ('<input id="q" type="search" placeholder="회사·기사 제목 검색" '

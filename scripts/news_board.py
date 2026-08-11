@@ -72,20 +72,27 @@ def to_iso(pubdate: str) -> str:
         return ""
 
 
-def google_news_link(query: str) -> str:
-    q = urllib.parse.quote(f"{query} when:{WINDOW}")
+def google_news_link(query: str, window: str) -> str:
+    q = urllib.parse.quote(f"{query} when:{window}")
     return f"https://news.google.com/search?q={q}&hl=ko&gl=KR&ceid=KR:ko"
 
 
 def alias_filter(aliases: list[str]) -> re.Pattern | None:
-    """제목에 회사 별칭이 있는지 볼 정규식. 앞뒤 한글 경계를 요구한다.
+    """제목에 회사 별칭이 있는지 볼 정규식.
 
-    '엔씨' 를 단순 부분일치로 찾으면 비엔아이엔씨·지엔씨에너지·남유에프엔씨가 걸린다.
-    한글이 바로 붙어 있으면 다른 회사 이름의 일부로 보고 제외한다.
+    앞에 한글·영숫자가 붙어 있으면 다른 회사 이름의 일부다 — '지엔씨에너지'의 엔씨,
+    'SKT'의 KT. 그래서 왼쪽은 막는다.
+
+    반대로 오른쪽 한글까지 막으면 안 된다. 조사가 붙는 게 한국어의 기본이라
+    '엔씨소프트가', '엔씨소프트의' 가 전부 탈락해 버린다. 오른쪽은 영숫자만 막아
+    'KTX' 가 KT 로 잡히는 것만 걸러낸다.
+
+    '하이브'/'하이브리드'처럼 뒤에 한글이 붙어 다른 말이 되는 경우는 이 규칙으로
+    거를 수 없다. 그건 회사별 exclude 로 처리한다.
     """
     if not aliases:
         return None
-    parts = [rf"(?<![가-힣]){re.escape(a)}(?![가-힣])" for a in aliases]
+    parts = [rf"(?<![가-힣A-Za-z0-9]){re.escape(a)}(?![A-Za-z0-9])" for a in aliases]
     return re.compile("|".join(parts), re.I)
 
 
@@ -118,12 +125,15 @@ def collect(company: dict, now: datetime, rank_cfg: dict) -> dict:
     query = company.get("query") or name
     exclude = company.get("exclude") or []
     must = alias_filter(company.get("aliases") or [])
+    # 광고·미디어처럼 보도량이 얇은 회사는 기본 기간으로는 카드가 비어버린다.
+    # 회사별로 더 긴 창을 줄 수 있게 한다.
+    window = company.get("window") or WINDOW
 
     # query 를 직접 준 경우엔 적힌 그대로 쓴다(따옴표·OR 를 회사별로 조절하기 위함).
     # 따옴표 유무로 결과가 몇 배씩 갈리는 회사가 있어 자동으로 손대지 않는다.
     term = company.get("query") or f'"{name}"'
     try:
-        raw = fetch(f"{term} when:{WINDOW}")
+        raw = fetch(f"{term} when:{window}")
     except Exception as e:  # noqa: BLE001
         print(f"[warn] {name}: {e}", file=sys.stderr)
         raw = []
@@ -176,7 +186,8 @@ def collect(company: dict, now: datetime, rank_cfg: dict) -> dict:
         "stock_code": company.get("stock_code", ""),
         "found": kept,                       # 기간 내 수집 기사 수(카드 배지)
         "story_count": len(stories),         # 중복 보도를 묶은 뒤의 사건 수
-        "search_url": google_news_link(query),
+        "window": window,                    # 기본값과 다르면 화면에 표시한다
+        "search_url": google_news_link(query, window),
         "articles": stories[:MAX_PER_COMPANY],
     }
 
@@ -205,6 +216,7 @@ def main() -> None:
 
     out = {
         "generated_at": now.isoformat(),
+        "window": WINDOW,          # 기본 수집 기간. 회사별로 다르면 카드에 표시한다
         "window_days": days,
         "period_from": (now - timedelta(days=days)).strftime("%Y.%m.%d"),
         "period_to": now.strftime("%Y.%m.%d"),

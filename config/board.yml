@@ -11,9 +11,12 @@
 #   exclude     (선택) 제목에 이 단어가 있으면 버린다. 동음이의 오탐 제거용.
 #   aliases     (선택) 적으면 '제목에 이 중 하나가 있는 기사'만 남긴다. 따옴표 없는
 #               검색은 본문까지 매칭돼 무관한 기사가 딸려오는데, 그걸 막는 장치다.
-#               2글자 별칭은 앞뒤에 한글이 붙으면 다른 회사다(비엔아이엔씨·지엔씨에너지).
-#               그래서 한글 경계를 자동으로 요구하니 '엔씨'처럼 짧게 적어도 된다.
+#               앞에 한글·영숫자가 붙으면 다른 회사로 보고 자동으로 거른다
+#               (지엔씨에너지의 '엔씨', SKT·KTX 의 'KT'). 뒤에 붙는 한글은 조사이므로
+#               막지 않는다. '하이브'/'하이브리드'처럼 뒤가 문제인 경우는 exclude 로.
 #               엔터처럼 소속 아티스트 기사가 본론인 곳에는 쓰면 안 된다.
+#   window      (선택) 이 회사만 다른 수집 기간. 없으면 BOARD_WINDOW(기본 2d).
+#               광고·미디어처럼 보도량이 얇으면 2일로는 카드가 빈다.
 #   slug        상세 페이지 파일명 (docs/company/<slug>.html)
 #   color       카드 썸네일 그라디언트 기준색 (분야별)
 
@@ -30,6 +33,17 @@
     - name: SK하이닉스
       slug: sk-hynix
       stock_code: "000660"
+    - name: KT
+      slug: kt
+      # 'KT 위즈' 야구 기사가 통신 뉴스만큼 쏟아진다. 스포츠 어휘로 걸러낸다.
+      query: '"KT" OR "케이티"'
+      aliases: [KT, 케이티]
+      exclude: [위즈, 프로야구, 홈런, 투수, 타자, 야구, 선발, 승리투수]
+      stock_code: "030200"
+    - name: LG유플러스
+      slug: lg-uplus
+      query: LG유플러스 OR "LG U+"
+      stock_code: "032640"
 
 플랫폼:
   color: "#0d9488"
@@ -77,3 +91,46 @@
       slug: sm
       query: SM엔터테인먼트 OR 에스엠엔터테인먼트
       stock_code: "041510"
+    - name: 하이브
+      slug: hybe
+      # '하이브리드'는 왼쪽 경계 규칙으로 못 거른다(뒤에 한글이 붙어 다른 말이 됨).
+      # '더 하이브'라는 상가 분양 기사도 걸려 부동산 어휘를 함께 막는다.
+      query: '"하이브" OR HYBE'
+      exclude: [하이브리드, 하이그리드, 분양, 상업시설]
+      stock_code: "352820"
+
+미디어·콘텐츠:
+  color: "#ea580c"
+  companies:
+    - name: CJ ENM
+      window: 7d              # 정확일치로 좁혀 2일로는 카드가 얇다
+      slug: cj-enm
+      query: '"CJ ENM"'
+      stock_code: "035760"
+    - name: 콘텐트리중앙
+      window: 14d
+      slug: contentree
+      query: 콘텐트리중앙 OR 콘텐트리
+      stock_code: "036420"
+
+광고:
+  color: "#0891b2"
+  companies:
+    - name: 제일기획
+      window: 14d
+      slug: cheil
+      stock_code: "030000"
+    - name: 이노션
+      window: 7d
+      slug: innocean
+      stock_code: "214320"
+    - name: 대홍기획
+      window: 14d
+      slug: daehong
+      stock_code: ""          # 롯데 계열, 비상장
+    - name: SM C&C
+      window: 14d
+      slug: sm-cnc
+      query: '"SM C&C" OR 에스엠씨앤씨'
+      aliases: [SM C&C, SMC&C, 에스엠씨앤씨]
+      stock_code: "048550"

@@ -70,15 +70,16 @@ python scripts/build_dashboard.py
 > 교체되며, 커밋 히스토리에 주차별 리서치 기록이 쌓입니다. 수동 실행은 Actions 탭 → Run workflow.
 
 <!--RADAR:START-->
-_최종 갱신: 2026-08-17 08:47 KST_
+_최종 갱신: 2026-08-24 08:51 KST_
 
-**수집 현황** — DART 공시 167 · 뉴스 331 · 회계법인 리포트 3
+**수집 현황** — DART 공시 169 · 뉴스 331 · 회계법인 리포트 3
 
 ### 📄 DART 공시 (회계 이슈 필터)
-_종류별: 실적 73 · 📘정기 54 · 🔴정정 17 · 🟡주요사항 23_
+_종류별: 실적 73 · 📘정기 54 · 🔴정정 18 · 🟡주요사항 24_
 
 | 종류 | 업종 | 기업 | 일자 | 공시 |
 |---|---|---|---|---|
+| 🔴정정 | IT | 카카오 | 20260819 | [[기재정정]반기보고서 (2026.06)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260819000055) |
 | 🔴정정 | IT | 다우데이타 | 20260811 | [[기재정정]회사합병결정(종속회사의주요경영사항)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260811900833) |
 | 🔴정정 | 게임 | 넷마블 | 20260807 | [[기재정정]증권발행실적보고서(합병등)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260807000552) |
 | 🔴정정 | 게임 | 더블유게임즈 | 20260724 | [[기재정정]사업보고서 (2025.12)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260724000595) |
@@ -88,7 +89,6 @@ _종류별: 실적 73 · 📘정기 54 · 🔴정정 17 · 🟡주요사항 23_
 | 🔴정정 | 게임 | 위메이드 | 20260630 | [[기재정정]최대주주변경을수반하는주식양수도계약체결](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260630901591) |
 | 🔴정정 | 미디어 | 콘텐트리중앙 | 20260630 | [[기재정정]타법인주식및출자증권취득결정](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260630801156) |
 | 🔴정정 | 미디어 | 콘텐트리중앙 | 20260630 | [[기재정정]자기전환사채만기전취득결정](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260630801106) |
-| 🔴정정 | 미디어 | 콘텐트리중앙 | 20260630 | [[기재정정]주요사항보고서(전환사채권발행결정)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260630000851) |
 | 📘정기 | 게임 | 넷마블 | 20260814 | [반기보고서 (2026.06)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814002548) |
 | 📘정기 | 게임 | 엔씨소프트 | 20260814 | [반기보고서 (2026.06)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814003764) |
 | 📘정기 | 게임 | 크래프톤 | 20260814 | [반기보고서 (2026.06)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814003894) |
@@ -99,6 +99,8 @@ _종류별: 실적 73 · 📘정기 54 · 🔴정정 17 · 🟡주요사항 23_
 | 📘정기 | 게임 | 위메이드 | 20260814 | [반기보고서 (2026.06)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814003490) |
 | 📘정기 | 게임 | 네오위즈 | 20260814 | [반기보고서 (2026.06)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814003548) |
 | 📘정기 | 게임 | 더블유게임즈 | 20260814 | [반기보고서 (2026.06)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814003909) |
+| 🟡주요사항 | IT | 카카오 | 20260821 | [주요사항보고서(회사합병결정)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260821000052) |
+| 🟡주요사항 | IT | 카카오 | 20260821 | [주요사항보고서(회사분할결정)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260821000047) |
 | 🟡주요사항 | IT | 무신사 | 20260813 | [주요사항보고서(자기주식처분결정)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260813001369) |
 | 🟡주요사항 | 게임 | 네오위즈 | 20260812 | [주요사항보고서(자기주식취득신탁계약체결결정)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260812000035) |
 | 🟡주요사항 | 미디어 | 나스미디어 | 20260806 | [주요사항보고서(자기주식취득신탁계약해지결정)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260806000438) |
@@ -107,8 +109,6 @@ _종류별: 실적 73 · 📘정기 54 · 🔴정정 17 · 🟡주요사항 23_
 | 🟡주요사항 | IT | 비바리퍼블리카 | 20260728 | [주요사항보고서(회사합병결정)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260728000491) |
 | 🟡주요사항 | IT | 네이버 | 20260727 | [주요사항보고서(유상증자결정)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260727000001) |
 | 🟡주요사항 | 게임 | 위메이드 | 20260721 | [주요사항보고서(자기주식처분결정)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260721000875) |
-| 🟡주요사항 | 통신 | 케이티 | 20260714 | [주요사항보고서(자기주식처분결정)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260714000371) |
-| 🟡주요사항 | 통신 | 케이티 | 20260714 | [주요사항보고서(자기주식취득결정)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260714000368) |
 | 실적 | 게임 | 위메이드플레이 | 20260812 | [연결재무제표기준영업(잠정)실적(공정공시)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260812900504) |
 | 실적 | 게임 | 컴투스 | 20260812 | [연결재무제표기준영업(잠정)실적(공정공시)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260812900071) |
 | 실적 | 게임 | 위메이드 | 20260812 | [연결재무제표기준영업(잠정)실적(공정공시)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260812900664) |
@@ -121,52 +121,51 @@ _종류별: 실적 73 · 📘정기 54 · 🔴정정 17 · 🟡주요사항 23_
 | 실적 | 게임 | 엔씨소프트 | 20260811 | [연결재무제표기준영업(잠정)실적(공정공시)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260811800245) |
 
 ### 📰 뉴스 모니터링 (🔴 = 감사·재무제표 신호)
-_구분: 🔴회계신호 12 · 🔵회계이슈 10 · 일반 309_
+_구분: 🔴회계신호 14 · 🔵회계이슈 7 · 일반 310_
 
 | 구분 | 업종 | 기업 | 기사 | 회계토픽 | 출처 |
 |---|---|---|---|---|---|
 | 🔴회계신호 | 게임 | 카카오게임즈 | [[재무제표 이야기] 매출은 늘어도, 수익 질 나빠진 카카오..."미래 먹거리](https://news.google.com/rss/articles/CBMibEFVX3lxTE5RZUdDSmVsLXRLOWNKbkowWjdkZkhudUxHaWI2aFNieFF6MDRKOFBaUE5YUGRWVG9HTmZaWVdzbFJVVVN0ZURObGJvWUxaT3NWNkhSM2ZHUjNfdHVJTkRjbzBJOTRRR1lpMjd4cQ?oc=5) | - | 생생비즈플러스 |
 | 🔴회계신호 | 엔터 | 에스엠엔터테인먼트 | [매출 73% 폭락·의견거절 속출…팬덤 환호에 가려진 K-엔터 ‘재무 잔혹사’](https://news.google.com/rss/articles/CBMibEFVX3lxTFBNdU5Mck5wR1lkdHBjaU9GV2laZ3EtZHF5eElXWkZ3SDJERVBXUWV5MlRScE0tdWpWMTltRE9kMmpEYmhOeWx6YTJmZUxKWVgyRms4V0w2a29GM0hOZ0F6a0UybVQ3TThtQmlvUQ?oc=5) | - | 한경매거진&북 |
-| 🔴회계신호 | 미디어 | 콘텐트리중앙 | [금감원, 메가박스·콘텐트리중앙 회계심사 돌입…자금 조달·회계처리 점검 - v](https://news.google.com/rss/articles/CBMiS0FVX3lxTE01b28xT1lOWGJZQXBtZFJaY1FhLXpobXA5Mm5QQzJ4VFQyUmRmeE5QMm5obnhocnN1cGtSd0dON2NBcnpWTXFBRV9BTQ?oc=5) | - | v.daum.net |
+| 🔴회계신호 | 미디어 | 콘텐트리중앙 | [금감원, 메가박스·콘텐트리중앙 회계심사 돌입…자금 조달·회계처리 점검 - v](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ta2pGSjBXYnlYS1JhRXZOc1RyUTNxSmI4cXlINVJnNU0xUFgwbnFVS1JIWWF6MDAwc0dzbXhKdTdUNmNIVjNSZ3l1Q3A4UnlMdFRSdw?oc=5) | - | v.daum.net |
+| 🔴회계신호 | 미디어 | 콘텐트리중앙 | [유동부채 1.4조 늪…’적정’ 받던 콘텐트리중앙, 5개월 만에 ‘의견거절’ ](https://news.google.com/rss/articles/CBMirAJBVV95cUxNVUpYMW9JNnd4Y0pRNVNyVkttRXZtOERwekxJX2JraWZrdlpIQkRVSU4taktUNHRCOVVvd21GcVAwd0NlVmJEYVN4WnVsOU5GenZnTlhBQVFpZnRqSVR4bUp4dEJyN081UDFzR2Izb1E4aWhqTFhSLUxyT09QUm1fN3pNbkxXa0xHdURhSGdQYkcwUUp5ODBOeEFwQUYtZG5QOGwxUmR0SVZuclNpRkFuQTB0SHY0QmhWaVVyX3BqaFg1OWVyZmsxWU9ybnp3WVM0eTBGRzJrQWpuRWZoUzVqbGV0QnZHOGhrRTZtUlJxeTRhTnpnUjVKeUZKYWdYd1RiVlRMRy1OSFVRdVdBUHhHSGRtQ0JGWVdOMDc0WWVleUh6WHlUX0VCRVQtdTc?oc=5) | - | 뉴스필드 |
 | 🔴회계신호 | 미디어 | 콘텐트리중앙 | [중앙그룹 채권투자자들, 금감원에 감리 요구…"회계처리 의문" - 연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTFB1Ukx0THpTTk1DSVh2VGtQU2hsZTBuZWhlRWhzLUFKNGY0dm1RZkgwdDIxMXdaTzhkTXozUXltRTlOS2VOZ25SdGlfLVY1WVhsYUVfWmMxTERDUmvSAWBBVV95cUxQRDRMM1RQYmYwcGlUY1o2YmZfWTNKQlRDU2JkTmxWNnFlVEs4cTFCOElOR1MyUjhyb0twN18zMkNINldZOE1ZSTNKVVJWdmRDOFZ4S2M2OTVoVHVaWDRHUHo?oc=5) | - | 연합뉴스 |
-| 🔴회계신호 | 미디어 | 콘텐트리중앙 | [중앙그룹 투자자들 “회계처리 의문”… 금감원에 감리 요청 - v.daum.n](https://news.google.com/rss/articles/CBMiT0FVX3lxTE92M3UxRHNaUzJ6dXY0MHhBd2tlZnZfRWJ2V0dCYW5LWWRxTVIzRi1jOVBfc1lseEF5MlVYb2ZBRW9jak1SdWljRHpNUTBoWDQ?oc=5) | - | v.daum.net |
+| 🔴회계신호 | 미디어 | 콘텐트리중앙 | [금감원, 메가박스·콘텐트리중앙 회계심사 돌입…자금 조달·회계처리 점검 - K](https://news.google.com/rss/articles/CBMiW0FVX3lxTE54OUVMRE9hMTAyNThval9sRFV5ZDNOeFBHODQ2bmdNQmh5WU41UWtJU2RrZ2ttcEZ0SFhkRm03QjM5R3cxR21pbTJKUFU5ZzFCbEFTSFIwN3hWQUU?oc=5) | - | KBS 뉴스 |
 | 🔴회계신호 | 미디어 | 콘텐트리중앙 | [중앙그룹 채권투자자들, 금감원에 중앙그룹 5개사 회계 감리 요청 - 아주경제](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tSk54eUp3YjcxUGlWM2RTWm5IQnVRcGk4dGdNSTlrMW1fNl9zY2xDdmVHblZRQm1YLVZvVF9HS1Z3bzJVT3BoQ2hzcHVxb3lKc3NhaEVsSml5QdIBWEFVX3lxTE9RY253VjVTSEVGVjJRQ1NkdUZqYUxkSnYyWm1iX3MtbUk0Yk53MTMzWkZaOXdpQ0J0NE1PdHBrNWdaMGU4TlFxUVlVNmplR0VXeGRITUdibWo?oc=5) | - | 아주경제 |
+| 🔴회계신호 | 미디어 | 콘텐트리중앙 | [반기보고서 무더기 '의견거절'…투자 유의해야 - v.daum.net](https://news.google.com/rss/articles/CBMiS0FVX3lxTE0yQ3FYVmhLb0ZFXzlFMkZjajZuM2laaVlHUC1vNjdJU18zZW84dWpxSzFldEREbGMzOU5taG5HdjYxaHpjWnRZc2xPQQ?oc=5) | - | v.daum.net |
 | 🔴회계신호 | 미디어 | 콘텐트리중앙 | [중앙그룹 채권 투자자 금감원에 감리 요구 - 조선비즈 - Chosunbiz](https://news.google.com/rss/articles/CBMigwFBVV95cUxOZ1BZZWVoNlItVU8zZTdWOTBmWVpncDBDUnMyenNPYUhNbWFDRDRlTjZpbzd6MnFxWHhzeWdmb01Jci1QRnN4UU83M0FmcHNTZ21HQmpxSF80WmxIMWRmcldCYmZhZUd4amk0bUtFazJnMVNOZklrZUp2ZjVPb2dFY2xJUdIBlwFBVV95cUxObmZVWHNYUEZEcU9BUUpKQXl1bmNJblA1ZkVvWlZ6bDExdWZkT2JWdFlnR3B0SGdBMWxQVmZrTUdzSlZiQ3FiV1pHU19FZ3M0WHlVMng2dDdpRW1ZUTRnalV3Ri1keE1rOHJVSkpHVUE3Y29jNzltSFNtZ0pOWUQ0OWJHOV9laHY3X2Z4WkdxZktNaHlzTWhn?oc=5) | - | Chosunbiz |
-| 🔴회계신호 | 미디어 | 콘텐트리중앙 | [중앙그룹 채권투자자들, 금감원에 감리 요구…“회계처리 적정성 의문” - v.](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBld1FWTEQxRF95ZnZxMFV3cE5idVNhellBd2VmRVo1cWI4VFVOQjR0SHNJQThLZUVLNFk0RzhFTXplQ2hUdk9CSTA0ajM3N3AxR19zZA?oc=5) | - | v.daum.net |
-| 🔴회계신호 | 미디어 | 콘텐트리중앙 | [“돌려막기로 자본잠식 숨겼나”…중앙그룹 채권투자 피해자들, 감리 요구 - 한](https://news.google.com/rss/articles/CBMickFVX3lxTFBDSS1uQk52SXBhb1kycHJkNU5na0w1cmtyUm1hSW5KM2YtQkZWUy1TYlVfT2F5NHhUdElibTdhaExkblFZWExucFBXeVRpM1FkcTNvdm41dHpaODZEVzhScldkQ2FwTnRjZmJWTll0Z3p6dw?oc=5) | - | 한겨레 |
-| 🔴회계신호 | 미디어 | 콘텐트리중앙 | [중앙 채권투자자 측, 금감원에 감리 요구…"회계처리 조사해야" - 뉴시스](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YNWhyTGpIeFlmZ0I3dnhBeDdlQmVpcXIxNFZsQ0szVUxNZm1IS1d2eEYxNjRpN2Y3aW5TMVdQNlNjRkV0V0dtTnpqcVpPU1FWbEJrb1p4d3pLb2lvN1NzUNIBeEFVX3lxTE10WFpPbS14UFFRcHdRTzJKalZRQmFkdnVNSnlrNVU0TllhbFl6REF6RzRBQkJXZS1hcmlYT1l2LXk4aFk5anpLSVVhd3hYc2UzWG95Q3M5czV3V3JMS2xId3JqMU1weEt6UlJGS0lZYW9OWFBOLTYycw?oc=5) | - | 뉴시스 |
+| 🔴회계신호 | 미디어 | 콘텐트리중앙 | [중앙그룹 채권투자자들, 금감원에 감리 요구…“회계처리 적정성 의문” - v.](https://news.google.com/rss/articles/CBMiRkFVX3lxTE1tWExvbGNFa0wzb21HbDBwUGlNY2pybXhhZlhNYVNlTFoyLWVWekgwbF9ZSjBzTzJ4N3g3RzluY3lUU3RFekE?oc=5) | - | v.daum.net |
 | 🔴회계신호 | IT | 카카오 | [카카오 노조가 놓친 '새 회계기준 함정'…"내년엔 성과급 0원 될 수도" -](https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yRnFCUUFIUzY3YTR1cDZqdmRVODJWd0pWT3E2SnNFQjBlTlpLZ0ZQQV90cTk3bldhRmdDUm1WVmN6WUZ5aDhrRjlWOXFYZzUwRzJhVktoejFha051VjRCUEVDb2x2UE1u?oc=5) | - | ebn.co.kr |
 | 🔴회계신호 | IT | 카카오 | [토스 재무제표 간단 분석 - 브런치](https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ISHpzQXZzNnJmb1A1ZWlFeGlFYzBBTlRhYXBkeFJ1WU1vamtEemhuVjhvaUpFbHp0R01wN051WnRTWDdiZmRXZ0MxeDNPdw?oc=5) | - | 브런치 |
-| 🔵회계이슈 | 게임 | 넥슨게임즈 | [[소외된 게임주]⑬ 넥슨게임즈, ‘퍼디’ 효과 사라지고 개발비만 쌓였다 - ](https://news.google.com/rss/articles/CBMiaEFVX3lxTE8zemo1UV9xNW9yNW5RM1FrNlptUnlTNENBSDJfSjZOTVJFdFBSTEZ0aUx6WkJva0h2ajVxZzRQVW9CcXJfdjdQc2c1VHVwN2tTNTNYRF84Snc1dEtpdTNkbm5sUmlPamti0gFsQVVfeXFMTnpXOTQ4SThFWlRGYjJrQ3pRc1BRS3RxSkZQcU91MTdPQ25uRmdlVGRpYkhSNHN3VDVGLUJzaUpZZjBOMlhtd2tjMF9BSE10V3FQaTJfRHNCampybVl4N3N1VTE3aXk1RV9VWmJK?oc=5) | intangible-assets | 블로터 |
-| 🔵회계이슈 | 게임 | 위메이드 | [위메이드 2분기 영업손실 210억 원... 라이선스 매출 제외로 적자 전환 ](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1nZHF1TXVhVUNLRnVZVnpTUzdSZlBnZjhZRHZIU3owYl9RQjNUQkY2aDBicjFQa3hmLVlGbmlNaGJhVVEyRkVxa2NYeE1CZ0Nsc2hkWFJtTkVqcjI1c1kwU1djVXV4a3dM?oc=5) | intangible-assets | ipnn.co.kr |
-| 🔵회계이슈 | 엔터 | 하이브 | [하이브, 역대 최대 실적에도 M&A는 ‘마이너스’… 1조원대 영업권도 부담 ](https://news.google.com/rss/articles/CBMicEFVX3lxTE1EclZkd2RpcVphX0ZoLUh2SHpodTZEZlBUazZxVTVfSWlXcWNQbXJKOHF0MUQ1MVcxc2puQlVOUV9zUjZlZDIzOEg2MmRFSmYyZ0V3cWlLaEtOSlV4QVA4NTRBUEgzVGNzX01BTnBXbW3SAXRBVV95cUxQNFZxR3lGNmx5Z0FHVlVOZjdEd0N2Yk1jaVNLem5zMHJWWmhpcFE0N1F3b3BZTXNyZTRIeU1CS0VNbGJ1cWdQWDZuUzM2cHlNWXRxS3NqYmRWalQ1cTJYM2FOWDVDa0hQNkhvd3lVTkI1alczVg?oc=5) | intangible-assets | it.chosun.com |
-| 🔵회계이슈 | 미디어 | 씨제이이엔엠 | [CJ온스타일, 3년 만에 100억 브랜드 속출… 거래액 16배 뛰었다 - 패](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1jZTR0eUFhRF9KTWVUcG93OXNPV01XXzluWlg0aVVRLUNLdUY1YWpzMzZmNDdCRTU3T2RYQ1k0dVYycEU5djRLQVkyYjJTaUpw?oc=5) | platform-cases | 패션비즈 |
+| 🔴회계신호 | IT | 두나무 | [‘445억 해킹’ 두나무 제재 돌입…금감원, 감사의견서 발송 - 데일리안](https://news.google.com/rss/articles/CBMigwJBVV95cUxQdjlHNElLRGJXMFBlQ2RTM3pDM1FJbTk1LTJrQ3lUbkdMQlI5Y2JNTjQwcmRST3A4RXlPeXlRanJpdFBKbXh4Z3JyWGk3QWxqY2ktLThTRDk3V0pTT3hua1JWV1NoRW4yMUctUXNNT2JMbkF2Tm1qVXl2YkNEeWUwSXhKemkwenhFbWsxbEUwb3pGa0hJR1N3U29JZVhhakFXVkxSRjZta1puN1ZKeTA2VW5ma3Nqa1JCYnhtd00tUXIyRGJGdm5TNGxBaTdaaEhtTFpkczRVSnAtY3hWaDRNNnZvc1RfZVZlZjV4enhvYUtXYkFrZllDZjd3QWVRMWhGYkg4?oc=5) | - | 데일리안 |
+| 🔴회계신호 | IT | 더존비즈온 | [AI 거래관계망 신용평가 모형, 재무제표 한계 넘는다 - 전자신문](https://news.google.com/rss/articles/CBMiTkFVX3lxTFAyTXpadGpRZkN6M090ZElpTDFqQ1FHZEZnUERfcW43V1JQR2FGX0E0emRyNTFKZjB1V2tPWjJtQXJZa0M4WWFPOTNnTGxiQQ?oc=5) | - | 전자신문 |
+| 🔵회계이슈 | 게임 | 넥슨게임즈 | [[소외된 게임주]⑬ 넥슨게임즈, ‘퍼디’ 효과 사라지고 개발비만 쌓였다 - ](https://news.google.com/rss/articles/CBMiRkFVX3lxTE94dHBRbUlsV2dNTmwwenE5QjRmT0J1VEM1SE5XajM0Zk9Gb2d0RGVMMmdwMjR2enJHZXVrSjhhZnN2MEo4bEE?oc=5) | intangible-assets | v.daum.net |
+| 🔵회계이슈 | 엔터 | 와이지엔터테인먼트 | [빅뱅, 데뷔 20주년 신곡 'BiiiG' 음원 차트 석권…월드투어 포문 - ](https://news.google.com/rss/articles/CBMiU0FVX3lxTE00ZnFSQXdTTlZuVDFzWUhaUmJDUFY0OFUxMFMyckpWSUlFUVBEcFEteWdtbEs1NGxKQVR3elI3cUhjcFZZN3hSZG1mT1BjdDF0bkZv?oc=5) | intangible-assets | 네이트 |
 | 🔵회계이슈 | IT | 네이버 | [[핀포인트] [네이버] '1조 영업권' 시험대 오른 왈라팝 - 네이트](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wZHgtQy1XclFSak9sTjNsTm9KaVk3QnRUTUVYR2lBUlhNRWwwdE5hM0VVbU1HdWk0Z0xSS3BLbEczc2FoYVl2M2xldW0tR1ZLRnRz?oc=5) | intangible-assets | 네이트 |
+| 🔵회계이슈 | IT | 카카오 | [[IB토마토]차바이오그룹, 카카오헬스 품었지만…CB·영업권 부담 '먼저' -](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oR2RicWlCR1pLcWtHNVVpY3Q2SGV0aERvc09adlVyajl2WkhibUNRMFVZV3FnUUZOUFJCTzFrS0JzZ2R0S2RpSHJLMUg3UEM1SVZXanh2V0dhYkhKSjE4RQ?oc=5) | intangible-assets | 뉴스토마토 |
 | 🔵회계이슈 | IT | 카카오 | [업스테이지가 품은 ‘다음’ 평가액…무형자산 1413억 - 서울경제TV](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfUWJKZUJlbDlMWmxHSjFxZTZhcWJ2UVNkUlltY0tMYVZ5SFZWNF9oRnAzRmNGVlk1eWlaMDJmMmVueEs2SHFHSkZhSXFwVFBWTXA4LTVOYTNZZ3RqQk52a1lic1Q?oc=5) | intangible-assets | 서울경제TV |
-| 🔵회계이슈 | IT | 카페24 | [카페24 "최근 2년간 식품·뷰티 자사몰 거래액 43.8%·38%↑" - 지](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXZ2hmaWpULWJzaWxzZ2dRb0Z5Wkx0cWxKSlhxNUlDY0RiUWhwa3VyeTVXbEhyS1pwaW1jcVpqbTRGb1Z4RDNYcHpTWDJCRFZTazdzMlNB?oc=5) | platform-cases | 지디넷코리아 |
 | 🔵회계이슈 | IT | 야놀자 | [야놀자 상반기 거래액 21조 원, 매출은 14% 늘어 - 플래텀(Platum](https://news.google.com/rss/articles/CBMiSEFVX3lxTE9oLUxuSEtkVnhuYnVzd19uemVJTmUyUHM3aEZwcjM1WUtad0hfM2dVY0ZPYTh0Q2JUZVNBQS1GMTY5cS0zMzhUSA?oc=5) | platform-cases | 플래텀(Platum) |
-| 🔵회계이슈 | IT | 무신사 | [무신사 뷰티, 오프라인 거점 확대로 온라인 거래액 증가 - fetv.co.k](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rWXN6TW5TMk1Cd1pfQlZHMHNmM1RBRDBFaU84cGM5ZFNwckdtQXUxNjcyVXFVUXRodWo2aXBBbHNkYlMxOFRLZE1iV0tKTk1iZ28wc0hZX1E2czRXS1F3NVBEZmVERmRy?oc=5) | platform-cases | fetv.co.kr |
 | 🔵회계이슈 | IT | 컬리 | [[프리스탁 건강검진] 컬리, 현금창출력 개선 후 리스부채 부담은! - 프리스](https://news.google.com/rss/articles/CBMib0FVX3lxTFBqc1hSX1o2QUd1QVBVS3Zqd0R0R2N6R3dGRk8xRVU0Z244a1VNT1hqU0QwSVBHaTduZ2VfWWlBT1pCYnZGbHpMSUJiNEJBdTloZXhTeXZMY0ZYRnVYV1JKMU9BbVZDNVE3b1d0T1AwWQ?oc=5) | ifrs16-lease | 프리스탁뉴스 |
-| 일반 | 게임 | 넷마블 | [“다작王 타이틀 어디로?”…넷마블에 물었더니 - 에너지경제신문](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lOHRvX0RTYjNxTm9hR0FlWmJyUVlxd2ZJdUp2TXAzNmJMVk9YaHYwSXVzZVRwT2Q0RzVBZVNlWUlBU1BfOHU4Nk5WVDhINU1sQ1Q1OHZBN0tNa1U?oc=5) | - | 에너지경제신문 |
-| 일반 | 게임 | 넷마블 | [넷마블, "다작 전략 수정"...올해 신작 5종에서 3종으로 축소 - 디일렉](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Kc2xoWC1tSW92QWZoNi1Ed2RyVXp3UXVfNkxKV1YyWEpZMzFyOWpXY2xpS3BWRlM1eUozak00YTlnRGpzcUlVbHRaU1ZQREhPX1E4MU1XWmVTcW9OOW9CSlNja19jdw?oc=5) | - | 디일렉 |
-| 일반 | 게임 | 넷마블 | [넷마블 골드 작업장 비교 팀 협업 체계적 방법 - Gwara Media](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVXJfUTJRMzFsaFQtaGpyTnlhaVkzZm1Nb1BJTjkyOFZRYzdXa0xaSWotRGRlREJCRW0zU3BYRk56b3o4VHpyZThyY1c0YXVndmNObVMxMEtreWhLUXQzNllCUHRTanBuMWFxRkF2S1ZfeXI0eG1seTUwR1dhVkpTYzBzSzNVOFp3aHkwUGwwY2ZpVk94TDFVRVM2LWlWVnFucTV2cDNsXzNzUlhTeVE0OEp6cFRzR193UzFnbTFCNHhSN2s4NXN4Rjdkam1pWmJvcDlzOV9oU0ZHR1U?oc=5) | - | Gwara Media |
-| 일반 | 게임 | 넷마블 | ["게임 밖으로 나온 스톤에이지"···넷마블이 하나은행과 손잡은 이유 - 여성](https://news.google.com/rss/articles/CBMic0FVX3lxTE5uSkxJTHNEQ05ZZmtzSXQ2aHE4ZTFqNmY1d0lrNFB5WXROYzBvNlFCNXZEZERHSmZ2VGMwQi1OcXh0dWhWYmNQcFRrcWNoYlI2NS02MU8yQjlGbHcxYUZCQ0RNTWlJblNCaVBYOXZKZUJ4TVE?oc=5) | - | 여성경제신문 |
-| 일반 | 게임 | 넷마블 | [넷마블, ‘다작’ 대신 ‘장수게임’ 키운다…하반기 전략 선회 - 문화일보](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5OREFVS3I4bC03dXc4d2QwQ1N4WW1qYWg2VldsZHFIR3ZkYUdIZzlNWS1vdW5hc1g4QjBaN2VWaVdVeGtsVU4yN2lPcWpVVkNi?oc=5) | - | 문화일보 |
-| 일반 | 게임 | 엔씨소프트 | [김택진 엔씨소프트 대표, 아이온2로 중국 공략…IP 확장 본격화 - 피플투데](https://news.google.com/rss/articles/CBMib0FVX3lxTFBPdVQ3TGt0THdwVW8xbHBkV3BmZ0U1UkNMbl9HdnVnZnY0VXdjaW5talptc3pxLVZlMTFlY1BBbUFKOFlYek9pdElCQjQ1M3YwaVYzRzRtc1ZTZlNtYmV4X1hZa01IVkhMVy1ydXFaMA?oc=5) | - | 피플투데이 |
-| 일반 | 게임 | 엔씨소프트 | [엔씨소프트 2분기 영업이익 1739억…해외 매출 비중 52%로 첫 추월 - ](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5zaHlhT1hORUc5NDVJWnpBWFlhaVAteDBfZS0xU2pyU0RFN3JkZDlPRHVhcHdzRXJCRUlJNmR3ZnRBOTZlb0VvTnliNFBHa1FIamxQQXdUai15SS14U2kxc21vYVVjUmc?oc=5) | - | jabon.co.kr |
-| 일반 | 게임 | 엔씨소프트 | [엔씨소프트 노조 “그룹 통합교섭, 기업 경험과 기술 지키는 경쟁력” - 로리](https://news.google.com/rss/articles/CBMibEFVX3lxTE13Q1BjWGVwaUpSMmpuTkZLaXVPSURKR3VBTWNMTXRRMVRjbUVTMkl4OGF6bTlkMEk3aEVra1pGazBZRV9sVnJRS0J6dEFNUklIX2R2cW5LR1FDZjRLdlppcnVEWXBqTzJoMUJaNdIBcEFVX3lxTE9pR0c1LWNqNU1tVkJvTG9Jcl9xUGJmdHBEbkxkS0tYYzNwV1JXSGhkU1d5aFRPZE5IZEhVUEFtbDE2Y3k1OWFWWDRoMnNKTU84dXcwNEI0R0FpM1A5QzdzNWVSVmpfTzBJRTRmN3RBenQ?oc=5) | - | 로리더 |
-| 일반 | 게임 | 엔씨소프트 | [[Q2 분석] “해외 매출 52%·클래식 IP 폭발" 엔씨소프트…"리니지 원](https://news.google.com/rss/articles/CBMibEFVX3lxTE9KVFZwbmtsM3FjdGw3blNGaDEyY1lQcW1FTTJLdjB2dUJfd2NIZG5Za29LakRJTThraFh6elZaUFd3S0dad2lfY0lJOEZpaGVrSUh3VnFzRFdKV3B2ZVVrLXQzdTNzUzNkS3BCZA?oc=5) | - | 이코노미톡뉴스 |
-| 일반 | 게임 | 엔씨소프트 | [엔씨, 2분기 실적 앞두고 '모바일 캐주얼' 주목…새 성장축 자리잡나 - v](https://news.google.com/rss/articles/CBMiT0FVX3lxTE5SN1ZheGNWOXdrVmZNd2tlbTF1SUNWTHAzdnRweE5fSnlTNEJQREhhN3ozRkNPaHVhN254NXk3czNrZnIxa3RYNC11ZHRSUm8?oc=5) | - | v.daum.net |
+| 일반 | 게임 | 넷마블 | [방준혁, 텐센트 보유 넷마블 지분 13.4% 인수 - 비즈워치](https://news.google.com/rss/articles/CBMiakFVX3lxTE5RNFV3RnJRaWwtWU15LVlSSHdJc3JWalp4cmd2Y2ljVENRb0xBbkxGc1lkMjFPN1REd0hlRVpSeUtYVV9VSThRQUx4Wl9KUXJ1ODdWdDd1Q2RZcjJzdXpMNjBibE5qU05uT0E?oc=5) | - | 비즈워치 |
+| 일반 | 게임 | 넷마블 | [방준혁 넷마블 의장, 텐센트 보유 지분 13.4% 인수 - 조선일보](https://news.google.com/rss/articles/CBMigwFBVV95cUxNaUVZamRtZzhFd01yRkVtNDF4RGVOMG1OaHExUGJsQ0t0ZHBpUmtfcHhXVS04V0F5ZXB6RmdxZUhMSWw2ZURPQUkxWTBDUmlyLUpOaGxBeWxteEVKM3FwUnRKZGZVa2ZRdGk4MWIzVWVjS0V5azlJTC1LdG13b0NERlpBNA?oc=5) | - | 조선일보 |
+| 일반 | 게임 | 넷마블 | [[게임리뷰] 넷마블 '아스달 연대기', 뉴월드 시즌2 업데이트 사전등록 실시](https://news.google.com/rss/articles/CBMiY0FVX3lxTFAtZnVPWUZnVHZKLXV4ZVF2c09taC1acjA0Q2RzOVItOVI3RFFYdENPallDdFBhTEVXRGtFajA4bHc5cU1ab19DT2VYQ0lrYlplZXVxRGdBaWxRd1RBa2MtczdHZw?oc=5) | - | 더구루 |
+| 일반 | 게임 | 넷마블 | [방준혁, 3740억원 들여 넷마블 지분 추가 인수... 지분율 38.34%로](https://news.google.com/rss/articles/CBMiTkFVX3lxTFBSYl9pRDB2QWdJWE1qc0NMQVNhVzNuLTBVVTkydFBJbVp3dG1aNHA4NHRvUW16VG9EbTdiODJKLTVxajM0VmtKR1ZSd2pmdw?oc=5) | - | 전자신문 |
+| 일반 | 게임 | 넷마블 | [넷마블, 코웨이 지분 26.96%로 확대…133억 매수 - 연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTE9VT1U0bWV4eF96cUZveGkzY1N6Wjgyb0VLODJnVWpBSTJPUzhZa0FfaDdXNHR5NWk4TWUzSzJ6MWlqN1QtMGlVTlUtdmVXbWNpblRURHNTaHFiY3RkREpjWTl5eGZBc2l5dDBzMFd1QV8?oc=5) | - | 연합인포맥스 |
+| 일반 | 게임 | 엔씨소프트 | [엔씨, ‘아이온’으로 中·美 동시 공략…글로벌 확장 속도 - 문화일보](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBHUmRySU03WVQ3MkVXOGhfZnlMeFpVUU1rTWRnSnRBNE1Zb1RERTJwNnpNNU5Qc2lscmZSTDg0b2NtUnBZbTZjVGFsWVBSUVpm?oc=5) | - | 문화일보 |
+| 일반 | 게임 | 엔씨소프트 | [엔씨소프트 노조 “그룹 통합교섭, 기업 경험과 기술 지키는 경쟁력” - 로리](https://news.google.com/rss/articles/CBMibEFVX3lxTE13Q1BjWGVwaUpSMmpuTkZLaXVPSURKR3VBTWNMTXRRMVRjbUVTMkl4OGF6bTlkMEk3aEVra1pGazBZRV9sVnJRS0J6dEFNUklIX2R2cW5LR1FDZjRLdlppcnVEWXBqTzJoMUJaNQ?oc=5) | - | 로리더 |
+| 일반 | 게임 | 엔씨소프트 | [엔씨는 고소, 넥슨은 환불, 넷마블은 정면돌파…게임사 위기관리 '3N 3색(](https://news.google.com/rss/articles/CBMidkFVX3lxTE41ckhXYlVHRXBpd3RMZWlzVGEyRXBrM3VxUXFEbTA0YXc1RE5CVFBqT0NGWU9wdTVyX09OM1N6RHVxNllsYm9KUjRPVEp3SmY2UU1WRDdDU29oU3hYWnBsZzFONWQxRjdHMXBOalNBbDNjOFFoM2c?oc=5) | - | 인포스탁데일리 |
+| 일반 | 게임 | 엔씨소프트 | [엔씨, 2분기 실적 앞두고 '모바일 캐주얼' 주목…새 성장축 자리잡나 - v](https://news.google.com/rss/articles/CBMiRkFVX3lxTE9XdnE5aXFFMUF0V3RHNzh6a05mMXRST2FQb3ZTVkN0VW5rRF9wNVJFanZ0bjFRb2p6SkJhbVNwVHlDNlVOY1E?oc=5) | - | v.daum.net |
+| 일반 | 게임 | 엔씨소프트 | [[실적] 엔씨, '리니지 클래식' 흥행에 영업익 10배↑…해외 매출 52% ](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9lQ0VwVlR6YzBZcmZzeFdZWGVvN3I2ZVAteGt2Z2NHam9VenNtNHh0S19WXzdTekY2N0FjRnRiWWdmUlNTQURYcnB3cnZtOFV1VmUwYWhZb3R2RnpDY3pheA?oc=5) | - | 조세금융신문 |
+| 일반 | 게임 | 크래프톤 | [크래프톤 5종·엔씨 3종… 베일 벗은 게임스컴 韓 출품작 - 국민일보](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9hZThqdV96TWwyWGJNaHVKM2gzRUtSSHRBOGVldmwtY0hGVUxoSmw0cGxuOUFjUHZEX0dZN0RXOW9Hbm5CenJfMkREQklNdFUwS3VNV08xSkYwLXBvd0FGNWVEVmNyNmPSAWxBVV95cUxQalJnMXpTQUJIMG1CRjdEWHBUUWJJZTAzdGtHWFdVTUgzc3hLSkN2QkRmSllzYi1Ca05pMC00VTNiS250aWlHTXo1M3NURkxSUmhBTEc2NmZmcVpvV2lsMndoUkg0MGVQTzctT18?oc=5) | - | 국민일보 |
 | 일반 | 게임 | 크래프톤 | [[크래프톤 M&A 잔혹사] 8447억 베팅의 대가…크래프톤, 언노운월즈 가치](https://news.google.com/rss/articles/CBMiT0FVX3lxTE90VzJCQlVMVTM1QWFpNS1faWF3NzFMcWhUOG5ocVc3d2wzdDEwMDZ4NWFfWWN6dUlFOWx2UEMwSmVSQUJsQVNXRUpQQTJDSkE?oc=5) | - | 딜사이트 |
-| 일반 | 게임 | 크래프톤 | [게임업계 2분기 실적 전망 엇갈려…크래프톤 독주 예상 - 연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fXzlTRUZmMGM0OUJ6Nno2YVZfektQbGw3ZEt6bVNlS3FydmhYbmdUdWwya2FfS08waWlzNUQ2S01zRTNOMXhsR0dkLTVJWnBHbXpqTXF1VXljQUnSAWBBVV95cUxOV3c5X2M5Y2t3djBDVnNQN2Rsd1lCdE1xb0lhZGlzNlJaTm1MLV9ObXlmRE9XQ2ZRYlJncTUwU0RZN2NTX0Vhd09ORXlkcXBfSmZSdjh0MVJOTXhaRzF4SkY?oc=5) | - | 연합뉴스 |
-| 일반 | 게임 | 크래프톤 | [장태석 크래프톤 총괄, 게임업계 연봉 1위 등극 - 조선일보](https://news.google.com/rss/articles/CBMigwFBVV95cUxQaDZDY01sc1VoLXdFQmp2bEpZU2NfRWxLX2NJTDdVTlJGUUZMTkk3Z2o0MkI5VEdDbVBDdHM2TjN4MEJhUnBNeVV0NUh0YTU4SUtQblJOVVdlREZxeHhPVW5NV2dUZWJwZWh0SmloRllhd1ViZ0dUcFdSNWxtNnFOQVFfWQ?oc=5) | - | 조선일보 |
-| 일반 | 게임 | 크래프톤 | [크래프톤·엔씨·펄어비스, 나란히 ‘실적 점프’…성장 전략은 달랐다 - 디일렉](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1HWUMwQmxneHU1NlZ3dUl0aVpKcTdUck1YSHZ2SE1pRldYcmQ0MFRUVFZQQUdoNjc1Z3NqblNqeldTQlFnUDhNelV0RE5EcVlwUHplRlg2bkZxVmdaQU82SjRqa3hsdw?oc=5) | - | 디일렉 |
-| 일반 | 게임 | 크래프톤 | [크래프톤, 자체개발 음성 AI 모델 ‘K2 라온 스피치’ 공개 - 에너지경제](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uNzBjanAzLWZNUC0zdWMyNTU2Y3Z6SmI0RkxkTXc0eTJnWUpqQkRBbW1DSmo1TU85RUFxMkJQRDZHclh5LU9QNkpfV1VWNzhDbVUxTldkUUsxR1U?oc=5) | - | 에너지경제신문 |
+| 일반 | 게임 | 크래프톤 | [배틀그라운드, 42.3 업데이트 통해 신규 경기관총 출시 - 크래프톤](https://news.google.com/rss/articles/CBMiygJBVV95cUxQcllrMTBYejRGX1BIR0cwaUZxUTRmZ21ac0J6U0hkeDZNNDNmYmZrZEJKakRITE1zcUR0dFlfNEQ0bW41U3YtWVloNUlISXNxcFYwVGtwUHR0YlJXekxxdHcxYnVWV19hSUhvdTR6eFBCX3M3SkZiSkFYeUY4Q09xUWpDWEdhWHBOcmlNVjNkOEYteFdfSDlKTEZmSEtob1BoSDlzM2FfMEJQeVQ3ZGVsU3I5VkNPdU03eUFabVZFOGJxYjMtejNVbnRNVkZqLVBfWVZ6YVhFZ21EZXFSOW1wbUlkaVRtVTZnalRDSUM3NXZfOE9Yd0tWTEFlbzdGZUl6MEVLRmhNOG5Sb1lleUZJeEZrNzI4QnpkVldkWnF6N1NpVVJ3ZDNsTnE5UjYweDVmektFUTBGYlFTdFJjMTVLaWFDMUVYSGx1N1E?oc=5) | - | 크래프톤 |
+| 일반 | 게임 | 크래프톤 | [넥슨 2분기 영업이익 17%↓... 크래프톤, 넥슨 제치고 매출·영업이익 1](https://news.google.com/rss/articles/CBMigwFBVV95cUxPcDR3MGVwVUt1NldlbmpXV0dnbmtlcEJOR3MxUjZrNmRadmtrSzJBZ1BUWEhicUFKNkF5Y2h3WUV5eDVpOFVhLTNTX2ZWdXZ3OTRWQ2JWakx1dkY0VFFkbDBzTlFwcnkyMXVDeDR2Z2JBVDN5SVRnZTVMV0RYT051RzFlcw?oc=5) | - | 조선일보 |
+| 일반 | 게임 | 크래프톤 | [펍지 IP 신작 뜬다…크래프톤, 게임스컴 출품작 5종 정보 공개 - 지디넷코](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TOWJFS2V1cVFDbnQ4WDZ5SlNEalM1bDJwbWhhYXhPMTBZTjg5RWtFLUZQOFJocDJDSW80ZDlBZk9ta0FlSlVBZ2pPb1ZUSXJDVHR3Z2VB?oc=5) | - | 지디넷코리아 |
+| 일반 | 게임 | 펄어비스 | [중국인들도 "믿기지 않을 정도"…'한국 대작' 일냈다 - 한국경제](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PT3l3VUVhUWhnTTYyY0lUdFZnRXF2WHQ0R1VyYUtlLWlkSno0Q1BqZG91UDFoeDJ2cUx2THhfUkdVWlpaUVFuZUl6MVlVaHExT3ZpRjRXUGpnUQ?oc=5) | - | 한국경제 |
 | 일반 | 게임 | 펄어비스 | [펄어비스 2분기 매출 247%↑, 영업익 7411%↑… ‘붉은사막’이 견인 ](https://news.google.com/rss/articles/CBMigwFBVV95cUxQN3VidG1oYTQyRUVXdTJjX2ZJeXZoYTREeE5WN3ozRWxGek96aFF6d195U3YtcTNhbmhwRENxQkFOc1FDckdaWXY4X29zYnVhUHpRcVFoVFItX1BBQlNTSFl6MHFYYTU2X2REOUd6UGN1REhEdUE1aHlIZF82aHBMcURRcw?oc=5) | - | 조선일보 |
-| 일반 | 게임 | 펄어비스 | [펄어비스, '어닝 쇼크'에 장중 14%대 급락 - 한국경제](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lZ3dkSjY3NTdWOV80SnhybFV6a0pLY2pGMTFpdXhrN01oSE4wZGFMcVg5blRTRWhGbHJYLWhaLV9QaEN6SHdlVTV6eW5XRGhjR0xXa1dscUZnQQ?oc=5) | - | 한국경제 |
-| 일반 | 게임 | 펄어비스 | [‘붉은사막’ 효과 펄어비스, 2분기 영업익 676억원…스위치2 출시 준비 -](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBUb19YR1ZkbWF1NkthQTdTdG04UFB1dUNsNWU1bEo1MS1TUENXNWxhUmxOYUxMUUtkd2ViODFSTnpCR0djZkxzclR1ZGJBSVo1VmZMcXh6c1lCdVNfakNKLWQ4NTRXQQ?oc=5) | - | 디일렉 |
-| 일반 | 게임 | 펄어비스 | [펄어비스, '붉은사막' 글로벌 이용자 콘텐츠 확대 - 팍스경제TV](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5oV1JpejFzTTI1UWREWVFtR1Njck4tR3VYZjN2RENSMDdQSzhzQ1FqdVhhbkVXLU8yTkQxMmNLSm5iVXlKbUtmSW9yNHgtalg1ckVmM083U1Jha25KaHZ1NDFPZ3pOWlot?oc=5) | - | 팍스경제TV |
-| 일반 | 게임 | 펄어비스 | [펄어비스 '붉은사막', 중국서 '최고의 인터내셔널 게임' 선정 - 연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yaXVOTXljbDY2MU0zMzVEQTFXdUtmRnFoTVVQRDI5dnBJbWFBVlQzMGZQSGlXaW9mNlk0LUFXTVNmTTZfQUlnMUxLNjMyT2RDek1BWFlWVXpZbW_SAWBBVV95cUxPcmk2NjJQQ2ZlX2tOU0JiMXhwTzdEODJRSWJLbVBzVkdqdjAyOEZ1bWZOSXJ3N3ZaLTItNEZkaVJrejhiYjFZaUlXNXp5LTcydk9pTkowZjdTT0dpSXUxZHQ?oc=5) | - | 연합뉴스 |
+| 일반 | 게임 | 펄어비스 | [지역사회와 함께하는 펄어비스의 따뜻한 동행​ - Pearl Abyss](https://news.google.com/rss/articles/CBMia0FVX3lxTE1UMExDWmlhSi1GWS1CNHprWHF4MEpZWFoyNEtVQkU5ZVVtUHFIUXV2Sl8zNUY3bllQQy1DZGdJcW1tZXNrczhZMlpVQjdBazd2Uk1yRnBFd0VwUURnWlZ5NmdlT0RJTW1oeXRB?oc=5) | - | Pearl Abyss |
+| 일반 | 게임 | 펄어비스 | [펄어비스, ‘붉은사막’ DLC 연내 출시…‘도깨비’는 28년 출시 목표 - ](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5EbTRBQThxVGJVTU85bkJuWU9hZzJaLXBSbVhRVzhzTEFJaTctQ0VXejVRMEVyVmswcUhyTThjMVE4bFBLRGVmaUFySzF5ejFsbDRGNU9MeTdaT0xlQUZuVWhQVkJtaThu?oc=5) | - | 녹색경제신문 |
+| 일반 | 게임 | 펄어비스 | [붉은사막 매출인식 지연…'2Q 어닝미스' 펄어비스 13% 급락 - 머니투데이](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9EeTNzMnBnVWJUYlRTVlZaRHFndzBGekFocEtXeWtza21pdksyVUM0WGNMMldsS2ZicGphMTM0OV83bVF0cVZaVzZhcnBnXzZBVXBkU2p4MkoyN2dKRHpDTHdGaVBrSkNi0gFuQVVfeXFMT3RCYVlVdXNoRUdXakYtS1ZVOEQwcEw5TlYwX1hsVE14NDJrWHF5N1RJa1R2bmZOLWZuSjFjYzFMUEJKX1FUbjh3M2JIdVJsSzRUNXBnYkJwUkJtZ0haMnEyaWNqNGN6QXNTT2hnemc?oc=5) | - | 머니투데이 |
 
 ### 🏢 회계법인 산업 리포트
 **최근 수집된 발간물**

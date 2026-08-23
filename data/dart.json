@@ -1,5 +1,14 @@
 [
   {
+    "company": "카카오",
+    "industry": "IT",
+    "date": "20260819",
+    "title": "[기재정정]반기보고서 (2026.06)",
+    "kind": "정정",
+    "topics": [],
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260819000055"
+  },
+  {
     "company": "다우데이타",
     "industry": "IT",
     "date": "20260811",
@@ -471,7 +480,7 @@
     "company": "이스트소프트",
     "industry": "IT",
     "date": "20260814",
-    "title": "반기보고서 (2026.06)",
+    "title": "[첨부추가]반기보고서 (2026.06)",
     "kind": "정기보고서",
     "topics": [],
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814002336"
@@ -637,6 +646,24 @@
     "kind": "정기보고서",
     "topics": [],
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260527000075"
+  },
+  {
+    "company": "카카오",
+    "industry": "IT",
+    "date": "20260821",
+    "title": "주요사항보고서(회사합병결정)",
+    "kind": "주요사항",
+    "topics": [],
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260821000052"
+  },
+  {
+    "company": "카카오",
+    "industry": "IT",
+    "date": "20260821",
+    "title": "주요사항보고서(회사분할결정)",
+    "kind": "주요사항",
+    "topics": [],
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260821000047"
   },
   {
     "company": "무신사",
@@ -835,15 +862,6 @@
     "kind": "주요사항",
     "topics": [],
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260601000287"
-  },
-  {
-    "company": "하이브",
-    "industry": "엔터",
-    "date": "20260519",
-    "title": "주요사항보고서(자기주식취득결정)",
-    "kind": "주요사항",
-    "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260519000290"
   },
   {
     "company": "위메이드플레이",

@@ -1,5 +1,14 @@
 [
   {
+    "company": "큐브엔터",
+    "industry": "엔터",
+    "date": "20260831",
+    "title": "[기재정정]주요사항보고서(유상증자결정)",
+    "kind": "정정",
+    "topics": [],
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260831001295"
+  },
+  {
     "company": "카카오",
     "industry": "IT",
     "date": "20260824",
@@ -124,24 +133,6 @@
     "kind": "정정",
     "topics": [],
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260612000289"
-  },
-  {
-    "company": "에스케이브로드밴드",
-    "industry": "통신",
-    "date": "20260608",
-    "title": "[기재정정]증권신고서(채무증권)",
-    "kind": "정정",
-    "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260608000326"
-  },
-  {
-    "company": "다우기술",
-    "industry": "IT",
-    "date": "20260604",
-    "title": "[첨부정정]주요사항보고서(회사합병결정)",
-    "kind": "정정",
-    "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260604000102"
   },
   {
     "company": "당근마켓",
@@ -844,24 +835,6 @@
     "kind": "주요사항",
     "topics": [],
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260609000374"
-  },
-  {
-    "company": "무신사",
-    "industry": "IT",
-    "date": "20260605",
-    "title": "주요사항보고서(자기주식처분결정)",
-    "kind": "주요사항",
-    "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260605000598"
-  },
-  {
-    "company": "다우기술",
-    "industry": "IT",
-    "date": "20260602",
-    "title": "주요사항보고서(회사합병결정)",
-    "kind": "주요사항",
-    "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260602000363"
   },
   {
     "company": "위메이드플레이",

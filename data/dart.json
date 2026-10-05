@@ -72,51 +72,6 @@
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260710000147"
   },
   {
-    "company": "크래프톤",
-    "industry": "게임",
-    "date": "20260630",
-    "title": "[기재정정]타법인주식및출자증권취득결정",
-    "kind": "정정",
-    "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260630800855"
-  },
-  {
-    "company": "위메이드",
-    "industry": "게임",
-    "date": "20260630",
-    "title": "[기재정정]최대주주변경을수반하는주식양수도계약체결",
-    "kind": "정정",
-    "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260630901591"
-  },
-  {
-    "company": "콘텐트리중앙",
-    "industry": "미디어",
-    "date": "20260630",
-    "title": "[기재정정]타법인주식및출자증권취득결정",
-    "kind": "정정",
-    "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260630801156"
-  },
-  {
-    "company": "콘텐트리중앙",
-    "industry": "미디어",
-    "date": "20260630",
-    "title": "[기재정정]자기전환사채만기전취득결정",
-    "kind": "정정",
-    "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260630801106"
-  },
-  {
-    "company": "콘텐트리중앙",
-    "industry": "미디어",
-    "date": "20260630",
-    "title": "[기재정정]주요사항보고서(전환사채권발행결정)",
-    "kind": "정정",
-    "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260630000851"
-  },
-  {
     "company": "당근마켓",
     "industry": "IT",
     "date": "20260831",
@@ -601,6 +556,33 @@
     "kind": "정기보고서",
     "topics": [],
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260812000464"
+  },
+  {
+    "company": "컬리",
+    "industry": "IT",
+    "date": "20261002",
+    "title": "주요사항보고서(주식교환ㆍ이전결정)",
+    "kind": "주요사항",
+    "topics": [],
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261002000047"
+  },
+  {
+    "company": "제일기획",
+    "industry": "미디어",
+    "date": "20260930",
+    "title": "주요사항보고서(자기주식취득결정)",
+    "kind": "주요사항",
+    "topics": [],
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930000006"
+  },
+  {
+    "company": "디어유",
+    "industry": "엔터",
+    "date": "20260929",
+    "title": "주요사항보고서(자기주식취득신탁계약체결결정)",
+    "kind": "주요사항",
+    "topics": [],
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260929000178"
   },
   {
     "company": "시프트업",
@@ -1402,14 +1384,5 @@
     "kind": "실적",
     "topics": [],
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260708800509"
-  },
-  {
-    "company": "삼성에스디에스",
-    "industry": "IT",
-    "date": "20260706",
-    "title": "결산실적공시예고(안내공시)",
-    "kind": "실적",
-    "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260706800608"
   }
 ]

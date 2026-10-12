@@ -63,15 +63,6 @@
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260723801025"
   },
   {
-    "company": "엔에이치엔",
-    "industry": "IT",
-    "date": "20260710",
-    "title": "[첨부정정]주요사항보고서(회사합병결정)",
-    "kind": "정정",
-    "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260710000147"
-  },
-  {
     "company": "당근마켓",
     "industry": "IT",
     "date": "20260831",
@@ -558,6 +549,15 @@
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260812000464"
   },
   {
+    "company": "제이와이피엔터테인먼트",
+    "industry": "엔터",
+    "date": "20261008",
+    "title": "주요사항보고서(유형자산양수결정)",
+    "kind": "주요사항",
+    "topics": [],
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008000381"
+  },
+  {
     "company": "컬리",
     "industry": "IT",
     "date": "20261002",
@@ -738,13 +738,31 @@
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260714000368"
   },
   {
-    "company": "엔에이치엔",
-    "industry": "IT",
-    "date": "20260708",
-    "title": "주요사항보고서(회사합병결정)",
-    "kind": "주요사항",
+    "company": "씨제이이엔엠",
+    "industry": "미디어",
+    "date": "20261008",
+    "title": "결산실적공시예고",
+    "kind": "실적",
     "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260708000501"
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008900389"
+  },
+  {
+    "company": "스튜디오드래곤",
+    "industry": "미디어",
+    "date": "20261008",
+    "title": "결산실적공시예고",
+    "kind": "실적",
+    "topics": [],
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008900270"
+  },
+  {
+    "company": "삼성에스디에스",
+    "industry": "IT",
+    "date": "20261006",
+    "title": "결산실적공시예고(안내공시)",
+    "kind": "실적",
+    "topics": [],
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006800215"
   },
   {
     "company": "위메이드플레이",
@@ -1357,32 +1375,5 @@
     "kind": "실적",
     "topics": [],
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260715800352"
-  },
-  {
-    "company": "씨제이이엔엠",
-    "industry": "미디어",
-    "date": "20260710",
-    "title": "결산실적공시예고",
-    "kind": "실적",
-    "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260710900237"
-  },
-  {
-    "company": "스튜디오드래곤",
-    "industry": "미디어",
-    "date": "20260709",
-    "title": "결산실적공시예고",
-    "kind": "실적",
-    "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260709900400"
-  },
-  {
-    "company": "크래프톤",
-    "industry": "게임",
-    "date": "20260708",
-    "title": "결산실적공시예고(안내공시)",
-    "kind": "실적",
-    "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260708800509"
   }
 ]

@@ -11,18 +11,6 @@
     "image_source": "매드타임스",
     "image_host": "www.madtimes.co.kr"
   },
-  "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeGpRUDNxWnlseEZtR0dZNU9ZTUozMmFETVdMTnhBU19PXzc2UlVleTFNTUk0WXBaUTZXX0dQM0VTRzJOM0hicXhQY2Q4ck1mc1Z1ZHM0Y3BUc2l2NHNYbkkyMTlUQmpkaFhqV1dqRFlXdWZnVE85bXpPdlFIY1doY0RKRzVFdDBnQkJfeHFQR2rSAaQBQVVfeXFMTWx6ZzJkN0ZfaVZMa0xVbl9ZOEpkRXFJRURiWE1uVlJjRFItZXRRSm9WZUQ4dERTbWZvTlFLNmswUzR4Ync0cl9ua3RvbTNxSlR0Vy1CdGJhQnBOYTh3WVhNN0dSRFBES1RFVlo3YjBQUHgzLVZaM2tVYzhUTlpoQzVqODBXVktMWXRiVVdJWFg5dzRUVHJnZ25fY20tSzJWSF92REo?oc=5": {
-    "image": "https://biz.chosun.com/resizer/v2/LSUY6MR6VZBGPGTF2TAMYEIJIA.jpg?auth=87044da3d9ebc47d5bc8fb0eea279e3f5e33a61ca0a31cff81db3d53bb244d74&width=1200&height=630&smart=true",
-    "image_alt": "SM C&C, ‘우리들의 발라드2’로 음원 IP 사업 강화",
-    "image_source": "Chosunbiz",
-    "image_host": "biz.chosun.com"
-  },
-  "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5bHVIZmx3SG9aV0xSQXZvX3NPSmk0RkItSlFjTEJlV213WXY1T24yb09WOG4yZkV5QXk1a0lTN2owaE1DOHVqV2xTamJKQVktUVZaQXRseGhoS2xBMnFnNUJrZ0Z4azdULVE?oc=5": {
-    "image": "http://www.golfbiz.co.kr/news/thumbnail/202610/28265_57201_1241_v150.jpg",
-    "image_alt": "[LPGA]윤이나, 티띠꾼에 3타 뒤진 공동 2위...롯데 챔피언십 '무빙데이'",
-    "image_source": "골프경제신문",
-    "image_host": "www.golfbiz.co.kr"
-  },
   "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1yUVRXNGgxTkRkcDZGWHkzSEZ6SXdVR0l1b0V6bVR4dWd1c016STNGalNkLXoyRFJWWkdKREVkbXFReW9DZDFtc0dvTGtHM1pIMi1yUlMyRTJ5WkxoMmVIU0Y3WE4?oc=5": {
     "image": "https://menu.mtn.co.kr/upload/article/2026/10/01/2026100111281463461_00_960.jpg",
     "image_alt": "'회생절차' 콘텐트리중앙, 메가박스에 묶인 2300억이 변수 [엔터코노미]",
@@ -77,97 +65,13 @@
     "image_source": "파이낸셜뉴스",
     "image_host": "www.fnnews.com"
   },
-  "https://news.google.com/rss/articles/CBMidEFVX3lxTE5vVHBCUkRLbTJnd3Zxb1pha0Rsc1ZvSlowVGNyczhvekJBRU05OXVtaHRHOUVYOXRYLUZUQVo5S3BpY2lsYTY1R3loVW1wZzRSaGhtUnBTbk1zNXJiR0pwMlRyRXl6MHYyMnI1U0dxcnhDeVVY?oc=5": {
-    "image": "https://image.starnewskorea.com/21/2026/10/2026101309235857763_1.jpg",
-    "image_alt": "[공식] 하츠투하츠, MOBA 게임 'Arena of Valor'와 특별 컬래버",
-    "image_source": "스타뉴스",
-    "image_host": "www.starnewskorea.com"
-  },
   "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1QbV9vd0dZMDBaSHJpaWVmcW1yc0s1WVQ3V1JFeUtiREltbWJEUUJpM0xHZ3JheWszd0hIOVNDWmVHMTFFdTJkWC1Cd3RjUUlDaC11OS1kQWVkaUF4MnpJVHk0NURiLXA30gFuQVVfeXFMTnBKcUprby0wbmFJcXNydThGWW9yaWtMdVpLRnpLb21paGhxMjJYOEx2cV9WcEV2ektlV0U1cXFSblBYYmwxQmptaF8wZHA1VE9JRkVqT0lGeWlhR09vdHhTSWZNNEI4UWk0c0t6T2c?oc=5": {
     "image": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=1043,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/21/2026/10/2026100608261295973_1.jpg",
     "image_alt": "제일기획, 실적 부진에 목표가↓…주주환원 매력은 여전-NH",
     "image_source": "머니투데이",
     "image_host": "www.mt.co.kr"
   },
-  "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTDhIZUVRemtfanJOOXBzdGwzektieWFYb1llaDlIeW5lUXZiRW5uMHlpRkMtZ2RDdlRDRTl4VzU3bC1mRzc4ZFBOYWt5ckY3dVRQREV0TDRXcWFzRFhES0JXY3dhSDlReWhJMmlZX2gzcVgzb3pBZWk2YVp4c2hhNg?oc=5": {
-    "image": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/10/PS26100100317.jpg",
-    "image_alt": "제일기획, 계열사 광고비 축소에 실적 눈높이 하향…목표가 2.5만원↓-DS",
-    "image_source": "이데일리",
-    "image_host": "www.edaily.co.kr"
-  },
-  "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HNDRLZTlDeUt6V3djOHRmNnhZa0h6U2hqNEc2NXR6d2NwNlFOTEFYek5VRlNmcldkTFd3dUFOY0xDOHE5aG9LdWoxZU9ZbEJrc0FNZzYxaEFIcUZzWGRLVdIBYEFVX3lxTE9HNDRLZTlDeUt6V3djOHRmNnhZa0h6U2hqNEc2NXR6d2NwNlFOTEFYek5VRlNmcldkTFd3dUFOY0xDOHE5aG9LdWoxZU9ZbEJrc0FNZzYxaEFIcUZzWGRLVQ?oc=5": {
-    "image": "https://img0.yna.co.kr/etc/inner/KR/2026/10/12/AKR20261012174100003_01_i_P4.jpg",
-    "image_alt": "'제2의 밤낚시' 만든다…이노션, 시네마바이브랜드 플랫폼 공개",
-    "image_source": "연합뉴스",
-    "image_host": "www.yna.co.kr"
-  },
   "https://news.google.com/rss/articles/CBMiZEFVX3lxTE84TVF5S3l4VTBsbzBQS29oT2RhcnNaejNuUGxqaUdNX1VLZ3JHMmRTUC1pQzBtS3EydmVqNnFqSzdKNUpyZ0tWWXUyQWRBbjB3VG5hNEtaMlNld1V1dGVLNzJmbmU?oc=5": null,
-  "https://news.google.com/rss/articles/CBMickFVX3lxTFBpb0VicFZTTXFxZzI5TzZXM3IxOHdPcm1hTDhvb3Q0eXh6ai14bVVpb0ExVFlYOFU4aXg1WE54SHFSUVJTQUZtM0QtUW1ObEo0bFpSX29yRnlfMVEtejhhLWtJUWZ6V2NXMzlsRGRPWm9aUQ?oc=5": {
-    "image": "https://flexible.img.hani.co.kr/flexible/normal/650/389/imgdb/original/2026/1013/20261013503436.webp",
-    "image_alt": "홍라희, 이재용에 삼성전자 주식 2조6천억 증여…이건희 유산 모두 넘겨",
-    "image_source": "한겨레",
-    "image_host": "www.hani.co.kr"
-  },
-  "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5hNHMtWEJXVnpXVEtrdnVDeXgzcmtUUHd0QUdneW5SX0JHVktBbmtRaFozb0dLYXk2anVLNGJHanF1d25NdVNnQ2hNOFo3RWJoSEFNaTFGMXpJb1BFUUdkU0w1cHdqQQ?oc=5": {
-    "image": "https://cdn.thelec.kr/news/photo/202610/63620_50055_4421.jpg",
-    "image_alt": "LG U+, AI로 요금 납부·로밍 가입까지",
-    "image_source": "디일렉",
-    "image_host": "www.thelec.kr"
-  },
-  "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kZk5iRmczUVg2QlBCOGhJUjNYMnJKaHc0Z1VlUXh1bEtKRWwzY3hSRTVqeXRtd3ZXcTFGV2c3Wjg3QmVpMEtOdWEyVUVQdEVGV1NDdnhR?oc=5": {
-    "image": "https://image.zdnet.co.kr/2026/10/13/4ba4ae6a7dee459425d73d998cc4805f.jpg",
-    "image_alt": "컴투스, '2026 KBO 포스트시즌' 맞이 컴프야 캠페인 영상 공개",
-    "image_source": "지디넷코리아",
-    "image_host": "zdnet.co.kr"
-  },
-  "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB4RVZrbThhdndIbnFCazNieVhTTVNHOVM4Y2FmN3JWakpENVJKaWQxcHZGV012QV84V0ZKbFQxUTZBdXRlc2cxS0x0NzlwOUZQY3NOU1h3?oc=5": {
-    "image": "https://image.zdnet.co.kr/2026/10/13/8027ffa4ec9a9873f4ec3f64b36497fc.jpg",
-    "image_alt": "넷마블 엠엔비, 신규 애니메이션 '박살! 쿵야 레스토랑즈' 13일 공개",
-    "image_source": "지디넷코리아",
-    "image_host": "zdnet.co.kr"
-  },
-  "https://news.google.com/rss/articles/CBMioAJBVV95cUxNNWp4LV9PeUtIa1M0MVRxWDNPVkJHelF1OWtMYjdqZmJMSDdGSW1OTDJEOWZOMlJWSDFncU5fUnFjV0JDU0hCR2VCMHdCcjJLdHI4TWhnWEU4Vl9KNGZwZGM4LVBuektMc0lzcUlYYmtkYnprTjJlREh5N0tFS3M3ZWV1bkZ1VzRHV2VkaDZhZWcwUmZYXzBoSERUNDZpQVl1bWNNNi1wcmhzZ3NuUmlBNkJnXzhtTDJtSnJPNjA5RlNHLW1fbkhPczVHMVktY3VoSWdKSWg1U2o5aGR3UjFVOVhJS0RPa0VNVWdSTTktOGJNTU8wMUJYOUxmdXNmNFp2TU5yZ2g0Z1pxUHJNdWZLNXdyZFNqaXUyT3pWODVUeEY?oc=5": {
-    "image": "https://www.krafton.com/wp-content/uploads/2026/10/사진자료_크래프톤-역대-최대-규모-‘AI-Native-신입채용-실시-scaled.jpg",
-    "image_alt": "역대 최대 규모 ‘AI Native’ 신입채용 실시 | KRAFTON",
-    "image_source": "크래프톤",
-    "image_host": "www.krafton.com"
-  },
-  "https://news.google.com/rss/articles/CBMibEFVX3lxTE5lVTNwc00wNWphcWdEaEVqMFhqY3lyQ01JYnFRTlF6U2FlcmhuLTlwdm5RQV9UV0lUOHFzaTVWSDRlUmVRZWE5c0pUNURHekp4NTQ4NVMzX0FpTF9tbHByLWp6Q0d3TWRwWHMzbtIBbEFVX3lxTE5lVTNwc00wNWphcWdEaEVqMFhqY3lyQ01JYnFRTlF6U2FlcmhuLTlwdm5RQV9UV0lUOHFzaTVWSDRlUmVRZWE5c0pUNURHekp4NTQ4NVMzX0FpTF9tbHByLWp6Q0d3TWRwWHMzbg?oc=5": {
-    "image": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/10/2026101318042466406_1.jpg",
-    "image_alt": "\"역대 최대 100명 뽑는다\"…크래프톤, 첫 'AI Native' 인턴십 채용",
-    "image_source": "머니투데이",
-    "image_host": "www.mt.co.kr"
-  },
-  "https://news.google.com/rss/articles/CBMiaEFVX3lxTE54Y1NLMmlPQ2ltWUwwQ1VkaUJIX19FbE5XZXFDQzY5dGlKRmhDV1l1Q0VpMnZBbDVNTUxzZVZtNENTLWp1eXJSTTJwQUJnRk5OVFdCTG5TdVpzMTc1Y0oxc3BQUHhIVW9D?oc=5": {
-    "image": "https://cdn.ebn.co.kr/news/thumbnail/202610/1727720_762039_448_v150.jpg",
-    "image_alt": "엔씨, 서브컬처 시장 공략 속도…‘AGF 2026’ 메인 스폰서 참여",
-    "image_source": "www.ebn.co.kr",
-    "image_host": "www.ebn.co.kr"
-  },
-  "https://news.google.com/rss/articles/CBMieEFVX3lxTE96N1o5X24xUVd3ZVM5cy13d0sybXpaTnl0a0VvNWtITy05aVhkU3VmLXNjc3c2MVIwRklCdC10UnpjanRMSW1POGk2RWJMUFdxOXdKbC00T1Ywd21GU25JblZHOUNCSHpfT3JnTklXbHhWb2N5UFBBMtIBeEFVX3lxTE96N1o5X24xUVd3ZVM5cy13d0sybXpaTnl0a0VvNWtITy05aVhkU3VmLXNjc3c2MVIwRklCdC10UnpjanRMSW1POGk2RWJMUFdxOXdKbC00T1Ywd21GU25JblZHOUNCSHpfT3JnTklXbHhWb2N5UFBBMg?oc=5": {
-    "image": "https://img1.newsis.com/2026/10/13/NISI20261013_0002262405_web.jpg",
-    "image_alt": "NCT 위시 미니 4집, 하루 만에 120만장 팔렸다…4연속 밀리언셀러작",
-    "image_source": "뉴시스",
-    "image_host": "mobile.newsis.com"
-  },
-  "https://news.google.com/rss/articles/CBMidEFVX3lxTE43Snh2UlRaQ1gxUWhJRFZGWTVfRHU3UG9RcmRYa0M1eEc1T3pjSm9qMms4QlktazgyN0hreVM1b1oyZUVMbUM2TUVLMkxfWU11NktScnpsUmtOQ2tQUUdEeEYwQlQ4Ni00MnNqV3FITWFVdVQ5?oc=5": {
-    "image": "https://image.starnewskorea.com/21/2026/10/2026101310052293822_1.jpg",
-    "image_alt": "NCT WISH, 앨범 냈다 하면 '밀리언셀러'..통산 네 번째 기록",
-    "image_source": "스타뉴스",
-    "image_host": "www.starnewskorea.com"
-  },
-  "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXZjhoRlNyaDZ0WGhPa0xrc1J3MFJsaDFhRUotdXV0RXEweTB4MWhaVUNXRGFsdlpNa2kyS3dfeVYzSFdpejctY1hBWGNPVy1lS0JyWnV6Q0JxSGF1NFREcWtYOWo?oc=5": {
-    "image": "https://menu.mtn.co.kr/upload/article/2026/10/12/2026101210455089483_00_732.jpg",
-    "image_alt": "JYP Ent. 자산 재편 시험대...755억 신사옥 결국 백지화 [엔터코노미]",
-    "image_source": "MTN 머니투데이방송",
-    "image_host": "news.mtn.co.kr"
-  },
-  "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IZlVocjJBVHhCdU5CbUt4VnY2N0k2V0NzZjhZWGlxTmVSdFdUMzBFblo2eTlyb2NfSDBrRmhJMXRNcWJRZER4dzU1STB0ckNuYU1idmNNRnc2Y1k?oc=5": {
-    "image": "https://isplus.com/data/isp/image/2026/10/13/isp20261013000264.800x.0.jpg",
-    "image_alt": "‘신의 퀴즈’ 일본으로, ‘김비서’ 홍콩으로... CJ ENM, K드라마 IP 확장",
-    "image_source": "일간스포츠",
-    "image_host": "isplus.com"
-  },
   "https://news.google.com/rss/articles/CBMicEFVX3lxTE1PS1BSODBJQjBLN3RBNDhOZkxGLUY1VENJbEdoTUx4S1lQc1RrSmkyRXJIaTBmRWMyMXlLNEpQY2l6Nno1OGJpM0E5VC05Njl1NmJNelh2WUtUOEdJTl9oZzg1QXpnX0lpOU1KSmtCVFbSAXRBVV95cUxQRmRjY0gzbWZsN0ZTaVN3MnRYMElaaFYyTXptckMyOFhIcVBDa0hHaEFKNlMyR3FkN3FFb1I2dkRwdmhoWFNmcno1QklOT3MycnEwcUYxX3RaWk4yU1JRWUt5VmViV1czSW5yTHhRVzJkM09fTw?oc=5": {
     "image": "https://cdn.sankyungtoday.com/news/photo/202610/63525_29499_2335.jpg",
     "image_alt": "기업 신용등급 하향 48% 급증…중앙그룹發 연쇄 신용위기 여파",
@@ -192,110 +96,11 @@
     "image_source": "서울경제",
     "image_host": "www.sedaily.com"
   },
-  "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBoREs5S3Y5YXhiN2FPckpyR0d6SnRJeFFWOTNvOVhmaVI4QjNfR1ppTkx1enVvcTNmUENuZ25IaWhGVGJsaEFWblB1X0Q3SE5XNG9YU2MzNFdyczEyTHkxNUlzOGppX1Mz?oc=5": {
-    "image": "https://cdn.epnc.co.kr/news/photo/202610/408209_408811_4313.jpg",
-    "image_alt": "삼성전자, 실리콘밸리서 6G 주도권 확보 나선다…AI·위성통신 기술 공개",
-    "image_source": "테크월드",
-    "image_host": "www.epnc.co.kr"
-  },
-  "https://news.google.com/rss/articles/CBMivgJBVV95cUxPck5hVnJURnlpUkpwNTRJWU5BZDZwMUdPYi1jdWJPSTN6VXQzZDhueHBCU043aU1mUGdzUEJGZ2U1R0FLdm9tRkRYMlVsNDZqUjIybDB5Q0dac1gzR1dKTWZUbG1GV19xOUVEa29Dcmt2R21FVWlOX1lESDY4dGlLZk02M1hlendmdGEzMHd1M2Y1TlJhZFR5SjQ4enh1ak10RlduS3A5QmI3UkdMN0djZFgtNzNMRllrZjlDUmVhYkdMTDB4SW9IY3U2R1B5TFFtYjBuOHpUMy1GVF9faER0OUFINTJxVjZwTmVaa2VYWkZQOEI3NDJEcnhlbTZwcThReWlSUjBGeGlSbTQ2TXhDaUpvUGNRX2R5LWZaQXA5TlJSdk5TM3lJeG1JMnlrYUJlUUdzNmtRTG53SGNjYVE?oc=5": {
-    "image": "https://img.kr.news.samsung.com/kr/wp-content/uploads/2026/10/15062302/KV_AI_1015.jpg",
-    "image_alt": "삼성전자, 동남아 가전 테크세미나 개최… 맞춤형 AI 가전·통합 공조 솔루션 대거 공개",
-    "image_source": "samsung.com",
-    "image_host": "news.samsung.com"
-  },
-  "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5aVVZCaGVLMEF6ZWMzdXdRMk15TzFoNm4ySUFOcDZLUVFiaU1QT0t3U2hCUkNmb0Y2YlYwZ25UYlZPcllTVUU3N3NyeEV5SmZIYmQ2Qy1mV2s5RzR3QUNaWg?oc=5": null,
-  "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1admhLWjR3QzJUNjFXSldvTXh4Q3NBdlhDWGVldFVjRXBvM1JxWl9YRk5uOF9DZ2VCVXlvTFlud2ViYVFPNlpFLXl2dW9RMjJkWlhPZTFXMGZUZw?oc=5": {
-    "image": "https://img.hankyung.com/photo/202610/01.45985886.1.jpg",
-    "image_alt": "\"삼성전자, CXMT와 기술격차 최대 7년…시장 우려 과도\"",
-    "image_source": "한국경제",
-    "image_host": "www.hankyung.com"
-  },
-  "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9mRnRydEtTd25WalowWThPYnBpdnozU2F0bTFHYkFjR0hCa000SEF6VlNxTk9JUUxzeDZjR3MtcXdyUFU4Zk50TElTUG9hNXBGTjdJZTRCdzFFTTR4R0RpcdIBYEFVX3lxTE9mRnRydEtTd25WalowWThPYnBpdnozU2F0bTFHYkFjR0hCa000SEF6VlNxTk9JUUxzeDZjR3MtcXdyUFU4Zk50TElTUG9hNXBGTjdJZTRCdzFFTTR4R0RpcQ?oc=5": {
-    "image": "https://img2.yna.co.kr/etc/inner/KR/2026/10/14/AKR20261014161200064_01_i_P4.jpg",
-    "image_alt": "청주시, SK하이닉스와 894억원 규모 공업용수 공급 협약",
-    "image_source": "연합뉴스",
-    "image_host": "www.yna.co.kr"
-  },
-  "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5xNXlEd2dtNUI1Zm9vYXRmdUdoZDFlUTlXaW1ZODFSMTF2Xzg0WEs5Y3hicElqMGk0VkFhQVdzcmtlTlhBUzNHSzBvNEVMaGlNd05vSXVYMWZLYmdwbjVRYndOYXdmQQ?oc=5": {
-    "image": "https://cdn.jybtv.kr/news/photo/202610/210845_69583_1857.jpeg",
-    "image_alt": "SK하이닉스 안현 사장 \"전체 메모리 계층 최적화로 AI 생태계 지속 성장 견인\"",
-    "image_source": "자유방송",
-    "image_host": "www.jybtv.kr"
-  },
-  "https://news.google.com/rss/articles/CBMib0FVX3lxTFA5RnROSkI0WnVwTkhMdVN1N0d5S0M4NGF3bzhueEIzcGw2TDlOcC1pc3djVmh1WENna2pOczR4VWZfXzFZYVQ5NkR3YUpBMU95ZWdpZmJMZVFUY2FEWmJjVThFc3NTRjlIUVZHNC1Lb9IBb0FVX3lxTFA5RnROSkI0WnVwTkhMdVN1N0d5S0M4NGF3bzhueEIzcGw2TDlOcC1pc3djVmh1WENna2pOczR4VWZfXzFZYVQ5NkR3YUpBMU95ZWdpZmJMZVFUY2FEWmJjVThFc3NTRjlIUVZHNC1Lbw?oc=5": null,
-  "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1aSGFUSWNIQ29UdnEzZ185Tks0bUQ1U3RuLVhicUVDVHlEZ3ZVOS05LWRJbGVoZWhjSzNwYUpCSHdxd2pZUkt5dURuWEVhazh6S1NxTXpMSUFrUUNUbU5fcktzZmZGQQ?oc=5": {
-    "image": "https://cdn.thelec.kr/news/photo/202610/63687_50104_4853.jpg",
-    "image_alt": "안현 SK하이닉스 사장 \"HBF 최종 규격 내년 1월 확정\"",
-    "image_source": "디일렉",
-    "image_host": "www.thelec.kr"
-  },
-  "https://news.google.com/rss/articles/CBMia0FVX3lxTE5aaURlWDhkQVNXY0thaXdiRXNHdjFDWkJZZWJXTkotTWtwMERkX0YtemhXN0ozZDJlM3h0STA5V25VV2JyZllQNFhHc1hKR1pwbzlvTVJoY1dqeW5BQkV1aF9GbTVIS2lBM3Nj?oc=5": {
-    "image": "http://www.efnews.co.kr/news/photo/202610/133134_120625_1511.jpg",
-    "image_alt": "LG유플러스, 잠실야구장 마지막 가을야구 앞두고 통신망 특별 점검",
-    "image_source": "파이낸셜신문",
-    "image_host": "www.efnews.co.kr"
-  },
-  "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pWGxPTHBWbTFQNXBSSHlSYWtoUFE0eUFES3pmdzNqczl3by0zbVdFMm5ib0txU0praEdOTW80NmFManducHZSUTNQU2w2VTFJdVNIOF9zN1pneWxCQ3hzQl9qR0RmaWZBU0RsdQ?oc=5": {
-    "image": "https://cdn.econovill.com/news/thumbnail/202610/753507_730068_4931_v150.jpg",
-    "image_alt": "LG유플러스 심플랩 통신사 유일 KAA 마케터상",
-    "image_source": "ER 이코노믹리뷰",
-    "image_host": "www.econovill.com"
-  },
-  "https://news.google.com/rss/articles/CBMiZkFVX3lxTE13TlJ3WTFwUF8tOWdSaTg1dFBUd2VmTV84ZEl2T181cGw5anRBNVRVaUliMWN6WXdmVVNiYi1qSHBhTlRVb3JUWmozWlFKeXJweXNkVVg4eDJFaGFKc1hFbmZVLXZlUdIBZkFVX3lxTE13TlJ3WTFwUF8tOWdSaTg1dFBUd2VmTV84ZEl2T181cGw5anRBNVRVaUliMWN6WXdmVVNiYi1qSHBhTlRVb3JUWmozWlFKeXJweXNkVVg4eDJFaGFKc1hFbmZVLXZlUQ?oc=5": {
-    "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/14/134841779.2.jpg",
-    "image_alt": "LG유플러스 ‘심플랩’, 한국광고주협회 마케터상 수상",
-    "image_source": "동아일보",
-    "image_host": "www.donga.com"
-  },
   "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2WFZqSnFPYmQwNDJrVGtvNUducWp6RzNuR0xTX2JLVWNWSk82OTFFNzVCY1Fpakpsa1pqeFZqWWRRdlp3UWpRTENhbjU3NF9NSi1kYnlR?oc=5": {
     "image": "https://image.zdnet.co.kr/2026/10/14/d76c821bd027c16a236a58d9e62b2b70.png",
     "image_alt": "'모두의 AI' 16일 정부 첫 점검…SKT·KT·카카오가 꺼낸 승부수는",
     "image_source": "지디넷코리아",
     "image_host": "zdnet.co.kr"
-  },
-  "https://news.google.com/rss/articles/CBMic0FVX3lxTE5GV3U5dHBGRTliQjExSW01M3BiSUFZazlyX0kxeGVCdURDQ00xb0YxbE54eUVoZTdMVU1LQnZYVU5GZDZBN3h3Qmh3aWxEN2l5MzNGdl9WX3VvQkNuemIzUkNJV2lnQ0NuazVlSml2MzExckXSAXdBVV95cUxNei0xVTREcFItVTc5UWFma1dqV0dvS1lONE51cFkxRUtfbjlzUkpHMjFtOEhfa1A0NklfUS10cG8tT3JjbU1sdS1ITnJhT0Q2ekN4eEpnMlAtM09LMVYtU2RVUmxSNnJfRVlLbmJ1cEpyTDZvNnZwVQ?oc=5": {
-    "image": "https://cdn.pinpointnews.co.kr/news/thumbnail/202610/495418_480958_3139_v150.jpg",
-    "image_alt": "SKT, AI 기반 무인차 이송 기술로 '네트워크 X' 어워드 수상…5G 기술력 인정",
-    "image_source": "핀포인트뉴스",
-    "image_host": "www.pinpointnews.co.kr"
-  },
-  "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qTWJUdkhGdzRVRTlsOTBrN0FuT0Mxd1BoV213RWpvamcxNnBHa3JBRDMtbFFIcVUwTmIzQWY2R3l2d2IwVDJqWndTMUdpb0dxQTdPWHhDQzM3clBUNEFhbjE0VTZKVzA?oc=5": {
-    "image": "https://cdn.aitimes.kr/news/thumbnail/202610/42306_63607_3029_v150.jpg",
-    "image_alt": "SKT, AI-RAN으로 일반 차량 무인 이송 구현…글로벌 5G 혁신상 수상",
-    "image_source": "인공지능신문",
-    "image_host": "www.aitimes.kr"
-  },
-  "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yaFVUc0prUnZtVGFuRWdKcDhEOUhIMzRSRlBTOFNFTWNpX1U5QzdNWWxReWNQQUZQLVR3TFZNMzJPYmFnTVdpUk9FeGFldm54a0FfZ0VmY3gxZw?oc=5": {
-    "image": "https://img.hankyung.com/photo/202610/AA.46054679.1.jpg",
-    "image_alt": "데이터 전송용량 8배 증가…KT 'AI 전용 회선' 출시",
-    "image_source": "한국경제",
-    "image_host": "www.hankyung.com"
-  },
-  "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1hOHBFQkFyWjJUR3RSSFpfS20yZUZieWR0WEljS0dsenQxUVUzRHZUQjRZeXloLUJiTHV4ajhZazNMczE3SEZlVndsaWdDVDY5azFvWUcxUUdhOGvSAWBBVV95cUxOS25oNzc1NkxpUkgyMmx0c09zcTdCeVpFUkJtUXdLaDFONGx0ZjEzeGFTX3g5YXhwcXYyQ25hOVI3T0t2aG1oS2RHWVVwVml4Q1JyclZYVXFHME10UUgwaVE?oc=5": {
-    "image": "https://img9.yna.co.kr/etc/inner/KR/2026/10/14/AKR20261014184300007_01_i_P4.jpg",
-    "image_alt": "프로농구 가스공사, 17점 차 뒤집고 kt 4연승 저지…알루마 20점",
-    "image_source": "연합뉴스",
-    "image_host": "www.yna.co.kr"
-  },
-  "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9mbVZ4d1hYaGk5U1Y3MkhGRXZzTTQ0M1ZuM19wNFRhZmtxQW9rTlZITDREY1JKNnlNUUxOTHI2bEhtWmdRaFpkLVd6a0JuZw?oc=5": null,
-  "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4wR2c3TXJvQm9FUDJUV1duM2xhTnJXRlYwdENWSFlGRm9UbGsxWmI2dWF3ZDExbElxQV9UWmI1R0hpdDgyUXNWMWtweXNmdldGVlRsdURPcm5GYlRSeUplZkZQSXg?oc=5": {
-    "image": "https://www.kgnews.co.kr/data/photos/20261042/art_17919578184137_f7000b.jpg",
-    "image_alt": "프로농구 수원 KT, 정조대왕 스페셜 유니폼 첫선",
-    "image_source": "경기신문",
-    "image_host": "www.kgnews.co.kr"
-  },
-  "https://news.google.com/rss/articles/CBMickFVX3lxTE5LOER2MlQ4OXNsbTZ4cE1HM1paRmVWUXYtX2xkUE44MkFyakdBN1dJcm9BdWhlaHVTVkxlbVBMT1cwT2M1YVNhSzNCUmtBMGlGcWJqbDBpN3VpcjhhamtzTmV6SmtTbG9CMG92SWx1Z0FwQQ?oc=5": {
-    "image": "https://www.navercorp.com/img/og/OG_TAG_6_Media.png",
-    "image_alt": "네이버페이(Npay), 전국체전에 NFT 첫 도입…‘Npay 월렛’ 기반 입장부터 관광 연계 혜택까지 지원",
-    "image_source": "NAVERCorp.",
-    "image_host": "www.navercorp.com"
-  },
-  "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSa3F0dEUtcGkyZ21KLW9ZNnhLVWxVYWt1QXVING40a0c5N2RxNEdFVE8yMWtyaEEyaGh5NElFVlg3b09wb1ZtelJVUFAxSENKVlJOcUtPeXNhT0NMRGJ6bkp0VlJTZk0?oc=5": {
-    "image": "https://cdn.kyosu.net/news/photo/202610/211266_213659_5650.jpg",
-    "image_alt": "영남이공대, 네이버 개발자 특강…AI·보안·클라우드 산업 실무 노하우 전수",
-    "image_source": "교수신문",
-    "image_host": "www.kyosu.net"
   },
   "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWjBPeWhKaDZfS1V1R280NHBNZ1k1THpaRUVHcWRvZms3akFTeWU4QklJNzJrbUU2WkZIWGFsMThhM2w4TXNTbzhKaktQdW00Q3BBSDB0bzIxUTFRcHdtdTZYc0xUcndsXzg3U3dBVkVDTVNyX1NRYnRqMlZrWWpJRmwwZExobzhPeEQ4NlN4cw?oc=5": {
     "image": "https://blogthumb.pstatic.net/MjAyNjEwMTRfMjMz/MDAxNzkxOTY5NTIzMjM4.kpVfUoiH4f8Wj6wRie-fu4gtmFV4lYtM6tG62tR-LSUg.a_77RlU6RuE-8iGGQNhxm285GAM0hS9buMXskkASo-Ug.PNG/%BA%B8%B5%B5%C0%DA%B7%E1%281015%29%C6%FA%B4%F5-5.png?type=w2",
@@ -303,25 +108,6 @@
     "image_source": "Naver Blog",
     "image_host": "blog.naver.com"
   },
-  "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Bdmc4a2xHRk1pekJ1ZHBmY1ZrU2pZYlp4VUMtZmI1TFJaRnFvZEVGZ09zZzE2MlVkYUMzbW1LaHBXY2cySW9DSW1Md050cjJ2ajdjdkRaMlFZYVFCV0U4YlNITkU?oc=5": {
-    "image": "https://cdn.m-i.kr/news/photo/202610/2005949_2005827_4141.jpg",
-    "image_alt": "카카오 ‘모두의 AI’ 12월 출시…월 이용자 500만명 목표",
-    "image_source": "매일일보",
-    "image_host": "www.m-i.kr"
-  },
-  "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGOEJ0YTV6Y0Zta0wwWVhPcnhfR1o0dHBJc2tKLTdCSUJ4SlR6NUpkMnRHbzk5dDJmeU50dG9hc3ZLa3plMUJtRnlKQUFKQmZBd0xxejdBa3h5bk5VYnEyM2w4b3c4WWtWNWc?oc=5": {
-    "image": "https://cdn.aitimes.com/news/photo/202610/216241_220262_424.jpg",
-    "image_alt": "내년 1월 인적분할 앞둔 카카오그룹 CEO 총출동...첫 공동 IR서 미래 전략 공유",
-    "image_source": "AI타임스",
-    "image_host": "www.aitimes.com"
-  },
-  "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1iV3NjeVgxNFJsakpDR1Z5cjhCNExaeXRLbkRwU3VLR2R1VFctTHR2ek0xazBLRkNNZFRUb2lkUng5RXMtSjNRNUhROVJaWW8?oc=5": {
-    "image": "https://cdn.byline.network/wp-content/uploads/2026/10/kakao-5.jpg",
-    "image_alt": "카카오 ‘모두의 AI’, 외부 기업·개발자 연결해 개방형 AI 생태계 구축",
-    "image_source": "바이라인네트워크",
-    "image_host": "byline.network"
-  },
-  "https://news.google.com/rss/articles/CBMidEFVX3lxTE5lMUhzdnowS0tEVjNkNVpzLU5hazROUkN0bEV2djhRRE1MMzlBNDd3RElEdHl0VGlTQkluUGZTMFc2Z1hPbjBuMEhtVFdsQTNPMmNnUndpb29zT2dKSEtQaVJMc1U5ZjVtZFU0NkxBV2FPYU9H0gF0QVVfeXFMTmUxSHN2ejBLS0RWM2Q1WnMtTmFrNE5SQ3RsRXZ2OFFETUwzOUE0N3dESUR0eXRUaVNCSW5QZlMwVzZnWE9uMG4wSG1UV2xBM08yY2dSd2lvb3NPZ0pIS1BpUkxzVTlmNW1kVTQ2TEFXYU9hT0c?oc=5": null,
   "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OUERyZENsTmRZUVNlUkpYOHcwV1dFMUlYYWhHc0JTbU4zdTNTU3dkZWE4MkM0ZnRuMXVEV1ppS09GZjBtS2FHaVNWV0pSZ0F6MFZfSFhB?oc=5": {
     "image": "https://image.zdnet.co.kr/2026/10/14/89ed31e079ee10c87f190cb91fdf43f5.jpg",
     "image_alt": "컴투스, 야구 게임 3종 포스트시즌 우승 예측 설문…'KT 위즈' 1위",
@@ -342,36 +128,17 @@
   },
   "https://news.google.com/rss/articles/CBMidEFVX3lxTE10OUhjU0RQVFR6cjdtUlBHa2dQNGFfUzZDWTl6ZzdWajZMcHAwRmxITktzVDhfUV9TQzRWWjBZZmZIMEF4UzZUTzJKajlUajctbjR3VHJ4U3J5VTRoUjdxRmVWeHBjRFNYSWhSSjRobUhseXdS0gF0QVVfeXFMTXQ5SGNTRFBUVHpyN21SUEdrZ1A0YV9TNkNZOXpnN1ZqNkxwcDBGbEhOS3NUOF9RX1NDNFZaMFlmZkgwQXhTNlRPMkpqOVRqNy1uNHdUcnhTcnlVNGhSN3FGZVZ4cGNEU1hJaFJKNGhtSGx5d1I?oc=5": null,
   "https://news.google.com/rss/articles/CBMid0FVX3lxTE5zZ2dRN0g3ME9odkJhc2VnSG9pSnJxZXNFUDhEUHBJUlo2TThZZ3NneFV6cFN3bGlYR0tSUFZCS2hyOXBPTVc2LTFaWm9iS2ZuNTJ1bWJROElwZzB3eWRpLXpLX0ZrY3JHUVZpYTJOVXpPMW5nRkhz0gF3QVVfeXFMTnNnZ1E3SDcwT2h2QmFzZWdIb2lKcnFlc0VQOERQcElSWjZNOFlnc2d4VXpwU3dsaVhHS1JQVkJLaHI5cE9NVzYtMVpab2JLZm41MnVtYlE4SXBnMHd5ZGktektfRmtjckdRVmlhMk5Vek8xbmdGSHM?oc=5": null,
-  "https://news.google.com/rss/articles/CBMibkFVX3lxTE1OQldoek9KbjJHZW81dkJpdHJYSXFJSFJ2MUhPbTZNMlRCR0FDUUlFRkgtRlpua2JSZWR5Z2d6THlpNDN6STNodExubEM2VEhSVTdjWjNpU2IwTXdSR1ZUV1lEeS02NzNSaFBSY2Jn?oc=5": {
-    "image": "https://cdn.gukjenews.com/news/thumbnail/202610/3721736_3898183_2044_v150.jpg",
-    "image_alt": "'엔도르시' 신규 동료 합류…넷마블, '루슬렉' 강림 소환 28일까지 진행",
-    "image_source": "국제뉴스",
-    "image_host": "www.gukjenews.com"
-  },
   "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBESFlRT19MOHk5TmlXbE8yemp3d3pBajd5Z19xWWw5SWZGU1hBaXdqdDNsQXd0ajBvSmFuWkQ1aFFJRkMtbTd6Ymd5eFA5X2V5OXdQVTQ0d1QxT3FpNndsaNIBYEFVX3lxTFBESFlRT19MOHk5TmlXbE8yemp3d3pBajd5Z19xWWw5SWZGU1hBaXdqdDNsQXd0ajBvSmFuWkQ1aFFJRkMtbTd6Ymd5eFA5X2V5OXdQVTQ0d1QxT3FpNndsaA?oc=5": {
     "image": "https://img3.yna.co.kr/etc/inner/KR/2026/10/14/AKR20261014103500017_01_i_P4.jpg",
     "image_alt": "[AI픽] 크래프톤, 역대 최대 공채…\"AI 인재 100명 이상 선발\"",
     "image_source": "연합뉴스",
     "image_host": "www.yna.co.kr"
   },
-  "https://news.google.com/rss/articles/CBMidkFVX3lxTE9BbHVUTnhiV3NGVXlneGJfSldFRUx2QXBoOEIwZ1lCd1hkZGlXV3lHUllBVnlmdmQ1SHFySjlPV2x3X1ktTmM1LWxqWVhyX0RITmtfay1OcFFqNDdmSGE0OFljdlM3Q1JmeG5HRHJjdlFUNUgtQUE?oc=5": {
-    "image": "http://www.infostockdaily.co.kr/news/thumbnail/202610/218403_224559_153_v150.jpg",
-    "image_alt": "크래프톤 배틀그라운드, 럭셔리 자동차 브랜드 ‘벤틀리’와 컬래버레이션",
-    "image_source": "인포스탁데일리",
-    "image_host": "www.infostockdaily.co.kr"
-  },
-  "https://news.google.com/rss/articles/CBMib0FVX3lxTFB3cl9OUm5wU01ycmFsZVJ3bnc1ekVZMXFDaVkzR3ZmUUJYTGhtUjk4VUpUa0RXTEpLTlRobkE0WjhseW9hN0hRNHRYZEFNRk1OV1ZVSjFoODZxUF9yaTJ0UzB0NFFsM2ZObTBmYUtrd9IBb0FVX3lxTFB3cl9OUm5wU01ycmFsZVJ3bnc1ekVZMXFDaVkzR3ZmUUJYTGhtUjk4VUpUa0RXTEpLTlRobkE0WjhseW9hN0hRNHRYZEFNRk1OV1ZVSjFoODZxUF9yaTJ0UzB0NFFsM2ZObTBmYUtrdw?oc=5": null,
   "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBScUhzdEtJcGZEVFh3bWxDcnlCVWxXbXJFcG1CdTZfa3JFVFBfRG4xWkZPWFFSN013aUtONVZWblV0c1daUXpWZXZ0ZlhZQWRxbHZhalRXa0FkZ1FzcW5j?oc=5": {
     "image": "https://cdn.www.smarttoday.co.kr/w1200/q100/f_jpg/article-images/2026-10-14/10b8a826-fc27-49f1-acde-f6127b6e79ae.jpg",
     "image_alt": "엔씨, 리니지2 ‘BASIC’ 업데이트 예고",
     "image_source": "스마트투데이",
     "image_host": "www.smarttoday.co.kr"
-  },
-  "https://news.google.com/rss/articles/CBMidEFVX3lxTE94Sm9CMHNiQ3Q0QmJGSERsc0FoNEg0TDVSQ2NHd1RaaGlrYktkQnhaNjNvcWk5WFc5ZldFbmlTYWp3aTcwemhYWG1mYTQ3UThFa2lWNTFXLVRwRS1NS3g5WnlwZTZGTDcweGRXaXItQ1Ayc2Mx?oc=5": {
-    "image": "https://cdn.financialpost.co.kr/news/thumbnail/202610/280477_369984_67_v150.jpg",
-    "image_alt": "엔씨 아이온, '드라칸' 업데이트 사전예약",
-    "image_source": "파이낸셜포스트",
-    "image_host": "www.financialpost.co.kr"
   },
   "https://news.google.com/rss/articles/CBMifEFVX3lxTE5fZHppZkpBU1BqU29FZnV5NjhfVG1yaWVvQWt4ZGxnT2hCUm1QbWFSbl9CY0xJd3lTVlozM255TjZaV0lRcVFWUVpjVktNSUhKVTFyT2hKQmpvR2pwWlRZTHlFX1p6ZmRYRXBTUEdqaXJlOXR0bUo3VkNydDU?oc=5": {
     "image": "https://cgeimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=2026101415192003052046a9e4dd7f220867377.jpg&nmt=30",
@@ -379,62 +146,19 @@
     "image_source": "비욘드포스트",
     "image_host": "www.beyondpost.co.kr"
   },
-  "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5BTXhtX3A1clVVcGZsVW5HOXpKV2JvN0YzcHBiN0I2MUZvdHF4OEczbUZrVEh3ZU5hQ09WRTdOUW9lU2VpQ1YxeVlZZVFjUTFXQTVoWUg5SzhhdmktMjZ4N0U5ZDdYTVU?oc=5": {
-    "image": "https://media.yonhapnewstv.co.kr/article/AKR/20261014/AKR202610142032216Wo_01_i.jpg",
-    "image_alt": "민희진, 명예훼손·업무방해 혐의 송치…\"아일릿이 뉴진스 표절\" 주장",
-    "image_source": "연합뉴스TV",
-    "image_host": "www.yonhapnewstv.co.kr"
-  },
-  "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kLWpRU3RfMzMzV2ZkRnRFMWhWbnhOOEdJc29jZElkSUc2TGhhTFFVbFlmNlRLYUNFUlhZbmdDZnhVZlA2T205aTBURUE3RlJOWnFXNFM5b05GUm_SAWBBVV95cUxORElPazY3bGtKcDl6MUpreUlxQ3lFWmItX2tRUnRUamxKNlU3NGotczhDSTFJQXNpRUEzbVRQNDBTYllkWkNQZzA2S25kZ29ldG9VUkQ1YnVyanVYQ3ZXVmY?oc=5": {
-    "image": "https://img6.yna.co.kr/etc/inner/KR/2026/10/13/AKR20261013058400005_01_i_P4.jpg",
-    "image_alt": "BTS 월드투어, 롯데시네마서 본다…24∼31일 '하이브 씨네 페스트'",
-    "image_source": "연합뉴스",
-    "image_host": "www.yna.co.kr"
-  },
-  "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13ZWlRWU5XeWpjS0NySWphTkNnWV9qWE5zQkpWZ1dKQjR5a2E4aFpDdkljYlE1X09DOGJzTmd6eGJLQUJud3dwbkwtalZRX21hckV0RUs0Z3VtcUV2Mnpsb2lhcHFDLWxJ0gFrQVVfeXFMUDVTaDUyQVd3bUZtT3R0d3hxa01aSElnamNhVks0OF93WDZuX3dZMlJRSHBqS3duS3VWS1pSZG0zelJOa0x2OVpEaklzUzdza3J0Uy1JMVdaZmpZck8yY2NZZGN6YUR0Rko5Zkk?oc=5": {
-    "image": "https://cdn.finomy.com/news/thumbnail/202610/263599_258030_218_v150.jpg",
-    "image_alt": "하이브 레이블 손배소, 선고 앞두고 변론재개 신청",
-    "image_source": "현대경제신문",
-    "image_host": "www.finomy.com"
-  },
-  "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1GLXZZb1ZWVnJ5WjRlcjFjcjBiN3JmVFI1bUZZS3d3LTQySzVBM05BbFJ4ZWVxZlpDei05TEkzZU5RQTlUN1BtR1BZcWxWdWhncHk4QVYwQQ?oc=5": {
-    "image": "https://kpinews.kr/data/upi/image/2026/10/14/p1065593267706905_673_thum.jpg",
-    "image_alt": "카카오그룹, 인적분할 앞두고 첫 공동 IR 개최",
-    "image_source": "KPI뉴스",
-    "image_host": "kpinews.kr"
-  },
   "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IQWczdDZ3NjgxTTlGOGFFMG95WjBzaXVkVlJOVFloekN4RjRxdmFycVBnVWdxVnF0Z2VILUo5T0lYUFBQOEVtNm81VGtYUUYtaU5rbjU3UVlVMjFtNEoxN9IBYEFVX3lxTE9IQWczdDZ3NjgxTTlGOGFFMG95WjBzaXVkVlJOVFloekN4RjRxdmFycVBnVWdxVnF0Z2VILUo5T0lYUFBQOEVtNm81VGtYUUYtaU5rbjU3UVlVMjFtNEoxNw?oc=5": {
     "image": "https://img7.yna.co.kr/etc/inner/KR/2026/10/14/AKR20261014055100017_01_i_P4.jpg",
     "image_alt": "카카오, 인적분할 앞두고 CEO 총출동…새 성장전략 공개",
     "image_source": "연합뉴스",
     "image_host": "www.yna.co.kr"
   },
-  "https://news.google.com/rss/articles/CBMibkFVX3lxTE5UVVctbkdsYzc5dmJnYktNSWxhTUUxSGstZ3F5UFoxcDQ3ZWRtTzFDMEF6UTROTXo5ZExHaEtBdmVIcDZ4NmlBVTRXMVJPanhDQmxCNU93SUpBQjRSY012VVpZQ3dqSXF0eEdFNXZ30gFuQVVfeXFMTlRVVy1uR2xjNzl2YmdiS01JbGFNRTFIay1ncXlQWjFwNDdlZG1PMUMwQXpRNE5NejlkTEdoS0F2ZUhwNng2aUFVNFcxUk9qeENCbEI1T3dJSkFCNFJjTXZVWllDd2pJcXR4R0U1dnc?oc=5": {
-    "image": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/10/2026101310360317080_1.jpg",
-    "image_alt": "JYP엔터, 도쿄 다이칸야마에 첫 공식 플래그십 스토어 정식 개관",
-    "image_source": "머니투데이",
-    "image_host": "www.mt.co.kr"
-  },
-  "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fRjBzaVluMl9FQ1R5WXJQRGxDRWJPdDdYU1FuQ0hfdTl3VzJuMkdRd0RFNWZ0Uk9odWJpU1JlUGlQNHBwbWFiQ0Z3Wm5YRndfZkNBVm1SZm1ZOUlTWTJHaFZqSWdsTmlhV2fSAWpBVV95cUxPX0Ywc2lZbjJfRUNUeVlyUERsQ0ViT3Q3WFNRbkNIX3U5d1cybjJHUXdERTVmdFJPaHViaVNSZVBpUDRwcG1hYkNGd1puWEZ3X2ZDQVZtUmZtWTlJU1kyR2hWaklnbE5pYVdn?oc=5": null,
   "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBTSWU1SzNVU1N2Nk1LV3g5Y21rUTdWTjMtdlQ3aUlwODA2OGRRcXI0VkdzWWNHVTNTUzZjV0hEcU1ER3EzY0dHQk5YZ0N4dnMzSFI2NWpGMVA1TTZfaXgxanR1eU1PODBJ?oc=5": null,
-  "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBweXlXdzczd3cwREVTUzFxemtiY1NTLWYyOUtENHlSSi1BQi02aFhsVVFZejBEeEk2RmJBTy04YUJLZ0pWb0ZPdUo2UV9feUliNlg2YXJWM0FNSGhx?oc=5": {
-    "image": "https://kagit-media.atreez.cc/uploads/2026-10-13/w35w41pqj886ogp8wm7vvyk8.jpg",
-    "image_alt": "트와이스 사나 '시즌 그리팅' 사진 논란…팬들 \"지나치게 선정적\"",
-    "image_source": "Kagit",
-    "image_host": "kagit.kr"
-  },
   "https://news.google.com/rss/articles/CBMitwNBVV95cUxQVzN6eERzb2NhaGFZN2RWNFVfS3J3UHhIU21KRmwzaUU0NDZkUDgtUHotOTQwOVQySmdnY3NVOXNybVpXdmhhRlN1WjlJdDlMQW1BdmZiLVo1el9pdkhnUm9ZTHQ0SzZEOWI2QVZZVF9YQTlTMlVKR2dnSXA1VkR2Y2RkWUYtVFpZcVNza2lrdGZvdlcwU1E2VDFhNHM0eUpLX2g2MWZ3OU9pWDkzREl3Y0s0SXV2YUFhbWF2MzFoekdCUzVKU2pSWVFYUkMwSWZXRVd5UVN2aDNZanZsVVFPSUpycFFiem55TF8zRjlCUVZjcFd1bUJnOVR4QkZvOGliV29Dc0ZjX29BeVpudmFwNGVJMWtXYl82R3VXT29CaUNIamhOSVNIeUxuZ2Zuel9iX3kyV3dJVHhMSTBIT3Z1OENTY3pFMGw5aG0xTHBIVUFETkhxZHRFTUcyU3RoZkhuX2Z0ekI4alJkR3hUakpyUUdjb0RPLU4yS01fdVpORWJFMHFFbFRzMmgtMVVfZXA1QmV5YTRVVTVIamtKX05zZzJJQl9rb0g1RFdjVG9rcno4Z05ESHRz?oc=5": null,
   "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQOUlPUk1jNmpaZUV0SmdFdTFRM2d5WFJjbGdZUThaSTFrU25aVGUyeVRUV0JXUzgzaVFVOU5qRzI4VWU3ckFueGhsajA0ajdaY3VoTDc3RmlieHZiczFDWjVrSTdxTUtpREp0dWZsUDk?oc=5": {
     "image": "https://cdn.meconomynews.com/news/photo/202610/202523_205132_4711.png",
     "image_alt": "CJ ENM '신비아파트' 완구 불공정 계약 논란 뭐길래",
     "image_source": "시장경제신문",
     "image_host": "www.meconomynews.com"
-  },
-  "https://news.google.com/rss/articles/CBMieEFVX3lxTE1lMU15TkxWVWdVSk1QRGk3OW1ueExWWWtCQXlsa2NDa19xSlQzLUVULVpCLWdhQ0lDRXJXLXJoYUJRTURFVW1EVVJFUFkyaFpqcjNGaVAzb0w0MXhFYjk2cjVfSUFCdkM5aVhkeWpFYW1Wbl9TeEJSUtIBeEFVX3lxTE1lMU15TkxWVWdVSk1QRGk3OW1ueExWWWtCQXlsa2NDa19xSlQzLUVULVpCLWdhQ0lDRXJXLXJoYUJRTURFVW1EVVJFUFkyaFpqcjNGaVAzb0w0MXhFYjk2cjVfSUFCdkM5aVhkeWpFYW1Wbl9TeEJSUg?oc=5": {
-    "image": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=730,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/21/2026/10/2026101414157282501_1.jpg",
-    "image_alt": "'메리 베리 러브' 지창욱, 후줄근 차림에도 비주얼은 훈훈...고생길 에고",
-    "image_source": "머니투데이",
-    "image_host": "www.mt.co.kr"
   },
   "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YNGVUckJobEJ0el9UNmk2R0w3TEliMjFOa1lMSVRRdFVzRmxZR0NIaVM1VDdsN3FIN2NmeFRIc01aUTIyR3JOWkZVZWNjMzA0Z195NHlYaUFsa3c?oc=5": {
     "image": "https://www.ekn.kr/mnt/file/202610/news-p.v1.20261011.0a7fcb631edf4b8bb8f736e0cab7a895_R.jpg",
@@ -448,23 +172,302 @@
     "image_source": "한겨레",
     "image_host": "www.hani.co.kr"
   },
-  "https://news.google.com/rss/articles/CBMie0FVX3lxTE02UWxKcEhzeHFnbHZqX2VzclN6YVhocTVQdUdpM2VucU93aXFma0Q5MnB6M0RCUi1ZSDlhMjd5TEZvc21SVFdtVS1HQUhiN1BGS0lqWkdRaVlvNTBoM2NnZTFrZ0xkM0xHQ0ZBeHI0ZTFubTdvSnVzNE15RQ?oc=5": {
-    "image": "https://photo.newsen.com/news_photo/2026/10/15/202610150657102410_1.jpg",
-    "image_alt": "JTBC 인수전 막 오른다 “10월 중 매각 공고” [공식]",
-    "image_source": "뉴스엔",
-    "image_host": "www.newsen.com"
-  },
-  "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xcXNGeVMyX0UzWDZGZDJpRUxETU9LWGtUclktWThSaXMxZkxKNGd4VldlekhRM1VPYWtrdWFoZ05nTGx1X1Rkc2o5enRGa2tYVmxuNm9Ma1pTZGRzaElEWDFsTUo?oc=5": null,
-  "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Oelk1ZlE3LU5sZXA2SklmOHozTUJFNmJwV2RNMVdiaGlaTGxGSk9xTzlpdGxleW9jZlMyTGRQakQ3aDlna01mLVRBVQ?oc=5": {
-    "image": "https://images.jkn.co.kr/data/images/full/107/75/1077591.png?width=1200&height=630",
-    "image_alt": "[특징주] 제일기획, 뚜렷한 공시 없이 장중 소폭 하락세 : 기업주식정보",
-    "image_source": "재경일보",
-    "image_host": "news.jkn.co.kr"
-  },
   "https://news.google.com/rss/articles/CBMibEFVX3lxTFA2NWJyMFJoa1d4dG95SWp0TEttUkk3bUFQcTkyeExLbzZEcXpDY3F2eWdQVXFSTDNKajRvTklCYlFGSkRGZjk2SjdkWHRDbTZKM1N0QWN3Mks5Q0tpcU5NQjF3SU5ZWEpmclFUQQ?oc=5": {
     "image": "https://www.madtimes.co.kr/news/thumbnail/202610/29331_71840_2950_v150.jpg",
     "image_alt": "제일X, 오길비 출신 타니아 신하 델리 오피스 책임자로 선임",
     "image_source": "매드타임스",
     "image_host": "www.madtimes.co.kr"
+  },
+  "https://news.google.com/rss/articles/CBMidEFVX3lxTE9aVXk3c3NkdEpWUHpNTjFZQmY5SkRPbm9kMGdXTTVjdW5xVXd1akdaaHF2Qk1NTTUxdmRYbmZJb0tTSDJJeWdhMk8teGw2OGd2R3VPVGhweTBNOGtIYnVXbG0xcmJFQ2ZHNXVmMzlaRWJkUHVP?oc=5": null,
+  "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uZWdERGxiLXZXa0NRRlFRSXlyU0Rjakh4ellsb1dRLVVkYlRuWWY2aVBwaHBiRHp6cXRnV21hQXdCU1VYblpVNE82MTlCNFoxWDBtOURYeGE1Zw?oc=5": {
+    "image": "https://img.hankyung.com/photo/202610/01.46069484.1.jpg",
+    "image_alt": "\"10만원까지 가라\"…주가 폭락에 웃는 삼성전자 직원들, 왜?",
+    "image_source": "한국경제",
+    "image_host": "www.hankyung.com"
+  },
+  "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBPZzBjUV9pekpCcEh2Z0tGMHoxUGJQdVVCRm8wcTh0XzB6RWVwS0hrZXAwekpfZXNjVGdCM3JxbkQ0cktnOVdHZHE1VjhIY211WFpOOV9YaHVzRjFZVmVPbTZZaEY?oc=5": {
+    "image": "http://www.press9.kr/news/thumbnail/202610/84364_96526_2551_v150.jpg",
+    "image_alt": "삼성전자, AI 입은 6G 기술 공개…'실리콘밸리 미래 통신 서밋 2026' 개최",
+    "image_source": "PRESS9",
+    "image_host": "www.press9.kr"
+  },
+  "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Rc0JuUks2ZGowR1lNS2xJTzQ0VXRjcUo4VWtISl8tbTRrVGZzOGcyaC10U0c5aDNCN0tFOTdhNTFRcjh2NzZaTnJvb0Izdl93VUFuOUlISnNqU1dpNXZ1Tnl3UXc?oc=5": {
+    "image": "https://www.sentv.co.kr/data/sentv/image/2026/03/07/sentv20260307000014.jpg",
+    "image_alt": "\"주가 더 떨어져라\"… 삼성전자 일부 직원 글에 주주들 분통",
+    "image_source": "서울경제TV",
+    "image_host": "www.sentv.co.kr"
+  },
+  "https://news.google.com/rss/articles/CBMidEFVX3lxTE9MV0pJZzhsSTlaRUdDVkduVzFGVGkxU2ZwaV9NMWk5NU1RM0l2dXA1R0h5SVVvVlFuWi1BV1lEUXZjSkZJaXZiMEQ0MEJ4Q1NOUkFxd3RraVQyUkdmNlpBNUd4dmlwQjA5anFzaU8zMm5wRVlG0gF0QVVfeXFMT0xXSklnOGxJOVpFR0NWR25XMUZUaTFTZnBpX00xaTk1TVEzSXZ1cDVHSHlJVW9WUW5aLUFXWURRdmNKRklpdmIwRDQwQnhDU05SQXF3dGtpVDJSR2Y2WkE1R3h2aXBCMDlqcXNpTzMybnBFWUY?oc=5": null,
+  "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE50dnEyWXZzNlBQNDZ0Z2lLY0J2dG1HbUtMeWo3TFhqTkNUY2tBSEJ0OHZ0X1ZnbU9sbFh4Vnh3allIajhpaHV5eTZhZnZvMmtNVlJGRGJPTUNoTC1iU2FDWFZ2WmRUdnM?oc=5": {
+    "image": "https://media.yonhapnewstv.co.kr/article/AKR/20261015/AKR20261016083341HLF_01_i.jpg",
+    "image_alt": "구직자 관심기업 1위 SK하이닉스, 현대차 2위",
+    "image_source": "연합뉴스TV",
+    "image_host": "www.yonhapnewstv.co.kr"
+  },
+  "https://news.google.com/rss/articles/CBMic0FVX3lxTE5lV0ZFNjFYSndNN2pzOExMVkRrX3NwcFFHbW1yZnhZdlVIUG5RcXRCUzRjYXppRkhPaU5raDh1YWE1MHRGQnBYTGZGaUFkUmpCSEl5ZnFYLWJfU2JhbTllWXR4WDE0T1d0bzFDWUM5Sl8zSknSAXdBVV95cUxOczZGMVpsQjdfM1Z6S096WmVqaTBWZkp6M0dCVVRsYkt5RU16YVRXN2hpMzlBdFRmQmpOcVFOZGZyQkNCWHZ0LTZKeW41RTZWR0M4T2JxdHpCc1hfZUVCTTVxazNza3oyeE51eF9qVWhvV1VINlFTNA?oc=5": {
+    "image": "https://cdn.pinpointnews.co.kr/news/thumbnail/202610/495790_481314_2818_v150.jpg",
+    "image_alt": "SK하이닉스, 43년 역사 담은 '초심' 캠페인 공개",
+    "image_source": "핀포인트뉴스",
+    "image_host": "www.pinpointnews.co.kr"
+  },
+  "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHVktWSjVJemdPQXZUQTFzbXhkX0JfZkU5T0Z3bS1GSWRJdWVxUDlZMnpVcmVhSWJpdXJTQkZURlVkU3ZtVzJsOC1RYzJ0S2g3dXB6UGxod3k3dUnSAWBBVV95cUxQVm1CUjRhQmdVN1BfRVZUWmVUb2JKVXRrc3RYU0hoOUNWWEJjNmlhQnVzTFZ3NWk2RlI4MC1HeEYzTFFUVUhqcXo5eF93eW1kRjkzMTBZbjA1OVpMRTFPWlg?oc=5": {
+    "image": "https://img1.yna.co.kr/photo/cms/2026/06/29/57/PCM20260629000557990_P4.jpg",
+    "image_alt": "KB증권 \"삼성전자·SK하이닉스 급락 과도…실적은 오히려 개선\"",
+    "image_source": "연합뉴스",
+    "image_host": "www.yna.co.kr"
+  },
+  "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdVlKTFVmdXNLZHU3LTlRaGt4TzdDOFFaQmw1aWJRZXdiNmc4bmoyLTlFVHlqbmd4cGcxWjJkd1R4dzFLXzBWUXlFSkRFcXczUTJFdVRUbTRLYkd6dEVwZGlxT2dDY1l0Umo2ZzRadF92NVNqTmRKbm1SSHRmMzJFUg?oc=5": {
+    "image": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/10/PS26101501267.jpg",
+    "image_alt": "LG유플러스 임직원, 20년 봉사한 척수장애인에 500만원 지원",
+    "image_source": "이데일리",
+    "image_host": "www.edaily.co.kr"
+  },
+  "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5HN21rZUZzaUVjMXZjazUzeW96UTBGOUt5cmttMTYtYUlfYnN5ZktzMUJ3LVc2TTZQd3g0ODhHSEpSdEdiSl9jSlh4ZElpTkY1TnZWTi1QOC1xX29oNEszUzMyRFU?oc=5": {
+    "image": "https://cdn.m-i.kr/news/photo/202610/2005880_2005756_2354.jpg",
+    "image_alt": "LG유플러스, 마지막 가을야구 앞두고 통신망 점검",
+    "image_source": "매일일보",
+    "image_host": "www.m-i.kr"
+  },
+  "https://news.google.com/rss/articles/CBMidEFVX3lxTE5NdUg2ajA2RHh2OUZpZkU2V2JNVkVMbGpzRVZGWjhvYVBST0RwYWI2blpob1hKLThqemw5QTk0WjRwanlkVFROVGMyeDFnZUhzczViQjlvcHE1RnhXQlkwM25YMC03bWZLUnFnc2dpTWxPdTFs0gF0QVVfeXFMTk11SDZqMDZEeHY5RmlmRTZXYk1WRUxsanNFVkZaOG9hUFJPRHBhYjZuWmhvWEotOGp6bDlBOTRaNHBqeWRUVE5UYzJ4MWdlSHNzNWJCOW9wcTVGeFdCWTAzblgwLTdtZktScWdzZ2lNbE91MWw?oc=5": null,
+  "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBWaTFzTkQ0X0JHeHlQelFWQ1h5blV1LVRRcVNWYkdBWUs1NGFCUjJ6QUI1Yk1FcURYUjQ1eWNtcWdIUU1HWmM4eVlsQW5uM2VoaDBiV1FXTVFtZ2dt?oc=5": {
+    "image": "https://img.newspim.com/news/2026/10/06/261006120824954_t1.jpg",
+    "image_alt": "LG유플러스, 아이폰 듀오 사전예약…최대 113만원 혜택",
+    "image_source": "뉴스핌",
+    "image_host": "www.newspim.com"
+  },
+  "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9FQUJaUTFFaUxTNk9DYjB5N1JBZ1hlZUZMQk9yUGJnbW5jZE16UVBzODBXMDV6RjhVZl80cjhwNk0zeEFDRjZKRw?oc=5": {
+    "image": "https://news-static.sktelecom.com/wp-content/uploads/2026/10/SKT-%EC%97%A0%EB%B0%94%EA%B3%A0-%EB%B3%B4%EB%8F%84%EC%9E%90%EB%A3%8C-SKT-%EC%9E%A5%EC%95%A0%EC%B2%AD%EC%86%8C%EB%85%84-%EB%94%94%EC%A7%80%ED%84%B8-%EA%B2%A9%EC%B0%A8-%ED%95%B4%EC%86%8C-%EA%B8%B0%EC%97%AC%E2%80%A6-%E2%80%98%ED%96%89%EB%B3%B5-AI-%EC%B1%8C%EB%A6%B0%EC%A7%80-%EA%B0%9C%EC%B5%9C_1_FB_1200x628.jpg",
+    "image_alt": "SKT, 장애청소년 디지털 격차 해소 기여… ‘행복 AI 챌린지’ 개최",
+    "image_source": "SK텔레콤 뉴스룸",
+    "image_host": "news.sktelecom.com"
+  },
+  "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBic2NDNFpydm0wYXRWbFJ0cGFkOUppMWJTSGwybjRUb05kNzlNY1IyVHdVR05yc3BYVmZ5VVVYQ0NLZ0ttR1R5Z2twRl9KS2hJMTFYX3hFckpucjlzcTNXSFNTbDE?oc=5": {
+    "image": "https://cdn.m-i.kr/news/photo/202610/2006514_2006395_3559.jpg",
+    "image_alt": "SKT AI-RAN 기반 무인차 자율 이송 기술, 'Network X 어워드’ 수상",
+    "image_source": "매일일보",
+    "image_host": "www.m-i.kr"
+  },
+  "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1fWWllVDdhQjNCVjlYLTB3YWltX0xQWS12QzhILWotS0dBbWxyVFdpemI3WEZMbXBPbTJ0ZjY1VGxzOWVReTk4Y1hfTGVPMmVwSmY3LXdrbjZDaU5PdUViTmtiNUo?oc=5": {
+    "image": "https://www.ddaily.co.kr/photos/2026/10/15/2026101511120888826_l.jpg",
+    "image_alt": "SKT, `네트워크 엑스` 선정 `가장 혁신적인 5G 서비스` 수상",
+    "image_source": "디지털데일리",
+    "image_host": "www.ddaily.co.kr"
+  },
+  "https://news.google.com/rss/articles/CBMickFVX3lxTE5BZVY4ajhCelNZb1NBb3I0c0lPMGdVUDN3TWhhSUtnWXFrT0Q0ODRjVDZ6dS1vRXpvdVE1NUttTTRuUXBrWjltZU1VOVZjMVUzU3dpZzNpVks1TjZUVm5BbDZzYm1mMHdKczJKbzFGZ3Q0Zw?oc=5": {
+    "image": "https://cdn.energydaily.co.kr/news/photo/202610/204095_203734_109.jpg",
+    "image_alt": "안전보건공단, KT와 안전문화 확산·안전격차 해소 ‘맞손’",
+    "image_source": "에너지데일리",
+    "image_host": "www.energydaily.co.kr"
+  },
+  "https://news.google.com/rss/articles/CBMiakFVX3lxTFBMQmZoSmhBbTJRY1B0dGc4VmpXUmNmbE9XQXRWVjVhekhjU3NPczBjU0JQdGhJM25rWTlSbEdlM01vZ29aVkFtM3ZRZTBDNHdwZmdLWlJvQ3hZTE54Qmpsbk5YU2tiZGw0S0E?oc=5": {
+    "image": "https://cdn.denews.co.kr/news/photo/202610/42741_42906_1941.jpg",
+    "image_alt": "KT, ‘2026 AID-X 데이’ 열어 그룹 내 사업·기술·업무 전반 AX 혁신 성과 공유",
+    "image_source": "디지털경제뉴스",
+    "image_host": "www.denews.co.kr"
+  },
+  "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81V1Q1SHJ6aW56aU5maE9wMXpRNURIQVEwaGpEZVFaZ0NFSnUtNzNlcUpwaHNralpQX0J6WTR6MVdPeE9QaHNBckVmcm92Q3QxNkNvNUxPUS0wWEE?oc=5": {
+    "image": "https://www.ekn.kr/mnt/file/202610/news-p.v1.20261015.60e222fffad640dba4d14a5d94d19c8f_R.jpg",
+    "image_alt": "KT, AI로 고객 분석 8시간→10분…그룹사 AX 성과 한자리에",
+    "image_source": "에너지경제신문",
+    "image_host": "m.ekn.kr"
+  },
+  "https://news.google.com/rss/articles/CBMickFVX3lxTFBKU3BPejQwZFFOUXc2eEtSZXgyR283WlV5Z01BWWpWQmRfa2RrNE5NV1c2blJCMzFPQWZlVWU2c1YzRTJWY0hBVzZHdFEzZTVLY2Q3WWNabkFkckc3M0xteXhSeUdDWXdhYk9CTzRBU3pUUQ?oc=5": {
+    "image": "https://www.navercorp.com/img/og/OG_TAG_6_Media.png",
+    "image_alt": "팀네이버, 세계 최정상 자연어처리 학회 EMNLP서 논문 24편 채택…글로벌 AI 연구 경쟁력 재확인",
+    "image_source": "NAVERCorp.",
+    "image_host": "www.navercorp.com"
+  },
+  "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ncGMzRGxsVVRzd0h3VnBtWkVkbWFDUkQ4SXpYdUZFQml3TVZZVFcxZER6X05oTDdrbGVwRXh0SHFFcnhwOC1oY3g4eno3bVkwb0ZNX3BzQ0JjRVVsdUlNaGR3SndpR3owRFh3?oc=5": {
+    "image": "http://www.efnews.co.kr/news/photo/202610/133176_120696_4438.jpg",
+    "image_alt": "네이버페이·카카오페이, 장기 미사용 잔액 안내 강화…환급 편의 향상",
+    "image_source": "파이낸셜신문",
+    "image_host": "www.efnews.co.kr"
+  },
+  "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5UTF9Ba0ZCOFQ1YTFfSVZnTTFxQzg3dWNuSGx6WURvNHVSZVJwek1FWlk1b2JjYkhIRzVoTkNoenV6OERHT1FKa2JHOUVMNHRTdWhubElUamRzUWNx?oc=5": {
+    "image": "https://img.newspim.com/news/2026/10/16/2610160854311850_t1.jpg",
+    "image_alt": "네이버페이, 제주 소상공인에 75억원 특별보증",
+    "image_source": "뉴스핌",
+    "image_host": "www.newspim.com"
+  },
+  "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1La1dTbml5eW13Z3ZsdlhQQUJGWFlyZGNIRV9ZeVlxSXpKWjdYWlhnT2gtUGgtMEFlQ1lLRE5IelRKLWt6Z2xFY1k2ZTFnRzNLTnJxOUs4Y1RVbC04dUl0V3dfd05sVWM?oc=5": {
+    "image": "https://cdn.aitimes.kr/news/thumbnail/202610/42319_63628_524_v150.jpg",
+    "image_alt": "카카오, 자율 AI 에이전트 윤리 체계 구축…‘SPIRIT·NORMA’로 전 주기 위험 관리",
+    "image_source": "인공지능신문",
+    "image_host": "www.aitimes.kr"
+  },
+  "https://news.google.com/rss/articles/CBMib0FVX3lxTE50NlVneVVvdk9FVTJvUVVVQzdWZHJYd1BEQkdTMVY3WUstcXpLVHh6TnJuTE9fS0REV3N5aHB6VnBIV2hzZDZsSnVIWmZnOTVIXzg1YWdDSmFBOFFCVGYxRjFDX0VpeUlYZG1TMzVBaw?oc=5": {
+    "image": "https://cdn.channeljeju.com/news/photo/202610/202808_203895_550.jpg",
+    "image_alt": "춘식이, 호그와트 입학…카카오프렌즈×해리포터 협업 굿즈 출시",
+    "image_source": "채널제주",
+    "image_host": "www.channeljeju.com"
+  },
+  "https://news.google.com/rss/articles/CBMia0FVX3lxTE9kazJYdEk3SjBrX3hEdk53ODhrdnMxSktuaXBHdGdQZ2tXazZfbjlpRmVXMGFhQ2FsTk5ockU2bWVSMDlqWmVUNlQyX19HaHlZR254eWpaT3ZZOWRNQjF3a1hkM0VpT0U3OWRJ?oc=5": {
+    "image": "https://cdn.boannews.com/news/photo/202610/146422_128905_2418.jpg",
+    "image_alt": "카카오톡에서 AI 비서 안전하게 관리... 카카오, 자율 에이전트 시대 AI 윤리 원칙 ‘SPIRIT’ 공개",
+    "image_source": "보안뉴스",
+    "image_host": "www.boannews.com"
+  },
+  "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JS0RDYUc0OHVEeWNIbUozcER0SEI5Q2FwMEtYYlhZdnEwY3RQekFPcjFFRXZLQkNPeG9YNGZNNklSTGlLV2ZDTk42d3phSERjS1gydXA1OEc5U0RjREk1dWNIYWpqNDA3?oc=5": {
+    "image": "https://cdn.ebn.co.kr/news/thumbnail/202610/1728033_762526_3858_v150.jpg",
+    "image_alt": "‘배틀그라운드’에 벤틀리 떴다…크래프톤, 신규 콘텐츠 확대",
+    "image_source": "www.ebn.co.kr",
+    "image_host": "www.ebn.co.kr"
+  },
+  "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1WZW1URGtjRWJqTENfWmlMTk5PLWZnOVViNHpkdVBoR01qTVFsNnoxb0hTSVVtLVRlck5FeEg1RE1Kc2gyaFFIbGN1MU1TSm9KZ2s2SjIyek42WHQ3UVl6Mg?oc=5": {
+    "image": "https://cdn.emetro.co.kr/data2/content/image/2026/10/15/.cache/512/20261015500324.jpg",
+    "image_alt": "크래프톤 배틀그라운드, 벤틀리와 협업…럭셔리 차량 3종 선보여",
+    "image_source": "메트로신문",
+    "image_host": "www.metroseoul.co.kr"
+  },
+  "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9fNURxUVkwS2ZNYlg3aHIyV19BREN4dzYxT3hnMmtSN1hETDdmeW0wcFZJZUxxTV8wNy15UHRIbjhvM2pJYmZCMGFBeWxtaVl4?oc=5": {
+    "image": "https://wimg.munhwa.com/news/cms/2026/10/15/news-p.v1.20261015.306bd00fde0045bf8c6318a44f8b7207_R.jpg",
+    "image_alt": "[클릭! e 게임]넷마블 ‘세븐나이츠 리버스’, 日 애니 ‘귀멸의 칼날’ 협업 2차 업데이트",
+    "image_source": "문화일보",
+    "image_host": "www.munhwa.com"
+  },
+  "https://news.google.com/rss/articles/CBMidEFVX3lxTE5YMmx1bXR5cGMxWWpTUWh1Q2h1YVNvcmVUWnZKMmRxbUxhSlFfTUhSUUFSMmdEcFhBdUZaUkQxcFNLSkExTVlPbFhFN1NaUm42T3E2dWs5OGNUQVM0Q1FjdDI4N3hnS3d1Y3hlTE9RZHJXRjlM?oc=5": {
+    "image": "https://cdn.financialpost.co.kr/news/thumbnail/202610/280476_369985_732_v150.jpg",
+    "image_alt": "'인기 웹툰' 넷마블 신의 탑: 새로운 세계, 새 캐릭터 업데이트",
+    "image_source": "파이낸셜포스트",
+    "image_host": "www.financialpost.co.kr"
+  },
+  "https://news.google.com/rss/articles/CBMia0FVX3lxTE0wekpkUEZsUlIwdmZPelpXRHhhMV9XMlZNWFJZd2VPSGtKS0N0M2FPZTZoYXNvdUdKUDNZRWdIbTNSZ3IzSElkSkttMmd2MUMyNFJHc3Z6S1ZqbzU3OVNTeEliYU9Za2Exa0Nr0gFvQVVfeXFMT29ieVhNR3BVd3NUTzhqZ0hLejZFZkw2RkFVdUpyUHUtdWNJQm5jZ1NkdTVqMDJqUGx6ZENlTmxCTXFySTBoMnRZSDJxcm1Wb0JXTXJyOXNXdDhWVjU4Q0I1dHdOWFdObkFfWWdMME04?oc=5": {
+    "image": "https://cdn.globale.co.kr/news/thumbnail/202610/41065_68174_1343_v150.jpg",
+    "image_alt": "넷마블 4인협동게임 〈이블베인〉 첫 스팀 테스트···19일까지 진행",
+    "image_source": "글로벌E",
+    "image_host": "www.globale.co.kr"
+  },
+  "https://news.google.com/rss/articles/CBMia0FVX3lxTE9KNE9FZnBQLVdlOHBLMXZYeHpxRThKVThGLXloZ0pBV3VuRlItLWwyVDBGZTkwLThTeG9WOTl3clRXOHhmd3lrMVN0a3JDVlQ0TGNFd0IxQ3BEX3RpdmsxSnFhX1Z6d0lfLWJZ?oc=5": {
+    "image": "https://cdn.cnbnews.com/news/photo/202610/1019380_521645_3147.jpg",
+    "image_alt": "엔씨 아이온, ‘드라칸’ 업데이트 사전예약 시작",
+    "image_source": "CNB뉴스",
+    "image_host": "www.cnbnews.com"
+  },
+  "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1nRVNJZXlMQ0NhbjZnSGRYYXhJLTlhVkhVVC1yMWZLVjh0cGhuNUF2OUJZanVXajVaNlJNa0ROVFhmZHhRTzM2WGNkTUtXU2pmcjR5TUp1VnNTeDVDWnhpTmZnY211bUk?oc=5": {
+    "image": "https://cdn.mhj21.com/news/photo/202610/254326_166875_75.jpg",
+    "image_alt": "'AGF 2026' 메인 스폰서에 엔씨…‘아스트라에 오라티오’ 출품",
+    "image_source": "문화저널21",
+    "image_host": "www.mhj21.com"
+  },
+  "https://news.google.com/rss/articles/CBMia0FVX3lxTE1GS3BuZDYwbjF3V3NuMmx3WGFCejIydWpBR19OU2lTeHNId2ZrdTdxRnhJbXZjdWQxNnFRWVplZGxEZVc3S2wwdE0yTWI5ai1ET2x5Nmw3R29POGFTTC1CeEtFcWk5NndzOUs0?oc=5": {
+    "image": "https://cdn.todaymild.com/news/thumbnail/202610/39883_46995_5239_v150.jpg",
+    "image_alt": "컴투스, 신작 '도원암귀 Crimson Inferno' 일본 출시 준비 돌입 \"사전 예약 시작\"",
+    "image_source": "마일드경제",
+    "image_host": "www.todaymild.com"
+  },
+  "https://news.google.com/rss/articles/CBMickFVX3lxTE4tR0tORVR4RGZ1aFJncXBxZFhRRUFBM2JZVC1vbk51R3YzQ29KRGVsY24tb20ybHhETHktaXJsM2VTS2M0bjV2SmZtSzJ0cTdsbEZBZWVsY2xjb0RTRzQyemE3QlE3VGg1blhFNWpMVlpNUQ?oc=5": {
+    "image": "https://cdn.webeconomy.co.kr/news/photo/202610/2335788_1145562_4150.jpg",
+    "image_alt": "컴투스, '서머너즈 워' 아시아퍼시픽 컵 17일 개최…넷마블 등 게임 업데이트",
+    "image_source": "웹이코노미",
+    "image_host": "www.webeconomy.co.kr"
+  },
+  "https://news.google.com/rss/articles/CBMia0FVX3lxTE9MVmVmYlBZLUVSWEwwbXpZQjM1UFZVUFc2M05MRXBRbUtKUERhaGRoUmpUQ0Nod2wxQWhDaWdKUjN5YkRIaHJydkFmN1ZFeVZydXNiUVRvNTRIMnEtV21fbjJQRmRiMDN5Q2Jr?oc=5": {
+    "image": "https://cdn.100ssd.co.kr/news/photo/202610/213549_216658_3429.jpg",
+    "image_alt": "컴투스, 태국 방콕서 ‘SWC2026’ 아시아퍼시픽 컵…월드 파이널 진출자 3명 선발",
+    "image_source": "백세시대",
+    "image_host": "www.100ssd.co.kr"
+  },
+  "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9zaFZVYnNNbEtMN2hlMl9jeE5IWDJOTUFNWk4wb0pRbU1WdWtLcWJKV1ExdG0yeVJydXd6QnFmYzVNbFJxX2VCTWd5aVBLOXZiTVRabmd0RTloQkczMnpfNNIBeEFVX3lxTE8xREk1WnEzRTVVME1PS0Uxbzd2dEp1am51OGh1ZnRXUjJqMTdZMUtwWWJkNktIUk14WmsyOG9GcHYwZmdJTmtnZlBwY29hSXFOcWQ4cVRnS0h2QlA4SEVpMGJ2RThBaDNNM3UzU0Q1TEZHbHd0YWlXQw?oc=5": {
+    "image": "https://img1.newsis.com/2026/02/04/NISI20260204_0002055682_web.jpg",
+    "image_alt": "'아일릿 표절 주장' 민희진, 공소청 송치 \"명예훼손·업무방해 혐의\"(종합)",
+    "image_source": "뉴시스",
+    "image_host": "www.newsis.com"
+  },
+  "https://news.google.com/rss/articles/CBMib0FVX3lxTFBvNHZWNTdQTVY0a0NnM19TVWwtUmRleW94NENMNE5mbWF0QVpRMUhybTdqQ3Y5SVRySmxydmg2azhjblFnejRkUHltbVRpd0I2S0RmcWNWcHJXdW5ObnZ0VGdpUkY4a1lDMHZVUVBHNA?oc=5": {
+    "image": "https://cdn.newstopkorea.com/news/photo/202610/48215_49478_5819.png",
+    "image_alt": "하이브랩, IPO 준비 본격화…삼일회계법인 출신 손정현 CFO 선임",
+    "image_source": "뉴스톱",
+    "image_host": "www.newstopkorea.com"
+  },
+  "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11dzBUbFlfM3hZZ2YyeWFnQTJnWThCRjFMakpGR3F2YWtNcU5QenlaRGg4QnRvX0cyNjFkQnNObXhPQzdJMFJTdXFiT2VOdw?oc=5": {
+    "image": "https://img.etnews.com/news/article/2026/10/15/news-p.v1.20261015.b82e0abca2f8481b9d6479b67d515cad_P1.png",
+    "image_alt": "하이브랩, CFO·CHO 신규 선임",
+    "image_source": "전자신문",
+    "image_host": "www.etnews.com"
+  },
+  "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FeHYyNm1hUzd3UzdFM3B5Z2FGMmZDNk1NYy1qUGtaM2pxNmNjZlpyOGd6djZzN3pLZ0xhRm5RVlU4WG5xTExrenU4VEg3NDRaRENiZkRmdGUzbmpqaXI4WVF2N2Nkb1RhSjJDUw?oc=5": {
+    "image": "https://cdn.mdtoday.co.kr/news/photo/202610/618977_326121_5827.jpg",
+    "image_alt": "라이즈 앤톤, 이번엔 팟캐스트 DJ로…'TON-AIR' 20일 첫 공개",
+    "image_source": "메디컬투데이",
+    "image_host": "www.mdtoday.co.kr"
+  },
+  "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BTjItLTJVdldCMWEycjNoNHV4VkhKby1TVXN4T0RtMUYyeU9ETzNHbF8zN29Tc2hKTWFtM25oVmlJSzFyRUEyWUgyZ3llSjQ5aFV4OVN2UThuQQ?oc=5": {
+    "image": "https://img.hankyung.com/photo/202610/01.46067919.1.jpg",
+    "image_alt": "'이수만표' 신인 걸그룹, 데뷔 하루 만에 '제대로 일냈다'",
+    "image_source": "한국경제",
+    "image_host": "www.hankyung.com"
+  },
+  "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1UVDNCT0VXaWJYbWZ0UGk3eEljRklnM0Z3U1N0Z3NJUVRDcXRJWEtfOGdxV1hzY3g2Ym5SZ2dQS1lUYWNhUWNpNkhJeWhpMjVjRGoyNlEtYmVzWnBLZER6MEFxMNIBY0FVX3lxTE1UVDNCT0VXaWJYbWZ0UGk3eEljRklnM0Z3U1N0Z3NJUVRDcXRJWEtfOGdxV1hzY3g2Ym5SZ2dQS1lUYWNhUWNpNkhJeWhpMjVjRGoyNlEtYmVzWnBLZER6MEFxMA?oc=5": {
+    "image": "https://images.khan.co.kr/article/2026/10/16/news-p.v1.20261016.4a745b61e57d4448a1218208599722d3_P1.jpg",
+    "image_alt": "장우영, 11월 솔로 단독 콘서트 티켓 선예매 오픈",
+    "image_source": "스포츠경향",
+    "image_host": "sports.khan.co.kr"
+  },
+  "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBFZFlncTRuU0FoR0RTSVVwR1h6WHJhRnk4ZmNKODRzUzN1ZVFLSEhEZDF0QjRTOHhVM3ppcldQU205M29weUtHZi1qcHkxWEZTM0huZ3NBT09pYmVJSXJEek5DVdIBY0FVX3lxTFBFZFlncTRuU0FoR0RTSVVwR1h6WHJhRnk4ZmNKODRzUzN1ZVFLSEhEZDF0QjRTOHhVM3ppcldQU205M29weUtHZi1qcHkxWEZTM0huZ3NBT09pYmVJSXJEek5DVQ?oc=5": {
+    "image": "https://images.khan.co.kr/article/2026/10/15/news-p.v1.20261015.2e68724d3c5c46f4bc69e3705a67edf8_P1.jpg",
+    "image_alt": "보이밴드 엑스디너리 히어로즈, ‘엠카운트다운’ 시작으로 신곡 ‘Obsessed with Youth’ 음방 돌입",
+    "image_source": "스포츠경향",
+    "image_host": "sports.khan.co.kr"
+  },
+  "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52SllObGxiZldKYkNGOVRhTW16T2I1MTczalB4OGwtTVNfUmwwdkYwZktkV0E3d0hOQzU1eTVjd2J6cWYxNWtuRV9ZLWd3VFRHZ0lkSzRGVG55cm01T0xyctIBYEFVX3lxTE52SllObGxiZldKYkNGOVRhTW16T2I1MTczalB4OGwtTVNfUmwwdkYwZktkV0E3d0hOQzU1eTVjd2J6cWYxNWtuRV9ZLWd3VFRHZ0lkSzRGVG55cm01T0xycg?oc=5": {
+    "image": "https://img4.yna.co.kr/etc/inner/KR/2026/10/15/AKR20261015041100005_02_i_P4.jpg",
+    "image_alt": "[가요소식] 2PM 장우영, 내달 14∼15일 솔로 콘서트",
+    "image_source": "연합뉴스",
+    "image_host": "www.yna.co.kr"
+  },
+  "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBTTG9yWWdnQS10blJsX2J5X09HVVVMQmJHeTdMR2VwblVfOGlIeXc4Mmp4Uk9hTy1pQnA2cGk4QWg5MFY5Q0RhZm01OEh5QWRyOUdVWXJZdlcya24xR2xHRw?oc=5": {
+    "image": "https://mydaily.co.kr/photos/2026/10/13/2026101310531644762_l.png",
+    "image_alt": "CJ ENM \"`신의 퀴즈` 일본판 & `김비서` 홍콩판 제작 확정\"",
+    "image_source": "마이데일리",
+    "image_host": "mydaily.co.kr"
+  },
+  "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1fQ1NibVBFbUlrSXdXTTBrSXZHYjVnUE9GR2dncHZ6WUJmNkNvQXh6bmFoUHhyR2R1UW9ybGpYd1UwbXJxa2I3Q3pxcWk4MzMyMGduZGNOazVTMFFYcXBN?oc=5": {
+    "image": "https://assets.mtn.co.kr/mtn/2026/10/6hVnHrESCjVmaqcW/image/20261015_142034//18058-4a32f-5f669-121112.jpg",
+    "image_alt": "'김비서'는 홍콩으로, 팬덤은 세계로…CJ ENM의 글로벌 IP 확장 [엔터코노미]",
+    "image_source": "MTN 머니투데이방송",
+    "image_host": "news.mtn.co.kr"
+  },
+  "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeHllQ1BvRDNmN2otb1dnY0dnZ1BJQjluMTFjVmhjMmZQMGtsZzVpQ0lESFUzckxENkpSNFpyRFptaU5vN3p3TURwa25TeVUxTGU2dXJOTHE1aHpFRmtrNWk3QnNkWmljeTFISUFxRWdaTUwtRzJfNWR5eVpIbERiSTAxajJfMjRpbkw3TUFKV0xnSXFGbUZablNyQXU1LUhncGNab040eEQ1djFFcDRv?oc=5": {
+    "image": "https://www.hyundaimotorgroup.com/image/upload/asset_library/MDA00000000000085515/460faa2ed8e84f1abeecd750faee245b.jpg",
+    "image_alt": "이노션, 부산국제영화제에서 뉴 콘텐츠 플랫폼 ‘시네마바이브랜드’ 최초 공개 | 뉴스 | 현대자동차그룹",
+    "image_source": "Hyundai Motor Group",
+    "image_host": "www.hyundaimotorgroup.com"
+  },
+  "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sdzAzdHVSeEtPcWRwREJxS0xjVVU0cXlXY2UybzU4NDR1QmRjODZob0NkOGM0TVZQck91dHFycDFZaTRubzJKekJZOWZWR01vSkHSAVNBVV95cUxPdy1aXzJ5UlZiZFdTamVsTmRLV3JIU1Uyd2RwTEY5Sk1sY1pGc3Q4dVU2clJlbmVPam1OMEdMREJiejVnd05vZV9vR3VQakVveTRldw?oc=5": {
+    "image": "https://wimg.sedaily.com/news/cms/2026/10/13/news-p.v1.20261013.ea42181aa22546d3887fc54b43993219_Z1.jpg",
+    "image_alt": "이노션, ‘시네마바이브랜드’ 첫 공개…김정아 대표 “광고역량, 영화로 확장”",
+    "image_source": "서울경제",
+    "image_host": "www.sedaily.com"
+  },
+  "https://news.google.com/rss/articles/CBMiakFVX3lxTE9NSEtNcFVmdUp1c3BHc1lHNlRfZklUSDh4Qk5fMWtnQnlrNXcwcWFpM1MwVk9sUFhjX2hEVndrRElmVjF1Q2JoZjFqb052UXVaUEExaW5VdjNfYUEzSkFmMzFSd1QtcHFBaGc?oc=5": {
+    "image": "https://cdn.newspost.kr/news/thumbnail/202610/226413_228851_1023_v150.jpg",
+    "image_alt": "하이브랩, 前삼일회계법인 손정현 CFO 선임해 IPO 준비",
+    "image_source": "뉴스포스트",
+    "image_host": "www.newspost.kr"
+  },
+  "https://news.google.com/rss/articles/CBMieEFVX3lxTFBUcUFFQXQ4V0RJeFF6SHd1eFkzYUxKSGs2LV9PNHY1TkNSZENMWWVTTTJuaW5LeTRQOVJaMDdGNmstRDNpRHNkX2RBSFlyVVNJSkJsb1VOMmY5WVlYMTRIOUxJSzJmc05QYWFBZW9VRGZnRE9BMjdKQdIBeEFVX3lxTFBUcUFFQXQ4V0RJeFF6SHd1eFkzYUxKSGs2LV9PNHY1TkNSZENMWWVTTTJuaW5LeTRQOVJaMDdGNmstRDNpRHNkX2RBSFlyVVNJSkJsb1VOMmY5WVlYMTRIOUxJSzJmc05QYWFBZW9VRGZnRE9BMjdKQQ?oc=5": {
+    "image": "https://image.imnews.imbc.com/replay/2026/nwdesk/article/__icsFiles/afieldfile/2026/10/15/desk_20261015_203218_1_22_Large.jpg",
+    "image_alt": "금방 풀려난 '허리띠 채찍남'‥\"덕분에 수갑도 차 보네\" 소름",
+    "image_source": "MBC 뉴스",
+    "image_host": "imnews.imbc.com"
+  },
+  "https://news.google.com/rss/articles/CBMib0FVX3lxTE81eUZiU1gybXQ2a1I1ZGlpY1dLNDNsWmdDTGktYmpfeHhRWkNNZmt1bm5pamQxT3lKZEI5QlJaUF9FenY0NVd5TmdNRkhqelNtUF9ZZHFsbE9wVlBCQl91cVdwMTF1eXVSUFNVb1hBa9IBb0FVX3lxTE81eUZiU1gybXQ2a1I1ZGlpY1dLNDNsWmdDTGktYmpfeHhRWkNNZmt1bm5pamQxT3lKZEI5QlJaUF9FenY0NVd5TmdNRkhqelNtUF9ZZHFsbE9wVlBCQl91cVdwMTF1eXVSUFNVb1hBaw?oc=5": {
+    "image": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/10/2026101515062817490_1.jpg",
+    "image_alt": "\"IPO 준비에 만전 기한다\"…하이브랩, 삼일 출신 CFO로 영입",
+    "image_source": "머니투데이",
+    "image_host": "www.mt.co.kr"
+  },
+  "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qRE5EMmE3NDdNXzE0UDdiYzEtR052aFFTRFMzSlNQX01PWW9XeEhWVmhBcmFPd3BmWmpxbmhZYm4wMlBfSXlaU01VTWdDVHA2UjV5SG9KbEwydEdlWnNN?oc=5": {
+    "image": "https://www.hellot.net/data/photos/20261042/art_17920315560443_7790a0.jpg",
+    "image_alt": "다이버스-SM C&C, 크레타 플랫폼에 아티스트 IP 접목 추진",
+    "image_source": "헬로티",
+    "image_host": "www.hellot.net"
+  },
+  "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9qQnowREZWekFtLU5HUmo4WS15RDdmbWxYeWdZY21rcXV2eE1HaGlhXzJnWGI2NXhtLTRpV3I0MFBZb2kySDQ0NktwZjdmc21ZVWIxa25uei02ZUdvWWNB?oc=5": null,
+  "https://news.google.com/rss/articles/CBMiakFVX3lxTE0tMWQwckdaR2lTSHdibmFYTW9yaV80NWJpNllGOHh5eWFfeWdPSWlITnIyWW1ia1NMcFVQR3JuS0FqaC14eHRWcmh5dm42bFNqT1V2Z0RHYlNVdlR5U2FXMXpkSEZiYm5pQ1E?oc=5": {
+    "image": "http://www.golfbiz.co.kr/news/thumbnail/202610/28313_57328_530_v150.jpg",
+    "image_alt": "[LPGA]내년 롯데 챔피언십 등 33개 대회...역대 최대 총상금 약 1970억",
+    "image_source": "골프경제신문",
+    "image_host": "www.golfbiz.co.kr"
   }
 }

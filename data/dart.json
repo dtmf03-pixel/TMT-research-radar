@@ -1,5 +1,14 @@
 [
   {
+    "company": "엔씨소프트",
+    "industry": "게임",
+    "date": "20261111",
+    "title": "[기재정정]연결재무제표기준영업실적등에대한전망(공정공시)",
+    "kind": "정정",
+    "topics": [],
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261111800327"
+  },
+  {
     "company": "카카오",
     "industry": "IT",
     "date": "20261105",
@@ -126,13 +135,211 @@
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260819000055"
   },
   {
-    "company": "다우데이타",
-    "industry": "IT",
-    "date": "20260811",
-    "title": "[기재정정]회사합병결정(종속회사의주요경영사항)",
-    "kind": "정정",
+    "company": "펄어비스",
+    "industry": "게임",
+    "date": "20261113",
+    "title": "분기보고서 (2026.09)",
+    "kind": "정기보고서",
     "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260811900833"
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001084"
+  },
+  {
+    "company": "카카오게임즈",
+    "industry": "게임",
+    "date": "20261113",
+    "title": "분기보고서 (2026.09)",
+    "kind": "정기보고서",
+    "topics": [],
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001280"
+  },
+  {
+    "company": "웹젠",
+    "industry": "게임",
+    "date": "20261113",
+    "title": "분기보고서 (2026.09)",
+    "kind": "정기보고서",
+    "topics": [],
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001229"
+  },
+  {
+    "company": "넵튠",
+    "industry": "게임",
+    "date": "20261113",
+    "title": "분기보고서 (2026.09)",
+    "kind": "정기보고서",
+    "topics": [],
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000977"
+  },
+  {
+    "company": "위메이드",
+    "industry": "게임",
+    "date": "20261113",
+    "title": "분기보고서 (2026.09)",
+    "kind": "정기보고서",
+    "topics": [],
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001326"
+  },
+  {
+    "company": "네오위즈",
+    "industry": "게임",
+    "date": "20261113",
+    "title": "분기보고서 (2026.09)",
+    "kind": "정기보고서",
+    "topics": [],
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001163"
+  },
+  {
+    "company": "시프트업",
+    "industry": "게임",
+    "date": "20261113",
+    "title": "분기보고서 (2026.09)",
+    "kind": "정기보고서",
+    "topics": [],
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001557"
+  },
+  {
+    "company": "에스엠엔터테인먼트",
+    "industry": "엔터",
+    "date": "20261113",
+    "title": "분기보고서 (2026.09)",
+    "kind": "정기보고서",
+    "topics": [],
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001370"
+  },
+  {
+    "company": "제이와이피엔터테인먼트",
+    "industry": "엔터",
+    "date": "20261113",
+    "title": "분기보고서 (2026.09)",
+    "kind": "정기보고서",
+    "topics": [],
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001566"
+  },
+  {
+    "company": "드림어스컴퍼니",
+    "industry": "엔터",
+    "date": "20261113",
+    "title": "분기보고서 (2026.09)",
+    "kind": "정기보고서",
+    "topics": [],
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000220"
+  },
+  {
+    "company": "큐브엔터",
+    "industry": "엔터",
+    "date": "20261113",
+    "title": "분기보고서 (2026.09)",
+    "kind": "정기보고서",
+    "topics": [],
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001016"
+  },
+  {
+    "company": "인크로스",
+    "industry": "미디어",
+    "date": "20261113",
+    "title": "분기보고서 (2026.09)",
+    "kind": "정기보고서",
+    "topics": [],
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001555"
+  },
+  {
+    "company": "엘지헬로비전",
+    "industry": "미디어",
+    "date": "20261113",
+    "title": "분기보고서 (2026.09)",
+    "kind": "정기보고서",
+    "topics": [],
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001248"
+  },
+  {
+    "company": "에스비에스",
+    "industry": "미디어",
+    "date": "20261113",
+    "title": "분기보고서 (2026.09)",
+    "kind": "정기보고서",
+    "topics": [],
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001220"
+  },
+  {
+    "company": "네이버",
+    "industry": "IT",
+    "date": "20261113",
+    "title": "분기보고서 (2026.09)",
+    "kind": "정기보고서",
+    "topics": [],
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001140"
+  },
+  {
+    "company": "카카오",
+    "industry": "IT",
+    "date": "20261113",
+    "title": "분기보고서 (2026.09)",
+    "kind": "정기보고서",
+    "topics": [],
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001344"
+  },
+  {
+    "company": "이스트소프트",
+    "industry": "IT",
+    "date": "20261113",
+    "title": "분기보고서 (2026.09)",
+    "kind": "정기보고서",
+    "topics": [],
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000850"
+  },
+  {
+    "company": "엔에이치엔",
+    "industry": "IT",
+    "date": "20261113",
+    "title": "분기보고서 (2026.09)",
+    "kind": "정기보고서",
+    "topics": [],
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001219"
+  },
+  {
+    "company": "안랩",
+    "industry": "IT",
+    "date": "20261113",
+    "title": "분기보고서 (2026.09)",
+    "kind": "정기보고서",
+    "topics": [],
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000391"
+  },
+  {
+    "company": "비바리퍼블리카",
+    "industry": "IT",
+    "date": "20261113",
+    "title": "분기보고서 (2026.09)",
+    "kind": "정기보고서",
+    "topics": [],
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001116"
+  },
+  {
+    "company": "카페24",
+    "industry": "IT",
+    "date": "20261112",
+    "title": "분기보고서 (2026.09)",
+    "kind": "정기보고서",
+    "topics": [],
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000722"
+  },
+  {
+    "company": "넥슨게임즈",
+    "industry": "게임",
+    "date": "20261110",
+    "title": "분기보고서 (2026.09)",
+    "kind": "정기보고서",
+    "topics": [],
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110000311"
+  },
+  {
+    "company": "컬리",
+    "industry": "IT",
+    "date": "20261110",
+    "title": "분기보고서 (2026.09)",
+    "kind": "정기보고서",
+    "topics": [],
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110000224"
   },
   {
     "company": "당근마켓",
@@ -153,472 +360,22 @@
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260831000288"
   },
   {
-    "company": "넷마블",
-    "industry": "게임",
-    "date": "20260814",
-    "title": "반기보고서 (2026.06)",
-    "kind": "정기보고서",
-    "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814002548"
-  },
-  {
-    "company": "엔씨소프트",
-    "industry": "게임",
-    "date": "20260814",
-    "title": "반기보고서 (2026.06)",
-    "kind": "정기보고서",
-    "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814003764"
-  },
-  {
-    "company": "크래프톤",
-    "industry": "게임",
-    "date": "20260814",
-    "title": "반기보고서 (2026.06)",
-    "kind": "정기보고서",
-    "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814003894"
-  },
-  {
-    "company": "펄어비스",
-    "industry": "게임",
-    "date": "20260814",
-    "title": "반기보고서 (2026.06)",
-    "kind": "정기보고서",
-    "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814003642"
-  },
-  {
-    "company": "넵튠",
-    "industry": "게임",
-    "date": "20260814",
-    "title": "반기보고서 (2026.06)",
-    "kind": "정기보고서",
-    "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814002821"
-  },
-  {
-    "company": "위메이드플레이",
-    "industry": "게임",
-    "date": "20260814",
-    "title": "반기보고서 (2026.06)",
-    "kind": "정기보고서",
-    "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814001998"
-  },
-  {
-    "company": "컴투스",
-    "industry": "게임",
-    "date": "20260814",
-    "title": "반기보고서 (2026.06)",
-    "kind": "정기보고서",
-    "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814003984"
-  },
-  {
-    "company": "위메이드",
-    "industry": "게임",
-    "date": "20260814",
-    "title": "반기보고서 (2026.06)",
-    "kind": "정기보고서",
-    "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814003490"
-  },
-  {
-    "company": "네오위즈",
-    "industry": "게임",
-    "date": "20260814",
-    "title": "반기보고서 (2026.06)",
-    "kind": "정기보고서",
-    "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814003548"
-  },
-  {
     "company": "더블유게임즈",
     "industry": "게임",
-    "date": "20260814",
-    "title": "반기보고서 (2026.06)",
-    "kind": "정기보고서",
+    "date": "20261110",
+    "title": "주요사항보고서(타법인주식및출자증권양수결정)",
+    "kind": "주요사항",
     "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814003909"
-  },
-  {
-    "company": "시프트업",
-    "industry": "게임",
-    "date": "20260814",
-    "title": "반기보고서 (2026.06)",
-    "kind": "정기보고서",
-    "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814004160"
-  },
-  {
-    "company": "데브시스터즈",
-    "industry": "게임",
-    "date": "20260814",
-    "title": "반기보고서 (2026.06)",
-    "kind": "정기보고서",
-    "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814003856"
-  },
-  {
-    "company": "에스엠엔터테인먼트",
-    "industry": "엔터",
-    "date": "20260814",
-    "title": "반기보고서 (2026.06)",
-    "kind": "정기보고서",
-    "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814002930"
-  },
-  {
-    "company": "제이와이피엔터테인먼트",
-    "industry": "엔터",
-    "date": "20260814",
-    "title": "반기보고서 (2026.06)",
-    "kind": "정기보고서",
-    "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814003204"
-  },
-  {
-    "company": "디어유",
-    "industry": "엔터",
-    "date": "20260814",
-    "title": "반기보고서 (2026.06)",
-    "kind": "정기보고서",
-    "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814002798"
-  },
-  {
-    "company": "드림어스컴퍼니",
-    "industry": "엔터",
-    "date": "20260814",
-    "title": "반기보고서 (2026.06)",
-    "kind": "정기보고서",
-    "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814001773"
-  },
-  {
-    "company": "하이브",
-    "industry": "엔터",
-    "date": "20260814",
-    "title": "반기보고서 (2026.06)",
-    "kind": "정기보고서",
-    "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814004127"
-  },
-  {
-    "company": "와이지엔터테인먼트",
-    "industry": "엔터",
-    "date": "20260814",
-    "title": "반기보고서 (2026.06)",
-    "kind": "정기보고서",
-    "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814004237"
-  },
-  {
-    "company": "제일기획",
-    "industry": "미디어",
-    "date": "20260814",
-    "title": "반기보고서 (2026.06)",
-    "kind": "정기보고서",
-    "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814003310"
-  },
-  {
-    "company": "이노션",
-    "industry": "미디어",
-    "date": "20260814",
-    "title": "반기보고서 (2026.06)",
-    "kind": "정기보고서",
-    "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814004031"
-  },
-  {
-    "company": "오리콤",
-    "industry": "미디어",
-    "date": "20260814",
-    "title": "반기보고서 (2026.06)",
-    "kind": "정기보고서",
-    "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814003477"
-  },
-  {
-    "company": "엘지헬로비전",
-    "industry": "미디어",
-    "date": "20260814",
-    "title": "반기보고서 (2026.06)",
-    "kind": "정기보고서",
-    "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814002200"
-  },
-  {
-    "company": "씨제이이엔엠",
-    "industry": "미디어",
-    "date": "20260814",
-    "title": "반기보고서 (2026.06)",
-    "kind": "정기보고서",
-    "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814002422"
-  },
-  {
-    "company": "스튜디오드래곤",
-    "industry": "미디어",
-    "date": "20260814",
-    "title": "반기보고서 (2026.06)",
-    "kind": "정기보고서",
-    "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814003033"
-  },
-  {
-    "company": "콘텐트리중앙",
-    "industry": "미디어",
-    "date": "20260814",
-    "title": "반기보고서 (2026.06)",
-    "kind": "정기보고서",
-    "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814004220"
-  },
-  {
-    "company": "에스비에스",
-    "industry": "미디어",
-    "date": "20260814",
-    "title": "반기보고서 (2026.06)",
-    "kind": "정기보고서",
-    "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814003339"
-  },
-  {
-    "company": "나스미디어",
-    "industry": "미디어",
-    "date": "20260814",
-    "title": "반기보고서 (2026.06)",
-    "kind": "정기보고서",
-    "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814003681"
-  },
-  {
-    "company": "케이티",
-    "industry": "통신",
-    "date": "20260814",
-    "title": "반기보고서 (2026.06)",
-    "kind": "정기보고서",
-    "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814003463"
-  },
-  {
-    "company": "엘지유플러스",
-    "industry": "통신",
-    "date": "20260814",
-    "title": "반기보고서 (2026.06)",
-    "kind": "정기보고서",
-    "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814001092"
-  },
-  {
-    "company": "네이버",
-    "industry": "IT",
-    "date": "20260814",
-    "title": "반기보고서 (2026.06)",
-    "kind": "정기보고서",
-    "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814002266"
-  },
-  {
-    "company": "카카오",
-    "industry": "IT",
-    "date": "20260814",
-    "title": "반기보고서 (2026.06)",
-    "kind": "정기보고서",
-    "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814003797"
-  },
-  {
-    "company": "두나무",
-    "industry": "IT",
-    "date": "20260814",
-    "title": "반기보고서 (2026.06)",
-    "kind": "정기보고서",
-    "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814003803"
-  },
-  {
-    "company": "야놀자",
-    "industry": "IT",
-    "date": "20260814",
-    "title": "반기보고서 (2026.06)",
-    "kind": "정기보고서",
-    "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814002264"
-  },
-  {
-    "company": "다우기술",
-    "industry": "IT",
-    "date": "20260814",
-    "title": "반기보고서 (2026.06)",
-    "kind": "정기보고서",
-    "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814003900"
-  },
-  {
-    "company": "다우데이타",
-    "industry": "IT",
-    "date": "20260814",
-    "title": "반기보고서 (2026.06)",
-    "kind": "정기보고서",
-    "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814004039"
-  },
-  {
-    "company": "이스트소프트",
-    "industry": "IT",
-    "date": "20260814",
-    "title": "[첨부추가]반기보고서 (2026.06)",
-    "kind": "정기보고서",
-    "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814002336"
-  },
-  {
-    "company": "삼성에스디에스",
-    "industry": "IT",
-    "date": "20260814",
-    "title": "반기보고서 (2026.06)",
-    "kind": "정기보고서",
-    "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814003604"
-  },
-  {
-    "company": "엘지씨엔에스",
-    "industry": "IT",
-    "date": "20260814",
-    "title": "반기보고서 (2026.06)",
-    "kind": "정기보고서",
-    "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814002448"
-  },
-  {
-    "company": "더존비즈온",
-    "industry": "IT",
-    "date": "20260814",
-    "title": "반기보고서 (2026.06)",
-    "kind": "정기보고서",
-    "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814004214"
-  },
-  {
-    "company": "엔에이치엔",
-    "industry": "IT",
-    "date": "20260814",
-    "title": "반기보고서 (2026.06)",
-    "kind": "정기보고서",
-    "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814003830"
-  },
-  {
-    "company": "비바리퍼블리카",
-    "industry": "IT",
-    "date": "20260814",
-    "title": "반기보고서 (2026.06)",
-    "kind": "정기보고서",
-    "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814003318"
-  },
-  {
-    "company": "카카오게임즈",
-    "industry": "게임",
-    "date": "20260813",
-    "title": "반기보고서 (2026.06)",
-    "kind": "정기보고서",
-    "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260813001508"
-  },
-  {
-    "company": "웹젠",
-    "industry": "게임",
-    "date": "20260813",
-    "title": "반기보고서 (2026.06)",
-    "kind": "정기보고서",
-    "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260813001462"
-  },
-  {
-    "company": "넥슨게임즈",
-    "industry": "게임",
-    "date": "20260813",
-    "title": "반기보고서 (2026.06)",
-    "kind": "정기보고서",
-    "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260813001154"
-  },
-  {
-    "company": "큐브엔터",
-    "industry": "엔터",
-    "date": "20260813",
-    "title": "반기보고서 (2026.06)",
-    "kind": "정기보고서",
-    "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260813001647"
-  },
-  {
-    "company": "인크로스",
-    "industry": "미디어",
-    "date": "20260813",
-    "title": "반기보고서 (2026.06)",
-    "kind": "정기보고서",
-    "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260813001007"
-  },
-  {
-    "company": "에스케이브로드밴드",
-    "industry": "통신",
-    "date": "20260813",
-    "title": "반기보고서 (2026.06)",
-    "kind": "정기보고서",
-    "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260813001762"
-  },
-  {
-    "company": "에스케이텔레콤",
-    "industry": "통신",
-    "date": "20260813",
-    "title": "반기보고서 (2026.06)",
-    "kind": "정기보고서",
-    "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260813001728"
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110000002"
   },
   {
     "company": "카페24",
     "industry": "IT",
-    "date": "20260813",
-    "title": "반기보고서 (2026.06)",
-    "kind": "정기보고서",
+    "date": "20261110",
+    "title": "주요사항보고서(자기주식취득신탁계약해지결정)",
+    "kind": "주요사항",
     "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260813001736"
-  },
-  {
-    "company": "슈프리마",
-    "industry": "IT",
-    "date": "20260813",
-    "title": "반기보고서 (2026.06)",
-    "kind": "정기보고서",
-    "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260813001588"
-  },
-  {
-    "company": "안랩",
-    "industry": "IT",
-    "date": "20260813",
-    "title": "반기보고서 (2026.06)",
-    "kind": "정기보고서",
-    "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260813000644"
-  },
-  {
-    "company": "컬리",
-    "industry": "IT",
-    "date": "20260812",
-    "title": "반기보고서 (2026.06)",
-    "kind": "정기보고서",
-    "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260812000464"
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110000296"
   },
   {
     "company": "카카오",
@@ -747,22 +504,193 @@
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260821000047"
   },
   {
-    "company": "무신사",
-    "industry": "IT",
-    "date": "20260813",
-    "title": "주요사항보고서(자기주식처분결정)",
-    "kind": "주요사항",
+    "company": "펄어비스",
+    "industry": "게임",
+    "date": "20261112",
+    "title": "연결재무제표기준영업(잠정)실적(공정공시)",
+    "kind": "실적",
     "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260813001369"
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112900686"
+  },
+  {
+    "company": "컴투스",
+    "industry": "게임",
+    "date": "20261112",
+    "title": "연결재무제표기준영업(잠정)실적(공정공시)",
+    "kind": "실적",
+    "topics": [],
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112900678"
+  },
+  {
+    "company": "더블유게임즈",
+    "industry": "게임",
+    "date": "20261112",
+    "title": "영업(잠정)실적(공정공시)",
+    "kind": "실적",
+    "topics": [],
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112800030"
+  },
+  {
+    "company": "더블유게임즈",
+    "industry": "게임",
+    "date": "20261112",
+    "title": "연결재무제표기준영업(잠정)실적(공정공시)",
+    "kind": "실적",
+    "topics": [],
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112800026"
+  },
+  {
+    "company": "네이버",
+    "industry": "IT",
+    "date": "20261112",
+    "title": "영업(잠정)실적(공정공시)",
+    "kind": "실적",
+    "topics": [],
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112800028"
+  },
+  {
+    "company": "네이버",
+    "industry": "IT",
+    "date": "20261112",
+    "title": "연결재무제표기준영업(잠정)실적(공정공시)",
+    "kind": "실적",
+    "topics": [],
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112800027"
+  },
+  {
+    "company": "엔씨소프트",
+    "industry": "게임",
+    "date": "20261111",
+    "title": "연결재무제표기준영업실적등에대한전망(공정공시)",
+    "kind": "실적",
+    "topics": [],
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261111800334"
+  },
+  {
+    "company": "엔씨소프트",
+    "industry": "게임",
+    "date": "20261111",
+    "title": "연결재무제표기준영업(잠정)실적(공정공시)",
+    "kind": "실적",
+    "topics": [],
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261111800311"
+  },
+  {
+    "company": "위메이드플레이",
+    "industry": "게임",
+    "date": "20261111",
+    "title": "연결재무제표기준영업(잠정)실적(공정공시)",
+    "kind": "실적",
+    "topics": [],
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261111900470"
+  },
+  {
+    "company": "위메이드",
+    "industry": "게임",
+    "date": "20261111",
+    "title": "연결재무제표기준영업(잠정)실적(공정공시)",
+    "kind": "실적",
+    "topics": [],
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261111900537"
   },
   {
     "company": "네오위즈",
     "industry": "게임",
-    "date": "20260812",
-    "title": "주요사항보고서(자기주식취득신탁계약체결결정)",
-    "kind": "주요사항",
+    "date": "20261111",
+    "title": "연결재무제표기준영업(잠정)실적(공정공시)",
+    "kind": "실적",
     "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260812000035"
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261111900039"
+  },
+  {
+    "company": "제이와이피엔터테인먼트",
+    "industry": "엔터",
+    "date": "20261111",
+    "title": "연결재무제표기준영업(잠정)실적(공정공시)",
+    "kind": "실적",
+    "topics": [],
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261111900490"
+  },
+  {
+    "company": "크래프톤",
+    "industry": "게임",
+    "date": "20261110",
+    "title": "연결재무제표기준영업(잠정)실적(공정공시)",
+    "kind": "실적",
+    "topics": [],
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110800492"
+  },
+  {
+    "company": "시프트업",
+    "industry": "게임",
+    "date": "20261110",
+    "title": "연결재무제표기준영업(잠정)실적(공정공시)",
+    "kind": "실적",
+    "topics": [],
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110800546"
+  },
+  {
+    "company": "데브시스터즈",
+    "industry": "게임",
+    "date": "20261110",
+    "title": "연결재무제표기준영업(잠정)실적(공정공시)",
+    "kind": "실적",
+    "topics": [],
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110900194"
+  },
+  {
+    "company": "케이티",
+    "industry": "통신",
+    "date": "20261110",
+    "title": "연결재무제표기준영업(잠정)실적(공정공시)",
+    "kind": "실적",
+    "topics": [],
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110800104"
+  },
+  {
+    "company": "케이티",
+    "industry": "통신",
+    "date": "20261110",
+    "title": "영업(잠정)실적(공정공시)",
+    "kind": "실적",
+    "topics": [],
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110800099"
+  },
+  {
+    "company": "엔에이치엔",
+    "industry": "IT",
+    "date": "20261110",
+    "title": "연결재무제표기준영업(잠정)실적(공정공시)",
+    "kind": "실적",
+    "topics": [],
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110800041"
+  },
+  {
+    "company": "엔에이치엔",
+    "industry": "IT",
+    "date": "20261110",
+    "title": "영업(잠정)실적(공정공시)",
+    "kind": "실적",
+    "topics": [],
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110800035"
+  },
+  {
+    "company": "와이지엔터테인먼트",
+    "industry": "엔터",
+    "date": "20261109",
+    "title": "연결재무제표기준영업(잠정)실적(공정공시)",
+    "kind": "실적",
+    "topics": [],
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261109900258"
+  },
+  {
+    "company": "나스미디어",
+    "industry": "미디어",
+    "date": "20261109",
+    "title": "영업(잠정)실적(공정공시)",
+    "kind": "실적",
+    "topics": [],
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261109900460"
   },
   {
     "company": "웹젠",
@@ -1222,140 +1150,5 @@
     "kind": "실적",
     "topics": [],
     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006800215"
-  },
-  {
-    "company": "위메이드플레이",
-    "industry": "게임",
-    "date": "20260812",
-    "title": "연결재무제표기준영업(잠정)실적(공정공시)",
-    "kind": "실적",
-    "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260812900504"
-  },
-  {
-    "company": "컴투스",
-    "industry": "게임",
-    "date": "20260812",
-    "title": "연결재무제표기준영업(잠정)실적(공정공시)",
-    "kind": "실적",
-    "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260812900071"
-  },
-  {
-    "company": "위메이드",
-    "industry": "게임",
-    "date": "20260812",
-    "title": "연결재무제표기준영업(잠정)실적(공정공시)",
-    "kind": "실적",
-    "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260812900664"
-  },
-  {
-    "company": "네오위즈",
-    "industry": "게임",
-    "date": "20260812",
-    "title": "연결재무제표기준영업(잠정)실적(공정공시)",
-    "kind": "실적",
-    "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260812900051"
-  },
-  {
-    "company": "더블유게임즈",
-    "industry": "게임",
-    "date": "20260812",
-    "title": "연결재무제표기준영업(잠정)실적(공정공시)",
-    "kind": "실적",
-    "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260812800023"
-  },
-  {
-    "company": "더블유게임즈",
-    "industry": "게임",
-    "date": "20260812",
-    "title": "영업(잠정)실적(공정공시)",
-    "kind": "실적",
-    "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260812800020"
-  },
-  {
-    "company": "제이와이피엔터테인먼트",
-    "industry": "엔터",
-    "date": "20260812",
-    "title": "연결재무제표기준영업(잠정)실적(공정공시)",
-    "kind": "실적",
-    "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260812900607"
-  },
-  {
-    "company": "케이티",
-    "industry": "통신",
-    "date": "20260812",
-    "title": "연결재무제표기준영업(잠정)실적(공정공시)",
-    "kind": "실적",
-    "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260812800090"
-  },
-  {
-    "company": "케이티",
-    "industry": "통신",
-    "date": "20260812",
-    "title": "영업(잠정)실적(공정공시)",
-    "kind": "실적",
-    "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260812800089"
-  },
-  {
-    "company": "엔씨소프트",
-    "industry": "게임",
-    "date": "20260811",
-    "title": "연결재무제표기준영업(잠정)실적(공정공시)",
-    "kind": "실적",
-    "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260811800245"
-  },
-  {
-    "company": "펄어비스",
-    "industry": "게임",
-    "date": "20260811",
-    "title": "연결재무제표기준영업실적등에대한전망(공정공시)",
-    "kind": "실적",
-    "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260811900977"
-  },
-  {
-    "company": "펄어비스",
-    "industry": "게임",
-    "date": "20260811",
-    "title": "연결재무제표기준영업(잠정)실적(공정공시)",
-    "kind": "실적",
-    "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260811900974"
-  },
-  {
-    "company": "시프트업",
-    "industry": "게임",
-    "date": "20260811",
-    "title": "연결재무제표기준영업(잠정)실적(공정공시)",
-    "kind": "실적",
-    "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260811800484"
-  },
-  {
-    "company": "엔에이치엔",
-    "industry": "IT",
-    "date": "20260811",
-    "title": "연결재무제표기준영업(잠정)실적(공정공시)",
-    "kind": "실적",
-    "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260811800022"
-  },
-  {
-    "company": "엔에이치엔",
-    "industry": "IT",
-    "date": "20260811",
-    "title": "영업(잠정)실적(공정공시)",
-    "kind": "실적",
-    "topics": [],
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260811800021"
   }
 ]
